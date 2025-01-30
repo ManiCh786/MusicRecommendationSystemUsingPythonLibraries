@@ -1,0 +1,1142 @@
+valence,year,acousticness,artists,danceability,duration_ms,energy,explicit,id,instrumentalness,key,liveness,loudness,mode,name,popularity,release_date,speechiness,tempo
+0.0594,1921,0.982,"['Sergei Rachmaninoff', 'James Levine', 'Berliner Philharmoniker']",0.279,831667,0.211,0,4BJqT0PrAfrxzMOxytFOIz,0.878,10,0.665,-20.096,1,"Piano Concerto No. 3 in D Minor, Op. 30: III. Finale. Alla breve",4,1921,0.0366,80.954
+0.963,1921,0.732,['Dennis Day'],0.819,180533,0.341,0,7xPhfUan2yNtyFG0cUWkt8,0,7,0.16,-12.441,1,Clancy Lowered the Boom,5,1921,0.415,60.936
+0.0394,1921,0.961,['KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat'],0.328,500062,0.166,0,1o6I8BglA6ylDMrIELygv1,0.913,3,0.101,-14.85,1,Gati Bali,5,1921,0.0339,110.339
+0.165,1921,0.967,['Frank Parker'],0.275,210000,0.309,0,3ftBPsC5vPBKxYSee08FDH,2.77E-05,5,0.381,-9.316,1,Danny Boy,3,1921,0.0354,100.109
+0.253,1921,0.957,['Phil Regan'],0.418,166693,0.193,0,4d6HGyGT8e121BsdKmw9v6,1.68E-06,3,0.229,-10.096,1,When Irish Eyes Are Smiling,2,1921,0.038,101.665
+0.196,1921,0.579,['KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat'],0.697,395076,0.346,0,4pyw9DVHGStUre4J6hPngr,0.168,2,0.13,-12.506,1,Gati Mardika,6,1921,0.07,119.824
+0.406,1921,0.996,['John McCormack'],0.518,159507,0.203,0,5uNZnElqOS3W4fRmRYPk4T,0,0,0.115,-10.589,1,The Wearing of the Green,4,1921,0.0615,66.221
+0.0731,1921,0.993,['Sergei Rachmaninoff'],0.389,218773,0.088,0,02GDntOXexBFUvSgaXLPkd,0.527,1,0.363,-21.091,0,"Morceaux de fantaisie, Op. 3: No. 2, Prélude in C-Sharp Minor. Lento",2,1921,0.0456,92.867
+0.721,1921,0.996,['Ignacio Corsini'],0.485,161520,0.13,0,05xDjWH9ub67nJJk82yfGf,0.151,5,0.104,-21.508,0,La Mañanita - Remasterizado,0,20/03/1921,0.0483,64.678
+0.771,1921,0.982,['Fortugé'],0.684,196560,0.257,0,08zfJvRLp7pjAb94MA9JmF,0,8,0.504,-16.415,1,Il Etait Syndiqué,0,1921,0.399,109.378
+0.826,1921,0.995,['Maurice Chevalier'],0.463,147133,0.26,0,0BMkRpQtDoKjcgzCpnqLNa,0,9,0.258,-16.894,1,Dans La Vie Faut Pas S'en Faire,0,1921,0.0557,85.146
+0.578,1921,0.994,['Ignacio Corsini'],0.378,155413,0.115,0,0F30WM8qRpO8kdolepZqdM,0.906,10,0.11,-27.039,0,Por Que Me Dejaste - Remasterizado,0,20/03/1921,0.0414,70.37
+0.493,1921,0.99,['Georgel'],0.315,190800,0.363,0,0H3k2CvJvHULnWChlbeFgx,0,5,0.292,-12.562,0,La Vipère,0,1921,0.0546,174.532
+0.212,1921,0.912,['Mehmet Kemiksiz'],0.415,184973,0.42,0,0LcXzABeA84EgudqpNUN1I,0.89,8,0.108,-10.766,0,Ud Taksimi,0,1921,0.114,70.758
+0.493,1921,0.0175,['Zay Gatsby'],0.527,205072,0.691,1,0MJZ4hh60zwsYleWWxT5yW,0.384,7,0.358,-7.298,1,Power Is Power,0,27/03/1921,0.0326,159.935
+0.282,1921,0.989,"['Sergei Rachmaninoff', 'Ruth Laredo']",0.384,221013,0.171,0,0NFeJgmTAV1kDfzSQNK41Z,0.82,7,0.116,-20.476,0,"10 Préludes, Op. 23: No. 5 in G Minor. Alla marcia",4,1921,0.0319,107.698
+0.218,1921,0.957,['Phil Regan'],0.259,186467,0.212,0,0Nk5f07H3JaEunGrYfbqHM,0.000222,2,0.236,-13.3,1,Come Back To Erin,1,1921,0.0358,85.726
+0.664,1921,0.996,"['Hector Berlioz', 'Arturo Toscanini']",0.541,250747,0.283,0,0POO8XaUgW5Qjbv9sbDy8W,0.898,9,0.393,-14.808,1,Rákóczy March,0,1921,0.0477,108.986
+0.0778,1921,0.148,['THE GUY'],0.604,204957,0.418,1,0QQmUf4aPFaN9U2yRko595,0.0382,4,0.102,-11.566,0,When We Die,0,11/9/1921,0.0417,80.073
+0.527,1921,0.971,['Christopher Lynch'],0.54,122000,0.0848,0,0QU5xT6Mik4vpyt1ItsRXK,0.00196,5,0.0887,-16.055,0,A Ballynure Ballad,0,1921,0.075,100.296
+0.672,1921,0.994,['Fortugé'],0.67,191333,0.113,0,0QvUUTHYUQQhSXLwffzjL7,0,10,0.213,-16.57,0,Je Suis Toujours La,0,1921,0.196,87.162
+0.24,1921,0.994,"['John McCormack', 'Edwin Schneider']",0.4,187333,0.155,0,0RPKAq5yhbom6hXQz5qo6L,4.33E-05,4,0.103,-13.976,1,Mother Machree,0,1921,0.0873,170.251
+0.422,1921,0.995,['Ignacio Corsini'],0.648,154240,0.0995,0,0SK1upzAP6NvIgF0uGh6z2,0.846,11,0.112,-22.429,1,Flor Marchita - Remasterizado,0,20/03/1921,0.105,71.978
+0.381,1921,0.995,['Hanende İbrahim Efendi'],0.223,158908,0.245,0,0UqiUmGDlhL0A0pmLxafn4,0.876,7,0.354,-14.387,1,İmtidadı Aşkıma,0,18/12/1921,0.0387,142.136
+0.41,1921,0.97,['Mehmet Kemiksiz'],0.269,86988,0.143,0,0VhIFYGSpY0Z8IAIA3C6bX,0.469,4,0.166,-9.003,1,Ney Taksimi,0,1921,0.0413,141.386
+0.0731,1921,0.993,['Sergei Rachmaninoff'],0.389,218773,0.088,0,0eQsdik7GTEy7M3UytCbSN,0.527,1,0.363,-21.091,0,"Morceaux de fantaisie, Op. 3: No. 2, Prélude in C-Sharp Minor. Lento",0,1921,0.0456,92.867
+0.678,1921,0.996,['Maurice Chevalier'],0.5,181733,0.274,0,0i7MdVu0tNEyUdgpCBilKe,0,2,0.302,-14.001,1,Je M'donne,0,1921,0.041,79.218
+0.723,1921,0.388,['Mehmet Kemiksiz'],0.685,155063,0.698,0,0osXBirvQzPRfKSUDzHPCv,1.97E-06,4,0.0768,-8.184,0,Korkma Sönmez,0,1921,0.0421,133.951
+0.792,1921,0.99,['Fortugé'],0.665,203800,0.231,0,0qt9g8zf2ZiQhy3FIx89xA,0,2,0.287,-14.116,1,La Victoire De La Madelon,0,1921,0.155,129.671
+0.425,1921,0.992,['Ignacio Corsini'],0.286,130200,0.177,0,0sIGoVO1yuIfpikLaKqqVY,0.932,7,0.11,-25.772,1,Por Ella - Remasterizado,0,20/03/1921,0.0431,167.352
+0.403,1921,0.992,['Ignacio Corsini'],0.332,166987,0.179,0,0y3F8OUDFuB5bpWpXnQi7n,4.41E-06,0,0.432,-20.937,1,A Mi Palomita - Remasterizado,0,20/03/1921,0.0443,75.704
+0.614,1921,0.991,['Ignacio Corsini'],0.484,159013,0.215,0,0yKcdafy64xX9n1ant34Ry,0.000546,4,0.137,-22.223,0,Amurado Me Dejaste - Remasterizado,0,20/03/1921,0.106,76.277
+0.185,1921,0.505,['KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat'],0.233,686664,0.00817,0,0yxeAe7MlS0UWZVdNZVZWw,0.000203,8,0.109,-37.311,1,Raja Manggala,5,1921,0.0305,108.143
+0.47,1921,0.766,['Mehmet Kemiksiz'],0.453,337607,0.559,0,107JTiqeqxj5P0ocypagMK,0.0104,9,0.213,-8.072,1,Eşin Var âşiyâ Var,1,1921,0.0329,156.077
+0.161,1921,0.384,['Mehmet Kemiksiz'],0.65,187977,0.443,0,17gxBcWBIkEFUZA0vN5khu,0,6,0.375,-9.478,0,Bir Zamanlar Bizde Millet,0,1921,0.0334,130.009
+0.791,1921,0.991,"['Ermanno Wolf-Ferrari', 'Arturo Toscanini']",0.465,151187,0.284,0,18BvzCRC1jeAsj1U70YuRy,0.0225,9,0.146,-17.776,1,Overture,0,1921,0.0591,98.336
+0.0608,1921,0.975,['KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat'],0.37,401058,0.196,0,1OicZEUVSwpiAosSQm16D8,0.945,4,0.143,-15.531,1,Gati Main-main,1,1921,0.0449,116.65
+0.077,1921,0.994,"['Sergei Rachmaninoff', 'Ruth Laredo']",0.248,117467,0.0876,0,1Pb4ebTZ4t8erRbLPPb8Pk,0.907,5,0.165,-25.786,1,"6 Songs, Op. 38: No. 3, Daisies (Version for Piano)",1,1921,0.0566,82.025
+0.651,1921,0.992,['Maurice Chevalier'],0.522,170627,0.29,0,1RgXfAX9PrSfTKTFvOQxPR,0,0,0.381,-12.194,0,Je N'peux Pas Vivre Sans Amour,0,1921,0.0522,92.707
+0.0594,1921,0.982,"['Sergei Rachmaninoff', 'James Levine', 'Berliner Philharmoniker']",0.279,831667,0.211,0,1SCWBjhk5WmXPxhDduD3HM,0.878,10,0.665,-20.096,1,"Piano Concerto No. 3 in D Minor, Op. 30: III. Finale. Alla breve",1,1921,0.0366,80.954
+0.544,1921,0.185,['THE GUY'],0.577,404062,0.422,1,1T2NGVgAoXjQPEjxTGFRZV,0.0349,1,0.178,-11.108,1,Love for Guns,0,11/9/1921,0.0575,79.997
+0.257,1921,0.969,['Christopher Lynch'],0.344,120067,0.131,0,1W2ONoo3OZW5opytgqpYdE,0,10,0.145,-14.261,0,Just A Little Bit Of Heaven,0,1921,0.0616,178.212
+0.525,1921,0.258,['Mehmet Kemiksiz'],0.689,145371,0.537,0,1WOXWCjKZzJJRSMJcrLrK1,4.40E-06,1,0.0468,-9.843,0,Ey Bülbül-i Ter Zebân-i İrf,0,1921,0.0282,107.84
+0.449,1921,0.765,['Mehmet Kemiksiz'],0.474,256731,0.398,0,1Wy1BuvVlkZWsfSge0dp9Q,0.00368,11,0.202,-9.565,1,Doksan Senelik Ömre İlâhi,0,1921,0.0309,75.931
+0.205,1921,0.965,['Dennis Day'],0.278,177067,0.251,0,1Ybjz5mMnE0hJbkB8n7V80,2.32E-06,5,0.111,-11.139,1,Galway Bay,0,1921,0.0371,69.901
+0.536,1921,0.991,"['Wolfgang Amadeus Mozart', 'Arturo Toscanini']",0.371,248507,0.0742,0,1oOI1MEkrpbnMCRSK5vGZ1,0.0167,3,0.385,-20.093,1,"Symphony No. 39 in E-Flat Major, K. 543: III. Menuetto",0,1921,0.0362,138.376
+0.752,1921,0.709,['Mehmet Kemiksiz'],0.516,249652,0.576,0,1qmXkw1WhSvvIL5IqBnW82,0.226,6,0.11,-7.197,0,Kasr-ı Gülşen,0,1921,0.0303,123.853
+0.537,1921,0.993,['Ignacio Corsini'],0.396,198200,0.158,0,1s6QwBiqGcedNZnld0OIJV,0.738,3,0.115,-24.309,0,Un Lamento - Remasterizado,0,20/03/1921,0.0734,134.614
+0.0348,1921,0.849,"['Sergei Rachmaninoff', 'Yuri Temirkanov', 'St. Petersburg Philharmonic Orchestra']",0.0663,537733,0.0257,0,1xGx91Ks3RQFqyam0Fdrky,0.956,6,0.0709,-31.134,0,"No. 14, Vocalise",1,1921,0.0472,74.282
+0.275,1921,0.597,['Mehmet Kemiksiz'],0.508,124787,0.5,0,1zBcLIHAqpBlL8gAJ5Cxa7,4.49E-06,0,0.254,-7.805,1,Yâ Râb Bu Uğursuz Gecenin Yok mu Sabahı -,0,1921,0.0345,127.969
+0.647,1921,0.976,"['Felix Mendelssohn', 'Arturo Toscanini']",0.301,269680,0.233,0,273hgBmjqe8KSxmWHyyPAD,0.205,7,0.211,-24.463,0,"A Midsummer Night's Dream, Op. 61: Scherzo",0,1921,0.0449,86.27
+0.558,1921,0.996,['Ignacio Corsini'],0.655,178347,0.119,0,27LYINFAjaKGMWQc6EfAtT,0.474,11,0.143,-22.774,1,Mis Harapos - Remasterizado,0,20/03/1921,0.127,106.511
+0.194,1921,0.983,['Christopher Lynch'],0.213,191200,0.185,0,2Bj1dMObcYNFt75znIEtWa,2.64E-05,3,0.189,-14.138,1,The Rose Of Tralee,0,1921,0.0372,165.137
+0.0379,1921,0.992,"['Sergei Rachmaninoff', 'Zubin Mehta', 'Vladimir Feltsman', 'Israel Philharmonic Orchestra']",0.241,167867,0.109,0,2Cfk7LOOiTLVxe9BNoGGCL,0.853,1,0.0771,-19.286,1,"Rhapsody on a Theme of Paganini, Op. 43: Var. XVIII, Andante cantabile",4,1921,0.0377,79.974
+0.222,1921,0.982,['Morton Downey'],0.363,163627,0.12,0,2CkM2wcBtqG796dZeZJhPk,1.75E-05,7,0.355,-14.037,1,Where The River Shannon Flows,1,1921,0.0452,82.315
+0.959,1921,0.951,['Louis Boucot'],0.823,169267,0.329,0,2EV71z9RFz15SDR8WezEXG,0,5,0.0646,-12.853,1,Une Canne Et Des Gants,0,1921,0.143,119.061
+0.619,1921,0.956,['Ignacio Corsini'],0.293,155987,0.232,0,2F9giG3Sziq3kJJl9n0GJi,0.712,5,0.109,-20.828,0,Lamento - Remasterizado,0,20/03/1921,0.0679,87.417
+0.524,1921,0.995,['Ignacio Corsini'],0.334,174960,0.147,0,2GdUG0kUEGNkM4J3scYyu8,0.258,7,0.101,-23.214,1,Al Pie de la Reja - Remasterizado,0,20/03/1921,0.0486,135.111
+0.538,1921,0.757,['Mehmet Kemiksiz'],0.55,158642,0.515,0,2MtcWKwc16dqFqdM7v1WST,0.0126,11,0.375,-6.064,0,Şu Boğaz Harbi Nedir,0,1921,0.0336,123.983
+0.233,1921,0.866,['Thomas Hallsten Paine'],0.312,141000,0.175,0,2OE3f5tu6Pd9beS0WWmQ7Z,0,2,0.366,-14.145,1,April Showers,0,1921,0.0347,117.609
+0.072,1921,0.923,['KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat'],0.396,378070,0.3,0,2OlwTxNQ9kSkbPFC7tQN5x,0.61,9,0.135,-11.768,1,Gati Hendrakusuma,2,1921,0.0353,110.746
+0.234,1921,0.992,"['Ildebrando Pizzetti', 'Arturo Toscanini']",0.251,207800,0.275,0,2WlMjnZIthzqfwYVHh6zbj,0.785,9,0.294,-17.295,0,II. Le quai du porte de Famagouste,0,1921,0.0371,94.264
+0.231,1921,0.653,['KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat'],0.727,301357,0.0116,0,2X6BN8RXjr4ArIEhjGa6QV,3.78E-05,3,0.204,-32.959,0,Tedhak Saking,2,1921,0.22,132.413
+0.574,1921,0.995,['Alice Cocéa'],0.514,172133,0.256,0,2aCCdTBcNmbcplMO66UAvU,0,0,0.349,-15.145,1,Si J'avais Su,0,1921,0.0871,79.467
+0.186,1921,0.994,"['Sergei Rachmaninoff', 'Ruth Laredo']",0.263,132400,0.0536,0,2aMQAP0h9Qww5KAkMdag3L,0.927,8,0.098,-28.147,1,"12 Songs, Op. 21: No. 5, Lilacs (Version for Piano)",1,1921,0.0386,129.365
+0.0769,1921,0.935,['KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat'],0.36,414067,0.145,0,2c6cN8mcYzqvFbLnzuPI4K,0.384,6,0.0903,-17.269,0,Gati Mares,2,1921,0.0383,110.354
+0.552,1921,0.994,['André Urban'],0.426,177733,0.226,0,2ikGmgf43Y10bp5J7IF9QU,0,9,0.235,-16.126,1,Elle Porte Un Nom Charmant,0,1921,0.0693,73.63
+0.287,1921,0.988,"['Gaetano Donizetti', 'Arturo Toscanini']",0.341,388867,0.139,0,2jy7vkWNflSApGQ7b6ziA6,0.114,2,0.304,-19.399,1,Overture,0,1921,0.0643,68.031
+0.274,1921,0.793,['Mehmet Kemiksiz'],0.199,324859,0.377,0,2koVN4vxAXOmaqILK5Kbbs,1.96E-06,1,0.112,-8.668,0,Bakma Kabristanın Saha-i Medhûşuna,0,1921,0.0421,180.181
+0.197,1921,0.975,['Christopher Lynch'],0.418,151840,0.0904,0,2ksYHAsGBLxAupsni2QeNw,2.64E-06,8,0.112,-13.871,1,The Minstrel Boy,0,1921,0.0408,52.008
+0.891,1921,0.994,['Mistinguett'],0.611,160373,0.297,0,2lgAz3rSTLcqyVj2fJsIzo,0,0,0.421,-15.801,1,Une Femme Qui Passe,1,1921,0.0661,122.476
+0.197,1921,0.987,['Morton Downey'],0.423,187360,0.0926,0,2oWQOXbtHpvswlcWeJYe7P,2.74E-05,3,0.343,-13.854,1,My Wild Irish Rose,0,1921,0.0437,105.365
+0.817,1921,0.99,['Darüttalim-i Musiki Heyeti'],0.38,192601,0.525,0,2t5UabjiPwVUXJtcpRHreq,0.94,1,0.438,-12.112,0,Şehnaz Longa,0,20/02/1921,0.0432,136.156
+0.0447,1921,0.922,['KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat'],0.27,494054,0.266,0,2tDwnNWXjupxNEjTTb9qDQ,0.802,9,0.0938,-11.077,1,Gati Kridha,2,1921,0.0323,100.771
+0.0358,1921,0.943,['KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat'],0.212,416052,0.215,0,2xJPXDxhBbcI8d4KraRJmT,0.442,3,0.1,-13.368,1,Gati Padasih,2,1921,0.0392,65.926
+0.115,1921,0.896,['KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat'],0.476,544052,0.677,0,2xMpQnfWIgRFjzrRXOl4zT,0.644,4,0.4,-11.628,1,Gati Harjuna Mangsah,4,1921,0.108,116.572
+0.25,1921,0.478,['KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat'],0.28,546033,0.0294,0,2xRAzeh9R6zNdXdVhCXMxj,0.00569,2,0.0439,-28.522,0,Prabu Mataram,5,1921,0.0324,106.083
+0.29,1921,0.465,['KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat'],0.758,255378,0.0148,0,35eVH8c7u6LGwyksBGMQCp,1.94E-05,0,0.349,-30.842,0,Sri Kondur,2,1921,0.133,77.031
+0.33,1921,0.995,['Hanende İbrahim Efendi'],0.264,155633,0.287,0,38iWg7IcG1EXrxbibvq8Ox,0.935,2,0.248,-13.323,1,Ne İçin Mahzun,0,18/12/1921,0.0356,74.301
+0.767,1921,0.995,['Maurice Chevalier'],0.517,169173,0.271,0,39ZYlUAoqyE05y7rsfeivo,0,6,0.368,-15.487,0,Pour Bien Reussir Dans La Chaussure,0,1921,0.0551,90.39
+0.0443,1921,0.982,['KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat'],0.316,460069,0.15,0,3C8IMx8BgWGiQE9bIuqCvP,0.909,9,0.093,-14.79,1,Gati Kumencar,1,1921,0.0333,99.526
+0.0515,1921,0.973,"['Sergei Rachmaninoff', 'Michael Tilson Thomas', 'Barry Douglas', 'London Symphony Orchestra']",0.2,673733,0.0916,0,3Dx6MiHU13YcyVf6FADqjC,0.875,5,0.0756,-22.312,0,III. Allegro scherzando,0,1921,0.0376,65.211
+0.43,1921,0.994,['Ignacio Corsini'],0.382,162907,0.105,0,3EOZYPETcAbvpB270WnGIx,0.48,11,0.107,-23.237,0,Recordando - Remasterizado,0,20/03/1921,0.0408,91.581
+0.354,1921,0.985,['Marcelly'],0.314,159467,0.281,0,3I8393MR3DWSprtxgpZMoy,6.37E-05,0,0.134,-13.337,0,La Chanson Des Yeux Clos,0,1921,0.0648,78.811
+0.077,1921,0.994,"['Sergei Rachmaninoff', 'Ruth Laredo']",0.248,117467,0.0876,0,3Jsx93Aim5jr96396tgDt7,0.907,5,0.165,-25.786,1,"6 Songs, Op. 38: No. 3, Daisies (Version for Piano)",0,1921,0.0566,82.025
+0.192,1921,0.993,['John McCormack'],0.393,255800,0.156,0,3Po8aZhKXPvBlWZFevIrI5,4.85E-06,7,0.102,-15.013,1,Kathleen Mavourneen,0,1921,0.0458,136.295
+0.318,1921,0.991,"['Ludwig van Beethoven', 'Arturo Toscanini']",0.305,522667,0.273,0,3WV2AlpIn96bzLkkZ7RNob,0.0746,0,0.377,-16.778,1,IV. Allegro,0,1921,0.0386,82.801
+0.282,1921,0.989,"['Sergei Rachmaninoff', 'Ruth Laredo']",0.384,221013,0.171,0,3XooVMkWzhrHdPQyi46sl6,0.82,7,0.116,-20.476,0,"10 Préludes, Op. 23: No. 5 in G Minor. Alla marcia",0,1921,0.0319,107.698
+0.0779,1921,0.588,['THE GUY'],0.341,323840,0.256,1,3YVy92W44JmU6KeF6UMldm,0.157,9,0.105,-16.012,1,Tigers,0,11/9/1921,0.0461,121.051
+0.433,1921,0.987,"['Ludwig van Beethoven', 'Arturo Toscanini']",0.544,269547,0.259,0,3YWrfsNGrZNsC270jMiBad,0.0532,0,0.139,-17.458,1,IV. Finale. Adagio - Allegro molto e vivace,0,1921,0.0437,78.29
+0.716,1921,0.978,['Georgius'],0.502,158173,0.403,0,3ZlvfjWLxFqfOGK2FTR2ph,0,7,0.255,-16.814,1,Un Agent Courait,0,1921,0.466,67.883
+0.603,1921,0.992,['Ignacio Corsini'],0.464,196507,0.154,0,3d3nDmLDOck1Nucaflpoqt,0.9,4,0.112,-25.444,1,Tortolita y Chingolo - Remasterizado,0,20/03/1921,0.192,85.405
+0.598,1921,0.995,['Ignacio Corsini'],0.496,166280,0.124,0,3g6M4eAkVgMnFeJdWUSavX,0.0986,11,0.231,-21.261,0,Santos Vega - Remasterizado,0,20/03/1921,0.0505,82.858
+0.036,1921,0.896,"['Sergei Rachmaninoff', 'Yuri Temirkanov', 'St. Petersburg Philharmonic Orchestra']",0.16,805400,0.0521,0,3ifqMMzDlh6wLRzjLOMTdQ,0.846,9,0.114,-23.652,1,III. Adagio,0,1921,0.0398,86.736
+0.429,1921,0.983,['Ignacio Corsini'],0.366,171213,0.231,0,3nX4gFJqhxKT61sYkB029F,0.905,4,0.112,-24.963,1,Pobre Mi China - Remasterizado,0,20/03/1921,0.283,63.241
+0.173,1921,0.992,['Morton Downey'],0.38,170240,0.117,0,3tEwdlwf8ZrxpksJorI5Tc,1.14E-06,7,0.105,-13.298,1,That's How You Spell Ireland,0,1921,0.0415,86.493
+0.219,1921,0.672,['Mehmet Kemiksiz'],0.403,396356,0.385,0,47LO5zrjx6ShMymLqp80ef,0.000339,11,0.211,-6.507,0,Şühedâ Gövdesi Bir Baksana Dağlar Taşlar,0,1921,0.0315,123.839
+0.919,1921,0.959,['Morton Downey'],0.829,153827,0.333,0,4BWXQSxvAa73YTLVLlMtGp,0.000362,5,0.0841,-11.895,1,It's the Same Old Shillelegh,0,1921,0.103,132.606
+0.451,1921,0.995,['Ignacio Corsini'],0.592,168053,0.0322,0,4Rv29R4ydhHN9tYPfrZxTz,0.0573,5,0.297,-25.844,0,China Hereje - Remasterizado,0,20/03/1921,0.209,69.958
+0.406,1921,0.447,['THE GUY'],0.708,279171,0.544,1,4SU8RBlxrOtlHjkUxkpDCY,0.0375,0,0.0733,-8.124,1,Don't Run,0,11/9/1921,0.0316,120
+0.657,1921,0.995,['Robert Jysor'],0.421,187933,0.231,0,4Zu1Kr6zfR04pETJbFh7Ox,2.62E-06,0,0.273,-15.493,1,Dolorosa,0,1921,0.0528,82.769
+0.212,1921,0.941,['Dennis Day'],0.241,196307,0.274,0,4aVy85Y2sxMwIKmAcimHp0,7.53E-06,0,0.0984,-9.75,0,How Can You Buy Killarny,0,1921,0.0297,90.773
+0.286,1921,0.994,['Safiye Ayla'],0.362,182335,0.315,0,4cAxCLjPLojDKuihPNLiCJ,0.636,2,0.38,-14.111,1,Perestij,0,12/4/1921,0.0646,91.551
+0.463,1921,0.992,['Mistinguett'],0.546,159160,0.275,0,4hrY1sE4ZumfoFLYGr6prg,0,5,0.224,-18.119,1,Oui Non,0,1921,0.309,80.57
+0.186,1921,0.994,"['Sergei Rachmaninoff', 'Ruth Laredo']",0.263,132400,0.0536,0,4i1aZH9CQyvsWtOulh6mbF,0.927,8,0.098,-28.147,1,"12 Songs, Op. 21: No. 5, Lilacs (Version for Piano)",0,1921,0.0386,129.365
+0.0718,1921,0.941,['KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat'],0.314,524069,0.209,0,4jFzCDBChPFeun3uO9K9nM,0.473,3,0.0979,-14.655,1,Gati Helmus,2,1921,0.033,107.781
+0.511,1921,0.95,['Christopher Lynch'],0.607,163200,0.138,0,4mtn0J6yvxJMPA0euDFQ6g,0,3,0.114,-15.683,1,I Met Her In The Garden Where The Praties Grow,0,1921,0.157,113.282
+0.272,1921,0.104,['THE GUY'],0.605,133669,0.329,1,4rkLztWpftdp6wJXtwmNWP,0.0923,11,0.334,-11.636,0,I Don't Need You,0,11/9/1921,0.0354,79.934
+0.918,1921,0.834,['Dennis Day'],0.661,167027,0.489,0,4v8CkyrDdgtgqkssZwaDe8,0,10,0.186,-11.043,1,St. Patrick's Day Parade,1,1921,0.103,125.023
+0.637,1921,0.993,['Ignacio Corsini'],0.367,174827,0.192,0,4wJ5bBGKlrH3rogJEGELAu,0.947,6,0.152,-23.92,1,Popular Tradición de Esta Tierra - Remasterizado,0,20/03/1921,0.296,83.11
+0.775,1921,0.996,['Maurice Chevalier'],0.526,153973,0.247,0,4wX1xtFyqlhBMBX7xaOfNB,0,2,0.116,-13.68,1,Avec Le Sourire,0,1921,0.0483,83.837
+0.0944,1921,0.964,['KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat'],0.271,490057,0.285,0,4yhXZDEdOZIDgXvu7e5RyT,0.948,8,0.105,-12.916,1,Gati Brangta,2,1921,0.0342,127.938
+0.0513,1921,0.99,"['Sergei Rachmaninoff', 'János Starker']",0.158,355200,0.0135,0,4zNQOx4Y12lNIY1JfoSbCg,0.789,3,0.0761,-31.06,1,III. Andante,0,1921,0.038,67.377
+0.729,1921,0.986,['Fred Gouin'],0.509,187493,0.16,0,5BOwFPKyqp63iWotfOgxqZ,0,2,0.116,-12.68,1,Colombinella,0,1921,0.0572,109.296
+0.73,1921,0.948,['Ignacio Corsini'],0.348,163533,0.345,0,5FfgNwdEMR9buAFPnDAfwM,0.856,6,0.11,-21.624,0,El Ultimo Adiós - Remasterizado,0,20/03/1921,0.0654,65.854
+0.0513,1921,0.99,"['Sergei Rachmaninoff', 'János Starker']",0.158,355200,0.0135,0,5GdglyuPh8z69eZ545uBNO,0.789,3,0.0761,-31.06,1,III. Andante,1,1921,0.038,67.372
+0.484,1921,0.994,"['Jules Massenet', 'Arturo Toscanini']",0.508,262720,0.147,0,5PgH6AAb9dKTHPsvJrOALq,0.000828,2,0.241,-18.392,1,IV. Fête bohème,0,1921,0.0487,128.518
+0.589,1921,0.994,['Simone Judic'],0.355,151200,0.199,0,5Yknrra9N4AKkm6BP6jHpU,0.000154,1,0.236,-16.714,1,Billets Doux,0,1921,0.053,173.13
+0.374,1921,0.988,"['Ottorino Respighi', 'Arturo Toscanini']",0.301,240533,0.0953,0,5ZMgYvzelw6ALor5G54Wjw,0.0757,2,0.374,-18.424,1,II. Gagliarda,0,1921,0.0314,75.179
+0.0308,1921,0.987,"['Sergei Rachmaninoff', 'Emanuel Ax', 'Yefim Bronfman']",0.292,385667,0.0769,0,5bQh5CYt4ugpKGr0CqgUP4,0.873,2,0.067,-24.999,1,"Suite No. 1, Op. 5 ""Fantaisie-tableaux"": II. La nuit? L'amour",0,1921,0.0393,69.601
+0.189,1921,0.952,['Phil Regan'],0.32,189373,0.249,0,5fqW6tFvvvWwh1DvIM8T0K,0.000424,1,0.12,-9.853,1,A Sweet Irish Sweetheart Of Mine,1,1921,0.0342,93.765
+0.0379,1921,0.992,"['Sergei Rachmaninoff', 'Zubin Mehta', 'Vladimir Feltsman', 'Israel Philharmonic Orchestra']",0.241,167867,0.109,0,5jaZaDPkmw0zrju8ykIo1V,0.853,1,0.0771,-19.286,1,"Rhapsody on a Theme of Paganini, Op. 43: Var. XVIII, Andante cantabile",0,1921,0.0377,79.974
+0.0388,1921,0.967,['KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat'],0.39,354064,0.13,0,5oBrfFrhnPn207qrhS0m0s,0.867,3,0.183,-15.466,1,Gati Mrak Ati,1,1921,0.0355,115.774
+0.574,1921,0.988,['Fortugé'],0.624,180227,0.13,0,5onW5WGJnE76uwRQN8fo2V,0,7,0.323,-15.988,1,Dans Sa Petite Mansarde,0,1921,0.17,78.28
+0.458,1921,0.994,"['Wolfgang Amadeus Mozart', 'Arturo Toscanini']",0.38,220867,0.304,0,5qf7z7H2ehaBtJmUd4h4pV,0.681,3,0.4,-18.47,1,"Symphony No. 39 in E-Flat Major, K. 543: IV. Finale. Allegro",0,1921,0.0451,147.681
+0.0515,1921,0.973,"['Sergei Rachmaninoff', 'Michael Tilson Thomas', 'Barry Douglas', 'London Symphony Orchestra']",0.2,673733,0.0916,0,5tWNbOrkJON8fcBoIzPru7,0.875,5,0.0756,-22.312,0,III. Allegro scherzando,2,1921,0.0376,65.211
+0.036,1921,0.896,"['Sergei Rachmaninoff', 'Yuri Temirkanov', 'St. Petersburg Philharmonic Orchestra']",0.16,805400,0.0521,0,5w0UyOkp8IjkKMwNlaNLol,0.846,9,0.114,-23.652,1,III. Adagio,2,1921,0.0398,86.736
+0.0542,1921,0.951,['KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat'],0.255,454060,0.192,0,6QDEivvdUMxH42QVxfSsSK,0.0381,3,0.245,-15.753,1,Gati Lumaksana,2,1921,0.0379,98.729
+0.191,1921,0.0169,['THE GUY'],0.713,224287,0.42,1,6T9dM3UsHEkXv5Q6diEm3r,0.488,7,0.107,-11.957,0,Return/Gone,0,11/9/1921,0.0322,119.973
+0.683,1921,0.589,['Mehmet Kemiksiz'],0.625,199393,0.587,0,6YBqmlodT9LcejuGTaIWZC,0,6,0.404,-7.052,0,Beyaz Entarisiyle Kar Gibi Kız,0,1921,0.0353,136.951
+0.64,1921,0.167,['Mehmet Kemiksiz'],0.623,244898,0.655,0,6lwygJ9iQV6NNOQh1Gn3Gb,0.00418,1,0.0891,-7.54,0,Baksana Kim Boynu Bükük Ağlayan,0,1921,0.0425,126.859
+0.378,1921,0.995,['Neyzen İhsan Bey'],0.398,211851,0.162,0,6ncKDX6CBB2CBtZWGeEEDK,0.799,2,0.375,-18.142,0,Sabah Taksim,0,20/02/1921,0.241,71.599
+0.0308,1921,0.987,"['Sergei Rachmaninoff', 'Emanuel Ax', 'Yefim Bronfman']",0.292,385667,0.0769,0,6o36ekDgoZZJFPiKw6Ufef,0.873,2,0.067,-24.999,1,"Suite No. 1, Op. 5 ""Fantaisie-tableaux"": II. La nuit? L'amour",3,1921,0.0393,69.601
+0.0737,1921,0.693,['KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat'],0.29,380056,0.283,0,6oXKID9RCMj3y2Dee57FNP,0.46,9,0.142,-12.114,1,Gati Sangaskara,1,1921,0.0349,129.828
+0.759,1921,0.995,['Georgius'],0.561,154000,0.367,0,6rQflsrQLKpV3RY78jOWhp,0,9,0.34,-15.549,1,Pour Se Faire Remarquer,0,1921,0.354,75.554
+0.667,1921,0.995,['Ignacio Corsini'],0.323,162333,0.111,0,6z1LtPEtDYQX6S2V0bMKga,0.781,5,0.102,-24.571,0,Mis Ilusiones Perdidas - Remasterizado,0,20/03/1921,0.0418,99.349
+0.792,1921,0.95,['Morton Downey'],0.668,165907,0.2,0,72tqohY1oMA5n1vdHvWNZ5,0,8,0.153,-14.985,1,Molly Brannigan,1,1921,0.157,140.791
+0.306,1921,0.995,"['Felix Mendelssohn', 'Arturo Toscanini']",0.456,252467,0.0923,0,7AIjpopQN5ojA2KXCqCKP3,0.0526,0,0.275,-18.975,1,"A Midsummer Night's Dream, Op. 61: Wedding March",0,1921,0.0374,76.428
+0.061,1921,0.977,['KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat'],0.277,464065,0.143,0,7D97NlUR1DwwNRSbZD0ei0,0.885,9,0.159,-13.089,1,Gati Mardawa,1,1921,0.0302,99.407
+0.551,1921,0.9,['Emma Liebel'],0.371,162467,0.454,0,7FOdz0ddtjeG7WREJQOVa1,0,6,0.332,-15.691,1,La Femme A La Rose,0,1921,0.0781,110.567
+0.0515,1921,0.971,['KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat'],0.264,448052,0.22,0,7GH0i9aPD7ZGNxoIVS4Fhf,0.922,8,0.0894,-13.305,1,Gati Raja,2,1921,0.0328,111.811
+0.533,1921,0.995,['Ignacio Corsini'],0.374,144827,0.122,0,7LZfPBcXlGnMlhXuTgpH5Z,0.881,7,0.101,-25.462,0,La Muerte de Milonguita - Remasterizado,0,20/03/1921,0.0981,69.889
+0.0494,1921,0.916,['KHP Kridhamardawa Karaton Ngayogyakarta Hadiningrat'],0.261,496065,0.164,0,7agPeo1jNiA5OEXGFDzl7I,0.0574,9,0.104,-11.019,1,Gati Wiwaha,1,1921,0.0331,105.664
+0.3,1921,0.772,"[""Scarlet D'Carpio""]",0.56,249370,0.313,0,7b4eHImKQ51DYaQvNTdtEp,4.52E-06,6,0.115,-8.346,0,Himno Nacional del Perú,0,23/09/1921,0.0376,107.501
+0.0348,1921,0.849,"['Sergei Rachmaninoff', 'Yuri Temirkanov', 'St. Petersburg Philharmonic Orchestra']",0.0663,537733,0.0257,0,7j8gfyLLffcs9pL4ig7aCf,0.956,6,0.0709,-31.134,0,"No. 14, Vocalise",0,1921,0.0472,74.282
+0.658,1921,0.993,"['Georges Bizet', 'Arturo Toscanini']",0.528,181293,0.355,0,7sp9mMFEXppoWclAC6v3wJ,0.0362,2,0.275,-16.665,1,IV. Farandole,0,1921,0.0676,95.69
+0.689,1921,0.995,['Maurice Chevalier'],0.408,138600,0.242,0,7vlnvBX2t1eYdgVNkoremm,1.31E-05,8,0.546,-16.626,1,Quand Il Y A Une Femme Dans Un Coin,0,1921,0.0722,79.072
+0.534,1921,0.995,['Ignacio Corsini'],0.587,184200,0.158,0,7wTMgZPCxgSurQmcETTvR4,0.224,10,0.69,-22.643,1,La Brisa - Remasterizado,0,20/03/1921,0.208,130.317
+0.659,1921,0.996,['Ignacio Corsini'],0.514,139507,0.127,0,7xeH7l1BpezoHDCerjLBIe,0.958,0,0.109,-26.264,1,La Payasa - Remasterizado,0,20/03/1921,0.0688,69.873
+0.512,1921,0.984,"['Georges Bizet', 'Arturo Toscanini']",0.441,139533,0.2,0,7zph0VMbYl7KoqReyowKiv,0.598,10,0.178,-19.763,1,Aragonaise (Act IV Entr'acte),0,1921,0.0392,124.762
+0.127,1922,0.674,['Uli'],0.645,126903,0.445,0,35iwgR4jXetI318WEWsa1Q,0.744,0,0.151,-13.338,1,Carve,6,22/02/1922,0.451,104.851
+0.457,1922,0.994,['Ignacio Corsini'],0.434,181640,0.177,0,07A5yehtSnoedViJAZkNnc,0.0218,1,0.212,-21.18,1,Vivo para Quererte - Remasterizado,0,21/03/1922,0.0512,130.418
+0.397,1922,0.995,['Ignacio Corsini'],0.321,176907,0.0946,0,08FmqUhxtyLTn6pAh6bk45,0.918,7,0.104,-27.961,1,El Prisionero - Remasterizado,0,21/03/1922,0.0504,169.98
+0.727,1922,0.965,['Francis Marty'],0.51,134467,0.355,0,0Dd9ImXtAtGwsmsAD69KZT,0,4,0.155,-12.833,1,La Butte Rouge,0,1922,0.124,85.754
+0.654,1922,0.993,['Mistinguett'],0.563,161427,0.184,0,0IA0Hju8CAgYfV1hwhidBH,1.55E-05,4,0.325,-13.757,1,La Java,0,1922,0.0512,133.088
+0.544,1922,0.62,['Greg Fieler'],0.488,310073,0.475,0,0IgI1UCz84pYeVetnl1lGP,0.00645,0,0.107,-16.222,0,Old Fashioned Girl,0,1922,0.0399,139.952
+0.612,1922,0.996,['Ignacio Corsini'],0.548,181173,0.0391,0,0JV4iqw2lSKJaHBQZ0e5zK,0.933,6,0.148,-23.228,1,Martín Fierro - Remasterizado,0,29/03/1922,0.153,75.595
+0.402,1922,0.521,['Uli'],0.298,157333,0.46,0,0PH9AACae1f957JAavhOl2,0.856,1,0.436,-18.645,1,Lazy Boi,0,22/02/1922,0.453,87.921
+0.897,1922,0.995,['Lucien Boyer'],0.703,186800,0.28,0,0QiT0Oo5QdLXdFw6RDOj7h,6.84E-05,0,0.163,-15.39,1,Tu Verras Montmartre,0,1922,0.174,127.531
+0.84,1922,0.967,['Félix Mayol'],0.709,172027,0.289,0,0TWsNj5iSvbMTtbEDP7A4V,0,2,0.119,-14.978,1,Elle Prend L'boulevard Magenta,0,1922,0.18,107.515
+0.414,1922,0.996,['Victor Boucher'],0.352,188000,0.334,0,0kCB1bDVBC8gWCFcnJyIZc,0.00746,5,0.36,-13.038,1,Ca C'est Une Chose,0,1922,0.0594,76.403
+0.753,1922,0.985,['Ignacio Corsini'],0.37,153533,0.372,0,0l3BQsVJ7F76wlN5QhJzaP,0.000681,2,0.929,-17.138,1,El Vendaval - Remasterizado,0,21/03/1922,0.0865,159.669
+0.215,1922,0.996,['Jeanne Saint Bonnet'],0.335,180933,0.304,0,0pXUGQcBxfoQXg2e7G9Wwk,0.0832,7,0.102,-14.062,1,Ta Bouche,0,1922,0.0506,76.576
+0.219,1922,0.994,['Ignacio Corsini'],0.339,181440,0.0958,0,0xJCJ9XSNcdTIz0QKmhtEn,0.969,8,0.123,-26.944,1,La Maleva - Remasterizado,0,29/03/1922,0.053,86.279
+0.546,1922,0.972,['Adolphe Bérard'],0.582,168000,0.152,0,10u9ZWsOnhEyqFJCC2rQVy,0,10,0.31,-13.742,1,J'ai Vendu Mon Âme,0,1922,0.0914,95.779
+0.4,1922,0.994,['Louis Lynel'],0.42,180800,0.288,0,112adU33vo4C1eRZct2hWy,0.000216,7,0.196,-14.005,1,Nuits De Chine,4,1922,0.0701,139.575
+0.383,1922,0.994,['Ignacio Corsini'],0.373,150160,0.176,0,15BEv0mKGqHHxyDAcLJ7ei,0.866,4,0.157,-22.045,0,En la Huella del Querer - Remasterizado,0,29/03/1922,0.0703,106.595
+0.766,1922,0.993,['Perchicot'],0.592,180400,0.408,0,1CZkVPFUK7wO1sMOlBHxJr,1.54E-06,10,0.413,-11.585,0,C'est La Mode Et Voila Tout,0,1922,0.271,81.126
+0.568,1922,0.992,['Perchicot'],0.55,177400,0.31,0,1FnTOwM5cW5N9wzCWziLKC,0,10,0.204,-15.423,0,La Ronde De Nuit,0,1922,0.168,125.829
+0.33,1922,0.996,['Ignacio Corsini'],0.482,145627,0.0283,0,1HJRj2XztAhgO7dLBw6b7s,0.77,0,0.0989,-23.414,0,El Patotero Sentimental - Remasterizado,0,29/03/1922,0.0732,77.642
+0.414,1922,0.974,['Ignacio Corsini'],0.273,168107,0.318,0,1KLKkACG16o5crQPiaF1Tz,0.163,6,0.778,-18.597,1,Tus Suspiros - Remasterizado,0,29/03/1922,0.0694,74.542
+0.623,1922,0.993,['Ignacio Corsini'],0.373,194200,0.244,0,1KgBLlvPR6BxDyBNDtCUP0,0.0478,8,0.214,-22.711,1,Ojos Funestos - Remasterizado,0,21/03/1922,0.0538,115.51
+0.407,1922,0.996,['Ignacio Corsini'],0.462,171013,0.119,0,1PGLk4jyXA8oWTBtMyYlwX,0.88,4,0.0773,-20.938,0,El Huerfano - Remasterizado,0,21/03/1922,0.0793,122.895
+0.508,1922,0.995,['Maurice Chevalier'],0.532,204773,0.375,0,1QDTYyfndMN9SDtRKDv9XO,1.22E-06,7,0.276,-13.321,1,Pas Pour Moi,0,1922,0.298,80.379
+0.286,1922,0.992,['Ignacio Corsini'],0.458,141440,0.178,0,1VuFIir7DL0mc6bppGMa3r,0.817,8,0.413,-18.754,1,La Canción del Cabaret - Remasterizado,0,29/03/1922,0.0614,69.128
+0.575,1922,0.994,['Dréan'],0.52,164600,0.262,0,1ZYRk4U7EuJwdRZNHpEBIz,0.000852,11,0.227,-12.619,0,Éléonore,0,1922,0.132,69.125
+0.431,1922,0.989,['Mistinguett'],0.427,223440,0.18,0,1b8HZQCqcqwbzlA1jRTp6E,0,10,0.128,-15.375,1,En Douce,0,1922,0.067,78.459
+0.671,1922,0.996,['Victor Boucher'],0.457,145400,0.193,0,1lia44teZBfbv0PnPkc5dK,0.348,4,0.0809,-16.816,1,Machinalement,0,1922,0.0655,177.097
+0.792,1922,0.626,['Jim Chapman'],0.491,111256,0.439,0,1v0HtSUeQOu3ba28pvYE5y,0,4,0.321,-11.356,0,Chicago (That Toddlin' Town),0,1922,0.105,180.653
+0.409,1922,0.995,['Ignacio Corsini'],0.236,169853,0.124,0,213QIyv1KZIeGg7oXAMbah,0.981,1,0.149,-22.971,1,Mi Guitarra - Remasterizado,0,29/03/1922,0.0515,71.524
+0.437,1922,0.995,['Ignacio Corsini'],0.43,138587,0.168,0,21yni4TcBS35MlxLjzV51t,0.928,7,0.246,-19.558,1,Practicante - Remasterizado,0,29/03/1922,0.0622,58.863
+0.648,1922,0.995,['Ignacio Corsini'],0.545,180253,0.268,0,2B9d7LBGJvQEKiLEAexCOP,0.92,1,0.112,-23.029,1,Toda Alma - Remasterizado,0,21/03/1922,0.191,126.614
+0.701,1922,0.991,['Adolphe Bérard'],0.467,156960,0.328,0,2BVWvGSdgUZtC2La5P3Jtv,1.57E-05,7,0.0705,-13.227,1,L'amour Au Clair De Lune,0,1922,0.0354,87.132
+0.636,1922,0.996,['Ignacio Corsini'],0.484,155093,0.0558,0,2Be2FRskn33cqPyeSdTqFd,0.278,8,0.202,-25.33,0,No Me Olvides - Remasterizado,0,21/03/1922,0.0575,99.555
+0.749,1922,0.981,['Ignacio Corsini'],0.218,151040,0.394,0,2MHbLEapczIltPOYYEzQtE,0.301,10,0.505,-19.492,0,Como una Flor - Remasterizado,0,21/03/1922,0.0388,82.287
+0.396,1922,0.926,['Uli'],0.634,87040,0.00399,0,2SiNuAZ6jIU9xhClRKXcST,0.919,5,0.105,-29.973,0,Sketch,0,22/02/1922,0.0377,79.895
+0.659,1922,0.99,['Ignacio Corsini'],0.543,130987,0.424,0,2UU5t5j325ofKGcg7oUQNh,0.0379,5,0.861,-18.425,1,Sin Amor - Remasterizado,0,21/03/1922,0.269,68.567
+0.344,1922,0.994,['Ignacio Corsini'],0.36,153133,0.0954,0,2cK20o1IdLmUIC4NoPWzOt,0.726,0,0.107,-24.17,0,Flor Marchita - Remasterizado,0,29/03/1922,0.064,76.3
+0.543,1922,0.995,['Ignacio Corsini'],0.431,183720,0.2,0,3ROtnqCtqrMbaDkivZyV5n,0.821,5,0.139,-23.557,0,Entrerriana - Remasterizado,0,21/03/1922,0.0322,108.65
+0.407,1922,0.996,['Ignacio Corsini'],0.564,159800,0.053,0,3XxlglpLYkpZIfU1c1C5e4,0.927,6,0.117,-25.041,0,Pobre Cotorro - Remasterizado,0,21/03/1922,0.127,140.216
+0.56,1922,0.992,['Adolphe Bérard'],0.497,176000,0.218,0,3aynsWyvRwa1r5ekqaWxD3,0,4,0.311,-13.547,1,Mirage,0,1922,0.0345,88.412
+0.896,1922,0.996,['Ignacio Corsini'],0.527,177773,0.142,0,3c8AbdpLH4SSbTHsN71XDN,0.907,8,0.113,-20.701,0,Un Placer - Remasterizado,0,21/03/1922,0.0612,126.702
+0.601,1922,0.979,['Georgius'],0.564,187040,0.433,0,3d8zXYhG3sFx4uL9vv8IRu,3.74E-06,2,0.226,-14.619,0,Le Tango Neurasthénique,0,1922,0.356,72.003
+0.552,1922,0.996,['Ignacio Corsini'],0.53,183027,0.147,0,450NWyAOOQ4cOPrp7ZRp13,0.894,9,0.114,-22.26,1,Pobre Madrecita - Remasterizado,0,29/03/1922,0.0663,69.451
+0.83,1922,0.993,['Ignacio Corsini'],0.388,160267,0.202,0,45QQGQZMPaVxlg0edajDgk,0.917,8,0.111,-26.173,1,Primera Ilusión - Remasterizado,0,21/03/1922,0.0517,181.105
+0.969,1922,0.987,['Félix Mayol'],0.716,151573,0.301,0,4CjnVzvSu86vqI5gY8SjPx,0,5,0.277,-14.07,1,Elle Vendait Des P'tits Gateaux,0,1922,0.105,129.153
+0.708,1922,0.996,['Ignacio Corsini'],0.541,161080,0.161,0,4RR5RKLA2vTQxkWrMIeHem,0.907,3,0.129,-21.25,1,Cap Polonio - Remasterizado,0,21/03/1922,0.094,143.105
+0.62,1922,0.995,['Fortugé'],0.554,183840,0.204,0,4iy1fsAHBgR2STJjPDhjY2,1.24E-06,7,0.153,-14.764,1,Mes Parents Sont Venus Me Chercher,0,1922,0.0598,97.337
+0.562,1922,0.994,['Ignacio Corsini'],0.442,174453,0.177,0,4sAPfFxCxKIF571z6JwL4r,0.000896,9,0.491,-19.632,1,De Mil Amores - Remasterizado,0,29/03/1922,0.0571,128.395
+0.413,1922,0.996,['Ignacio Corsini'],0.45,190653,0.0522,0,4vRhdBugLI9JQGsx3UfrAt,0.929,1,0.158,-29.357,0,Cachonguita - Remasterizado,0,21/03/1922,0.0583,72.401
+0.105,1922,0.199,['Uli'],0.657,40000,0.325,0,4vV7uBcF2AnjNTOejBS5oL,0.856,10,0.0931,-14.319,0,L'enfer,0,22/02/1922,0.254,81.944
+0.683,1922,0.996,['Ignacio Corsini'],0.493,155653,0.0763,0,4xDAzKsPZg7kMOhsnXHOO7,0.909,4,0.169,-25.843,1,Metejón - Remasterizado,0,29/03/1922,0.0612,75.313
+0.42,1922,0.996,['Ignacio Corsini'],0.53,164653,0.0468,0,56GdrUlLtRUtcF4afPH40o,0.937,3,0.0982,-24.856,0,Remembranza - Remasterizado,0,29/03/1922,0.0853,129.602
+0.138,1922,0.144,['Uli'],0.644,104400,0.684,0,598LlBn6jpEpVbLjmZPsYV,0.802,7,0.0847,-8.247,1,Graphite,0,22/02/1922,0.199,100.031
+0.808,1922,0.984,['Georgius'],0.625,192933,0.35,0,5P35CyOEQiMqf8Hd6Pty5p,0,10,0.0988,-15.916,1,Méfiez Vous D'anatole,0,1922,0.312,81.567
+0.564,1922,0.995,['Ignacio Corsini'],0.43,151027,0.155,0,5PJCXNLtJSB3XerASHg7eA,0.952,1,0.202,-26.685,0,Ensueño de Oro - Remasterizado,0,29/03/1922,0.116,96.58
+0.515,1922,0.996,['Ignacio Corsini'],0.366,159800,0.0749,0,5cUFFY2Atw4QeFitueQCt2,0.924,7,0.117,-26.34,1,El Huerfano - Remasterizado,0,29/03/1922,0.0806,90.969
+0.481,1922,0.995,['Mistinguett'],0.511,208267,0.206,0,5d5gQxHwYovxR5pqETOIAa,0,0,0.418,-15.514,1,J'en Ai Marre,0,1922,0.0592,70.443
+0.347,1922,0.995,['Ignacio Corsini'],0.496,139760,0.158,0,5kAxzo7Dog9Buovp3xXVO7,0.638,8,0.206,-18.494,1,Nostalgia - Remasterizado,0,29/03/1922,0.0423,79.871
+0.528,1922,0.98,['Ignacio Corsini'],0.422,179813,0.561,0,5wfVO3v2ZiWmQvJuRgJANe,3.41E-06,5,0.966,-18.573,0,Monigote - Remasterizado,0,21/03/1922,0.461,121.542
+0.587,1922,0.996,['Ignacio Corsini'],0.493,158587,0.0997,0,5wg1nnx7c2kri8kx5xlCFH,0.481,5,0.192,-23.446,1,El Beso de la Muerte - Remasterizado,0,21/03/1922,0.0607,127.023
+0.67,1922,0.996,['Jeanne Saint Bonnet'],0.656,120760,0.283,0,63IcPgVIW0PWeJTaIY7GCu,0.00597,4,0.155,-14.113,1,Le Petit Amant,0,1922,0.191,126.085
+0.312,1922,0.985,['Ignacio Corsini'],0.313,186200,0.102,0,69mWzKmxFFwIAJS8nzcCgO,0.97,10,0.102,-30.026,0,Recuerdo Criollo - Remasterizado,0,29/03/1922,0.0436,67.575
+0.509,1922,0.98,['Ignacio Corsini'],0.425,178373,0.308,0,6E4t6Sor5rWOLQDCAdI0vN,0,1,0.631,-21.085,0,Despedida - Remasterizado,0,29/03/1922,0.0534,64.738
+0.412,1922,0.474,['Uli'],0.651,172803,0.574,0,6MD9XSLD4VmVI5SFRPm6By,0.713,10,0.0597,-11.999,0,Car Loans,0,22/02/1922,0.104,99.878
+0.255,1922,0.992,['Ignacio Corsini'],0.323,164320,0.106,0,6eew1OP57TeUDUMcjYE6A0,0.918,8,0.182,-25.138,1,La Muchacha - Remasterizado,0,29/03/1922,0.0483,71.432
+0.635,1922,0.995,['Ignacio Corsini'],0.476,155253,0.131,0,6qXSeW8iUiHpbgRiqQO3aJ,0.929,2,0.102,-29.575,0,Pobre Gaucho - Remasterizado,0,29/03/1922,0.0523,69.409
+0.559,1922,0.993,['Ignacio Corsini'],0.357,172800,0.244,0,6tl1bsB5SXbsLjOndGiM7Q,0.0455,1,0.274,-21.2,1,El Poder de Tus Ojos - Remasterizado,0,21/03/1922,0.0478,72.51
+0.706,1922,0.995,['Ignacio Corsini'],0.564,158573,0.178,0,7mFmbNkbJjrvDMukkza3OF,0.921,9,0.112,-26.435,1,Pobre China - Remasterizado,0,21/03/1922,0.0432,60.422
+0.558,1922,0.994,['Fortugé'],0.537,165200,0.153,0,7p94hrYktZStgIu6TCj3cZ,0,8,0.419,-15.217,1,Antoine,0,1922,0.0898,129.134
+0.634,1922,0.995,['Georgius'],0.528,187733,0.343,0,7yWdEDmuqweoRkhZeftRtR,0,0,0.385,-14.963,0,Sur La Pointe Des Pieds,0,1922,0.315,83.2
+0.901,1923,0.984,"['Louis Armstrong', 'Earl Hines']",0.831,161933,0.262,0,3eMrYc092k7SIJfWJ7oasR,0.912,8,0.204,-12.386,1,Weather Bird,42,1923,0.0942,104.606
+0.211,1923,0.996,['Bessie Smith'],0.614,177133,0.0423,0,2wAfHM7Whz67VFbdanhZlk,0.00293,4,0.183,-12.033,1,Nobody Knows You When You're Down and Out,42,1923,0.0535,89.822
+0.137,1923,0.996,['Bessie Smith'],0.537,206600,0.0443,0,2AZgaYZSwUosJD71J2N2Zo,0.000265,3,0.152,-16.474,0,'Tain't Nobody's Bizness If I Do,29,1923,0.0343,80.468
+0.503,1923,0.976,['Louis Armstrong'],0.665,192600,0.254,0,7lRFR5GJCxK87ZbVMtQSeS,0.00217,8,0.644,-9.879,1,Ain't Misbehavin',32,1923,0.108,125.734
+0.601,1923,0.986,['Bessie Smith'],0.771,201480,0.0905,0,0V1iYWPXCBTaB6dhbiprGF,0.000141,3,0.152,-7.788,1,Send Me to the 'Lectric Chair,26,1923,0.0613,87.571
+0.402,1923,0.992,['Bessie Smith'],0.693,167640,0.027,0,6qRvnXftofjYJm1Mg98UWL,0,0,0.134,-13.506,0,Need a Little Sugar in My Bowl,26,1923,0.0562,75.749
+0.411,1923,0.995,['Bessie Smith'],0.525,187960,0.232,0,6sOKopKyVWwEJKh8zztYp5,0.0181,8,0.461,-7.649,1,Young Woman's Blues,24,1923,0.0335,76.14
+0.553,1923,0.995,['Bessie Smith'],0.709,181173,0.062,0,6XTvSCqGLLH0vzQQRn55hz,0.00341,5,0.12,-12.207,1,"Empty Bed Blues, Pt. 1",27,1923,0.048,85.854
+0.294,1923,0.994,"['Bessie Smith', 'Louis Armstrong']",0.408,190107,0.145,0,4ejUoPIMggFTVrAyvodqJQ,4.73E-05,10,0.138,-10.99,1,St. Louis Blues (with Louis Armstrong),22,1923,0.0501,68.8
+0.494,1923,0.99,['Bessie Smith'],0.71,169960,0.0735,0,1yjck0Owf0HfhY5kWHiXIQ,0,5,0.0941,-12.526,1,Me and My Gin,22,1923,0.0488,90.917
+0.44,1923,0.996,['Bessie Smith'],0.683,176067,0.0534,0,5lpBC66XQzpVDJuknDUuZd,0.000335,0,0.141,-16.704,1,Baby Won't You Please Come Home,22,1923,0.0356,79.488
+0.483,1923,0.992,['Bessie Smith'],0.587,205053,0.175,0,0rUf1j43orpfi6f4LbVo8D,0.000318,2,0.073,-9.935,1,Careless Love,22,1923,0.0384,98.523
+0.258,1923,0.991,"['Bessie Smith', 'Louis Armstrong']",0.355,189600,0.114,0,50zXyjVdFb3xAr3hnyYYn1,0.00686,10,0.108,-15.968,1,St. Louis Blues,22,1923,0.0588,69.902
+0.902,1923,0.994,"[""King Oliver's Creole Jazz Band""]",0.708,194533,0.361,0,1xEEYhWxT4WhDQdxfPCT8D,0.883,0,0.103,-11.764,0,Snake Rag,20,1923,0.0441,105.695
+0.412,1923,0.993,['Bessie Smith'],0.516,198053,0.146,0,2gyqc4p3WoxKsc6zaXF4hM,0.0223,2,0.172,-8.985,1,Backwater Blues,20,1923,0.0454,71.144
+0.556,1923,0.996,['Bessie Smith'],0.491,205440,0.0583,0,6ktCV1ZtqlnXQeRFQvcXON,0.376,0,0.137,-17.785,1,Down Hearted Blues,18,1923,0.0431,166.27
+0.558,1923,0.971,['Bessie Smith'],0.691,208827,0.198,0,6N1wS1e5bMOubmVtkDLNrt,0.00888,7,0.154,-11.164,0,Gimme a Pigfoot and a Bottle of Beer,17,1923,0.0784,103.901
+0.554,1923,0.996,"[""King Oliver's Creole Jazz Band""]",0.546,170827,0.189,0,3rauXVLOOM5BlxWqUcDpkg,0.908,0,0.339,-15.984,1,Chimes Blues,13,1923,0.0581,80.318
+0.411,1923,0.985,['Louis Armstrong'],0.544,195000,0.181,0,3U6L5KW48YOsksN9Qvlydl,0.0256,5,0.401,-11.729,1,I've Got The World On A String,12,1923,0.0387,129.803
+0.443,1923,0.995,"['Bessie Smith', 'Louis Armstrong']",0.415,180533,0.0795,0,7GRsQLXMzDHYb8zZAnMCDK,3.73E-05,0,0.426,-19.172,1,Sobbin' Hearted Blues,13,1923,0.0908,74.683
+0.484,1923,0.989,['Louis Armstrong & His Hot Five'],0.586,168533,0.113,0,08XPnovoMlLsFB3LDGq0rX,0.276,10,0.181,-12.211,1,Muggles,13,1923,0.0607,85.235
+0.49,1923,0.96,['Louis Armstrong'],0.571,182707,0.269,0,5WlMyDvyQedom0kQ3MCTow,0.0129,4,0.121,-11.728,0,Lazy River,13,1923,0.067,101.845
+0.411,1923,0.996,['Bessie Smith'],0.417,201267,0.0498,0,0F5F4GWA0Tz1ebZlLar2wG,0.123,5,0.169,-13.523,1,Work House Blues,11,1923,0.0344,78.663
+0.319,1923,0.995,"[""Clarence Williams' Blue Five""]",0.52,197493,0.153,0,1UdqHVRFYMZKU2Q7xkLtYc,0.131,0,0.353,-14.042,1,Pickin' On Your Baby,11,1923,0.044,102.937
+0.491,1923,0.993,['Bessie Smith'],0.703,171027,0.185,0,1h0wyCVd12PDSd6CLoGaVL,0.00209,8,0.22,-8.325,1,Preachin' the Blues,10,1923,0.0441,104.916
+0.351,1923,0.996,['Bessie Smith'],0.602,208360,0.132,0,3tkC9PMf19ffJlh65EdANg,0.025,0,0.164,-11.319,1,You've Been a Good Old Wagon,10,1923,0.0532,77.087
+0.523,1923,0.986,['Louis Armstrong & His Hot Five'],0.621,195400,0.274,0,4ep3h4btBtuxsNeLFVzq5A,0.63,3,0.113,-12.094,1,West End Blues,16,1923,0.0514,84.788
+0.494,1923,0.991,['Bessie Smith'],0.557,206253,0.0792,0,527J3xtyY4MdrpKtWcJNtL,0,0,0.186,-13.094,1,Long Old Road,11,1923,0.0541,79.768
+0.753,1923,0.994,"[""King Oliver's Creole Jazz Band""]",0.359,187227,0.357,0,5SvyP1ZeJX1jA7AOZD08NA,0.819,3,0.29,-11.81,1,Tears,10,1923,0.0511,205.053
+0.58,1923,0.99,['Bessie Smith'],0.72,199213,0.214,0,7qxfKQ5qlcunexI4f0qifa,6.03E-06,7,0.148,-6.571,0,There'll Be a Hot Time in the Old Town Tonight,11,1923,0.07,82.921
+0.665,1923,0.996,"[""Clarence Williams' Blue Five""]",0.514,152507,0.193,0,0Vl2DO5U6FjgBpzCtBN3OA,0.199,2,0.248,-13.92,0,Everybody Loves My Baby,9,1923,0.238,180.674
+0.889,1923,0.98,['Louis Armstrong & His Sebastian New Cotton Club Orchestra'],0.759,187627,0.454,0,1mngGai1eXbHcBXuA6Z4jZ,0.81,5,0.18,-11.245,1,I'm A Ding Dong Daddy,9,1923,0.0822,109.79
+0.609,1923,0.995,['Bessie Smith'],0.641,187507,0.063,0,2CStrJiuFeHNS84A3kaT8s,2.21E-06,0,0.153,-12.193,1,Black Mountain Blues,10,1923,0.0727,65.673
+0.735,1923,0.969,['Jimmie Rodgers'],0.76,157373,0.251,0,2ivh0kwd7QIViw6YqDPdBA,2.43E-06,3,0.0561,-11.491,1,Blue Yodel No. 9,8,1923,0.0602,108.456
+0.751,1923,0.971,['Louis Armstrong & His Hot Seven'],0.745,192027,0.396,0,1L0puqUCoINHyHjzzWXrHC,0.00179,0,0.238,-10.57,1,A Monday Date,8,1923,0.481,117.753
+0.961,1923,0.949,['Louis Armstrong & His Hot Five'],0.733,177240,0.418,0,20VPM7ePvpxTQyZFjOiP1g,0.792,3,0.229,-12.287,1,Beau Koo Jack,7,1923,0.0765,121.289
+0.489,1923,0.994,['Bessie Smith'],0.8,200093,0.0466,0,2AYdjRjSm49s6MFZiSlcSX,0.000165,5,0.111,-12.145,1,"Empty Bed Blues, Pt. 2",10,1923,0.0578,84.544
+0.59,1923,0.995,['Louis Armstrong & His Hot Five'],0.63,172493,0.232,0,4FINjzgcPjqR2PPpnWrCKF,0.00627,8,0.124,-13.627,1,Heebie Jeebies,8,1923,0.0569,164.027
+0.381,1923,0.976,['Louis Armstrong'],0.603,208200,0.13,0,4GOd9yNQrpl6omACRgvCX2,0.765,8,0.0943,-13.74,1,Song of the Islands,7,1923,0.0426,143.497
+0.848,1923,0.995,['Fletcher Henderson & His Orchestra'],0.59,179360,0.268,0,4t1G1nGmPOms95TB9wz8FF,0.252,3,0.646,-14.313,1,Naughty Man,8,1923,0.0725,189.266
+0.854,1923,0.973,['Louis Armstrong & His Hot Seven'],0.792,179667,0.321,0,5bfjNeQIU43IJPNY6c56fB,0.795,8,0.129,-15.633,1,Hotter Than That,8,1923,0.131,108.607
+0.929,1923,0.936,['Louis Armstrong & His Hot Seven'],0.587,175227,0.29,0,5c6hPSOnuiLnTve5b9s7ZS,0.254,5,0.115,-10.463,1,Potato Head Blues,7,1923,0.177,183.352
+0.716,1923,0.996,['Louis Armstrong & His Hot Five'],0.602,161800,0.216,0,02smo7WfO95Ww8MZw06h1p,0.524,0,0.0973,-12.264,1,Gut Bucket Blues,7,1923,0.0676,146.183
+0.504,1923,0.994,['Louis Armstrong & His Hot Five'],0.658,181027,0.0841,0,0HUCWtOLhJhXwSRn6pvzQC,0.767,5,0.088,-14.759,1,Skid-Dat-De-Dat,6,1923,0.0496,121.494
+0.629,1923,0.985,['Louis Armstrong'],0.604,203307,0.325,0,1v6v5llnekLbreJYIRfkKc,0.84,10,0.195,-10.48,1,Chicago Breakdown,9,1923,0.213,168.506
+0.58,1923,0.976,['Maggie Jones'],0.584,199293,0.201,0,2cmUadaXBixJGY2x87EMOa,0,9,0.689,-13.271,0,Anybody Here Want to Try My Cabbage?,6,1923,0.0575,82.549
+0.889,1923,0.979,['Louis Armstrong'],0.717,205533,0.209,0,300WVfsVnOUJM2KXAm9IGS,0.439,1,0.0609,-13.224,1,Stardust,8,1923,0.0622,127.401
+0.718,1923,0.923,['Louis Armstrong & His Savoy Ballroom Five'],0.496,201267,0.311,0,3DzcB6weYL3L7oRNmsJCaV,0.0127,5,0.252,-11.202,1,No One Else But You,6,1923,0.124,191.035
+0.469,1923,0.995,"[""Clarence Williams' Blue Five""]",0.519,186427,0.272,0,3IL7X89mdAJ4ISGrGXi3sB,0.783,11,0.351,-15.573,1,Texas Moaner Blues - 78rpm Version,7,1923,0.0627,80.523
+0.657,1923,0.968,['Louis Armstrong & His Sebastian New Cotton Club Orchestra'],0.606,197000,0.261,0,3tlygdsn8Jl6D0XA7RRslx,0.124,10,0.12,-13.995,1,Sweethearts On Parade,6,1923,0.0679,128.025
+0.624,1923,0.984,['Louis Armstrong'],0.5,169733,0.193,0,4E0HHRQlEdBFhsQHrKWXRR,0.744,10,0.227,-10.373,1,When You're Smiling - Non Vocal Take,6,1923,0.0347,147.29
+0.514,1923,0.971,['Louis Armstrong & His Hot Five'],0.561,197067,0.353,0,4m1Th0JSQkevDsHiOpoxlQ,0.13,10,0.922,-9.617,1,Basin Street Blues - rec. 1928,6,1923,0.0538,107.711
+0.496,1923,0.968,['Louis Armstrong'],0.454,184533,0.233,0,4qTkOBmwGFamB3V9QEFwDS,0.0333,7,0.218,-11.394,0,When Your Lover Has Gone,6,1923,0.0433,119.956
+0.879,1923,0.983,['Fletcher Henderson & His Orchestra'],0.78,169267,0.207,0,4ubnmGMXNLgQpj5YKoldMm,0.0291,10,0.101,-14.127,1,Sugar Foot Stomp,7,1923,0.0771,100.376
+0.767,1923,0.83,['Louis Armstrong'],0.642,194227,0.274,0,4yZ7B7yoMjDMH4oInYA36l,0.898,3,0.0398,-9.874,1,Mahogany Hall Stomp,6,1923,0.101,184.923
+0.415,1923,0.988,['Louis Armstrong & His Sebastian New Cotton Club Orchestra'],0.479,201200,0.14,0,5CwOaZmAAsFfbQ5qCKS6sn,0.65,3,0.153,-14.753,1,I'm Confessin' (That I Love You),6,1923,0.0725,81.674
+0.75,1923,0.928,['Louis Armstrong'],0.579,183800,0.204,0,5EFXgEnibXPumWosZtJqkx,0.00459,0,0.0901,-12.634,1,I Can't Believe That You're In Love With Me,6,1923,0.0804,154.333
+0.84,1923,0.995,"[""Clarence Williams' Blue Five""]",0.634,175573,0.435,0,5WfYFtwzOo8Ne7DA1qhtWl,0.881,7,0.204,-12.422,0,Cake Walking Babies (From Home),6,1923,0.0474,121.516
+0.772,1923,0.97,['Louis Armstrong'],0.614,213667,0.298,0,5eXOIVUkW17FqnEoLR2wTX,0.646,3,0.0514,-11.004,0,Stardust,6,1923,0.0541,122.319
+0.89,1923,0.942,['Fletcher Henderson & His Orchestra'],0.809,171373,0.408,0,5pIiw01BoIPnkQQI1AZHQL,0.0398,1,0.307,-12.035,1,T.N.T.,6,1923,0.0846,113.494
+0.676,1923,0.882,['Louis Armstrong'],0.788,193760,0.395,0,6azxqS9u7eO5DslqJCWMNd,0.844,10,0.124,-14.032,1,Knockin' A Jug - 78 rpm Version,6,1923,0.301,113.336
+0.825,1923,0.963,['Louis Armstrong'],0.726,179840,0.212,0,06Q9isDLNDaHJNPa5lM4Cg,0.688,8,0.0798,-14.744,1,Struttin'With Some Barbecue,5,1923,0.126,97.21
+0.37,1923,0.989,['Louis Armstrong'],0.527,200200,0.178,0,0QfWOoNZibrxHpzdKWEHBZ,9.85E-06,3,0.104,-14.814,1,When It's Sleepy Time Down South,4,1923,0.0793,105.093
+0.675,1923,0.995,"[""Clarence Williams' Blue Five""]",0.713,183200,0.231,0,180gKK9WXgetU7EAxhCn7t,0,7,0.436,-13.375,1,You Can't Shush Katie,6,1923,0.067,108.482
+0.806,1923,0.97,['Louis Armstrong'],0.719,180600,0.388,0,18NiVMY4Fz6MjnhrX8xFiM,0.526,1,0.132,-11.337,1,That Rhythm Man,5,1923,0.154,118.272
+0.256,1923,0.992,['Louis Armstrong & His Sebastian New Cotton Club Orchestra'],0.615,191800,0.13,0,1h0lfbm5uARsmDAkBikqfz,0.0805,3,0.146,-15.372,1,Memories Of You,4,1923,0.0466,108.873
+0.537,1923,0.978,['Louis Armstrong'],0.598,187707,0.31,0,1t2zq9TXj7mlSX8fcKwCbm,0.0337,5,0.0766,-10.794,1,Blue Again,4,1923,0.0714,110.346
+0.387,1923,0.988,['Louis Armstrong'],0.681,180307,0.188,0,2DAK09fP0bobALaArOEeCI,0.00732,0,0.345,-12.133,1,(What Did I Do to Be So) Black and Blue,6,1923,0.0482,103.095
+0.965,1923,0.907,['Louis Armstrong & His Hot Seven'],0.573,177307,0.246,0,2GnYkuVM8jQh4sFGGmDfcV,0.867,5,0.0752,-13.553,1,Weary Blues,4,1923,0.224,205.419
+0.576,1923,0.989,['Louis Armstrong'],0.585,174373,0.228,0,2SRy24tTjBERSmb3FHqzdb,8.55E-06,0,0.55,-11.651,1,On The Sunny Side Of The Street - Part 1,5,1923,0.0475,98.685
+0.558,1923,0.963,['Louis Armstrong & His Hot Five'],0.713,172667,0.294,0,2gwppa6p7HymxbyxEooUNI,0.348,5,0.387,-10.672,1,Two Deuces,4,1923,0.073,85.299
+0.554,1923,0.994,['Louis Armstrong & His Hot Five'],0.536,183133,0.168,0,2n13QpmPEINmoTLUAlLCd7,0.121,2,0.29,-15.701,1,King Of The Zulas,5,1923,0.114,169.061
+0.741,1923,0.937,['Louis Armstrong'],0.625,176400,0.203,0,2nwxT2BLHn5NjQj0wuEXAu,0.0208,5,0.0868,-12.257,1,Between The Devil And The Deep Blue Sea,5,1923,0.077,133.909
+0.96,1923,0.994,"[""Erskine Tate's Vendome Orchestra""]",0.692,174893,0.477,0,31N4so4BNr6e0Hz2NtmU33,0.929,8,0.369,-13.342,1,"Stomp Off, Let's Go",6,1923,0.363,118.604
+0.593,1923,0.977,['Louis Armstrong & His Hot Five'],0.653,184133,0.131,0,377bagPbNQx6K6RKjuUFQ3,0.733,8,0.6,-19.164,1,Skip The Gutter,5,1923,0.0628,124.1
+0.647,1923,0.994,['Margaret Johnson'],0.583,161560,0.214,0,3GuVFPnSVW036wmwUrXQ9Q,3.30E-05,10,0.446,-13.687,1,Changeable Daddy Of Mine,6,1923,0.0423,101.916
+0.794,1923,0.945,['Louis Armstrong'],0.562,193667,0.525,0,3MUeRkKpLxxyRFzqMTj1HY,0.0949,3,0.129,-8.992,1,"Chinatown, My Chinatown",5,1923,0.142,158.373
+0.816,1923,0.927,['Louis Armstrong'],0.741,195960,0.284,0,3jic1HtQwJwaKnBL4ykuwZ,0.0788,3,0.0633,-10.406,1,My Sweet,4,1923,0.0505,105.84
+0.957,1923,0.98,"[""Carroll Dickerson's Savoyagers""]",0.78,191400,0.368,0,3pcaFPeiPvuLD46XTuVNiF,0.907,5,0.0798,-13.855,1,Symphonic Raps,6,1923,0.0958,115.401
+0.637,1923,0.995,['Nolan Welsh'],0.657,211800,0.136,0,3qByw3YrQnpjMttThvwclS,7.64E-05,11,0.118,-14.723,1,The Bridwell Blues,4,1923,0.339,72.492
+0.43,1923,0.996,['The Southern Serenaders'],0.66,191173,0.184,0,3yJC2QZqAm1i2wSob2Cpyv,0.941,10,0.305,-13.993,1,Alone At Last,5,1923,0.0322,107.328
+0.946,1923,0.912,['Louis Armstrong'],0.68,176333,0.47,0,43WZyNbzOJOnKQStu8if8E,0.907,11,0.0819,-8.644,0,St. Louis Blues - Alternate Take B,6,1923,0.11,181.038
+0.587,1923,0.995,"[""Clarence Williams' Blue Five""]",0.673,178827,0.132,0,46ddI0x8tLiOjDFqb2TQ5R,0.108,10,0.26,-15.685,1,Papa De Da Da,6,1923,0.0771,105.5
+0.651,1923,0.953,['Lillie Delk Christian'],0.851,191307,0.221,0,4Bk8r390pyafdSPtWoUKwz,7.36E-06,8,0.0692,-12.89,0,I Must Have That Man,5,1923,0.0932,116.444
+0.577,1923,0.951,['Louis Armstrong & His Savoy Ballroom Five'],0.66,213000,0.118,0,4Ewzp7BFfvcXofZnvrYwFx,0.452,7,0.0841,-13.172,1,I Can't Give You Anything But Love,5,1923,0.0648,108.305
+0.82,1923,0.933,['Louis Armstrong & His Hot Seven'],0.679,194293,0.144,0,4PD69KQwh9GccLW2647tTL,0.168,3,0.0915,-14.081,1,Gully Low Blues,6,1923,0.0975,108.832
+0.544,1923,0.986,['Louis Armstrong & His Hot Five'],0.811,208040,0.151,0,4j1w8LCA1MLSnTYxMVXQ63,0.869,7,0.0965,-14.297,1,Savoy Blues,5,1923,0.0823,127.944
+0.638,1923,0.975,['Louis Armstrong'],0.553,171533,0.255,0,5EMxMmB4iSzA8jMNgLcTtO,0.804,10,0.531,-8.575,1,Song Of The Vipers,5,1923,0.0874,181.769
+0.534,1923,0.995,['Maggie Jones'],0.551,192200,0.196,0,5SM5voPROPhpgLuqRpGnNp,0.00325,0,0.384,-14.692,1,Good Time Flat Blues,6,1923,0.0594,76.598
+0.465,1923,0.98,"['Bertha ""Chippie"" Hill']",0.492,172973,0.115,0,5rgmvqVTH38BKIhzEHanMq,0,9,0.037,-15.788,1,Low Land Blues,5,1923,0.0898,172.971
+0.692,1923,0.995,['Louis Armstrong & His Hot Five'],0.558,194267,0.19,0,6JLKiy1LMbmYY8JOM38UR9,0.572,3,0.113,-14.621,1,Cornet Chop Suey,5,1923,0.0869,170.066
+0.882,1923,0.99,['Lillie Delk Christian'],0.603,173173,0.286,0,6TBNeFMHsIarzHz8cz74KA,0.000713,7,0.0682,-13.73,1,Too Busy,4,1923,0.0806,176.566
+0.564,1923,0.988,"['Hociel Thomas', 'Louis Armstrong']",0.536,198467,0.128,0,7H5X09Fl9MN0FhICH4TSF6,0,2,0.314,-13.093,1,Listen To Ma,5,1923,0.0435,91.937
+0.895,1923,0.995,['Louis Armstrong & His Hot Five'],0.699,177093,0.273,0,7eKV3eq2hqgAkYaWF3voms,0.367,7,0.108,-11.624,1,Big Butter And Egg Man,5,1923,0.0886,102.375
+0.575,1923,0.996,"['Bertha ""Chippie"" Hill', 'Louis Armstrong']",0.661,178707,0.134,0,0YIo0uq3o867nFkE9I9hf2,0.0011,2,0.119,-12.61,1,Pleadin' for the Blues,4,1923,0.0763,71.497
+0.456,1923,0.982,['Louis Armstrong & His Hot Five'],0.726,197627,0.254,0,0fuLzjcUhMW9s6NBsDb22L,0.33,1,0.0398,-10.298,0,Tight Like This,3,1923,0.124,110.86
+0.814,1923,0.992,['Seger Ellis'],0.564,186467,0.203,0,0oqDrehB6TLZNZk7J4sTKA,5.45E-06,4,0.457,-11.501,1,To Be In Love,4,1923,0.0743,160.767
+0.576,1923,0.989,['Louis Armstrong'],0.559,185973,0.266,0,2ohtXE5y4GhN0Zxvalubes,0.847,0,0.448,-9.804,1,On The Sunny Side Of The Street - Part 2,4,1923,0.0512,101.279
+0.594,1923,0.986,['Louis Armstrong & His Hot Five'],0.604,207000,0.279,0,4Q5I6riVFNV4mJaqSCmB0C,0.237,10,0.275,-11.588,1,Basin Street Blues - rec. 1928,4,1923,0.0446,123.271
+0.837,1923,0.981,['Louis Armstrong & His Hot Seven'],0.666,192760,0.278,0,5f5zQytojoUSXcJKSJ4hJO,0.405,7,0.107,-14.148,1,Put 'Em Down Blues,4,1923,0.0926,101.729
+0.807,1923,0.995,['Francisco Canaro'],0.501,172187,0.39,0,0CvmUvqBk83K7aD1FitfXn,0.963,2,0.173,-14.475,1,Sol Mio - Remasterizado,0,9/7/1923,0.05,83.162
+0.686,1923,0.988,['Dranem'],0.653,139707,0.319,0,0GBMsGrBHw8rifEpXZabKx,0,7,0.266,-13.706,1,Le Moment De M'en Aller,0,1923,0.0519,102.225
+0.597,1923,0.992,['Ignacio Corsini'],0.47,152947,0.28,0,0GkpS6KjxFsNt61hOpB2j9,0.926,11,0.107,-19.32,1,La Payasa - Remasterizado,0,29/03/1923,0.129,130.445
+0.532,1923,0.992,['Ignacio Corsini'],0.414,174387,0.248,0,0fdCpczLwvzvAyzCGGOZtX,0.884,6,0.172,-21.685,1,Entre Criollos - Remasterizado,0,29/03/1923,0.0905,74.088
+0.57,1923,0.996,['Ignacio Corsini'],0.572,120093,0.0909,0,0pfb51HxNzI3bNVjKasaKK,0.908,11,0.246,-24.536,1,Vencida - Remasterizado,0,29/03/1923,0.139,131.55
+0.767,1923,0.992,['Gaby Montbreuse'],0.435,160907,0.353,0,1B9DQSfiDWhYZmkqbYyonp,0,2,0.303,-14.907,1,C'est Au Bal Musette,0,1923,0.0992,77.699
+0.803,1923,0.991,['Edmée Favart'],0.783,141040,0.341,0,1C24gb2rQwSd262BP09DNB,0,2,0.589,-14.903,1,Chanson De Route De Ciboulette,0,1923,0.873,121.287
+0.759,1923,0.98,['Georgius'],0.635,204400,0.285,0,1HfsGFkj5HdvEUyiWAr5Bv,0,1,0.446,-16.475,1,Ma Gosse,0,1923,0.217,123.849
+0.823,1923,0.989,['Hafız Ahmet Celâl Tokses'],0.234,175541,0.401,0,1IM5GNo7ctGQ6cfHS8C6XE,0.993,4,0.393,-15.225,0,Pala Oyunu,0,18/12/1923,0.04,77.395
+0.444,1923,0.989,['Francisco Canaro'],0.424,166587,0.283,0,1VtCBfQf6KdQfmBgpRUUdY,0.968,6,0.289,-15.551,1,Fakir - Remasterizado,0,9/7/1923,0.0509,138.19
+0.621,1923,0.995,['Robert Jysor'],0.496,184427,0.32,0,1YjHwSX3Y7X8586eaXM1Kk,0,0,0.272,-12.255,1,Tu Voudrais Me Voir Pleurer,0,1923,0.0847,108.512
+0.182,1923,0.994,['Safiye Ayla'],0.227,204173,0.423,0,1aN3D9FqE9P7slzb60Eqwj,0.787,6,0.439,-8.111,1,Hicran,0,4/1/1923,0.095,81.239
+0.556,1923,0.99,['Adolphe Bérard'],0.38,183133,0.235,0,1eLbwzyHyUne68R2yXPidS,0,4,0.457,-15.971,1,Le Tapis Vert,0,1923,0.053,82.783
+0.19,1923,0.995,['Hafız Ahmet Celâl Tokses'],0.26,167680,0.333,0,1lxRFRONmnUxRz5YhQAAwX,0.917,4,0.51,-17.084,1,Pek Muztaribim,0,18/12/1923,0.0896,78.08
+0.618,1923,0.992,['Francisco Canaro'],0.377,170800,0.335,0,1u9zTLc3iWTud0cZM83CDr,0.961,1,0.173,-16.295,1,Cuando Buda Sonríe - Remasterizado,0,9/7/1923,0.0426,79.422
+0.733,1923,0.994,['Francisco Canaro'],0.563,174667,0.426,0,1xci8Zmd0JnJD5g2WwXpNx,0.96,11,0.209,-13.831,0,Electric Girl - Remasterizado,0,9/7/1923,0.148,80.204
+0.66,1923,0.996,['Ignacio Corsini'],0.574,178147,0.0119,0,1yMDC3pVzxKlcKwwwiFSmt,0.936,5,0.099,-28.427,0,Sacate la Caretita - Remasterizado,0,29/03/1923,0.102,125.425
+0.89,1923,0.994,['Francisco Canaro'],0.515,180387,0.272,0,21QQ5ZuQUjPQQRi1JzR8GY,0.97,4,0.15,-15.873,0,Veranito de San Juan - Remasterizado,0,9/7/1923,0.108,130.063
+0.453,1923,0.815,['Harry Curtis'],0.433,162064,0.422,0,25SMQZnHTtKcUxFIpG7Mhp,9.67E-06,10,0.114,-12.455,1,The Loveliest Night of the Year,0,1923,0.0418,160.021
+0.424,1923,0.996,['Francisco Canaro'],0.397,156587,0.229,0,2626aAS6eQgc6CvdLVnoOw,0.837,6,0.379,-15.284,0,La Danza de las Libélulas - Remasterizado,0,9/7/1923,0.0365,80.086
+0.599,1923,0.996,['Ignacio Corsini'],0.493,150640,0.109,0,282GBb96Uc1l3nvDZU14Wr,0.822,2,0.4,-23.485,0,La Garconniere - Remasterizado,0,29/03/1923,0.423,120.344
+0.843,1923,0.993,['Gaby Montbreuse'],0.641,206000,0.283,0,2DMT63ps2b8F2PmbVG1Jtu,6.98E-06,8,0.15,-16.471,1,D'la Vraie Amour,0,1923,0.316,65.865
+0.614,1923,0.994,['Francisco Canaro'],0.6,151467,0.243,0,2TdBHm411Q9eU09zF24HHW,0.992,4,0.15,-15.922,0,Padre Nuestro - Remasterizado,0,9/7/1923,0.055,125.772
+0.934,1923,0.978,['Félix Mayol'],0.623,173427,0.292,0,2d3OQvoLSn9NA4sMGIYxNT,0,4,0.341,-11.501,1,La Valse Du Faubourg,0,1923,0.0558,61.28
+0.253,1923,0.996,['Ignacio Corsini'],0.415,153147,0.0359,0,2dnaGKlRop5kaBJjEKW7j0,0.914,1,0.105,-29.191,0,Juventud - Remasterizado,0,29/03/1923,0.0562,70.347
+0.51,1923,0.995,['Ignacio Corsini'],0.502,171107,0.298,0,2gFUqcLFUDVXcWmeKAOnGd,0.919,5,0.285,-15.321,0,Pobre Cotorro - Remasterizado,0,29/03/1923,0.0805,135.238
+0.549,1923,0.994,['Ignacio Corsini'],0.391,146827,0.143,0,2p6Iprr9YSwoPEr9Z24uVj,0.318,7,0.147,-23.364,1,Beso de Sol - Remasterizado,0,29/03/1923,0.0425,78.544
+0.56,1923,0.994,['Ignacio Corsini'],0.335,185853,0.305,0,2yqz75MA7AtLje5drtf8Gq,0.89,11,0.407,-19.576,0,Mi Alazan Tostado - Remasterizado,0,29/03/1923,0.0427,100.941
+0.536,1923,0.995,['Mlle Davia'],0.519,171933,0.292,0,2zFWLv60Tyz6D7SUQUNZtH,0.0502,0,0.474,-15.185,1,Elle N'est Pas Si Mal Que Ca,0,1923,0.0852,83.334
+0.849,1923,0.975,['André Baugé'],0.607,127893,0.279,0,34rdVyVGI2u6I0tNWc8v0Y,0,5,0.219,-13.411,1,Nous Avons Fait Un Beau Voyage,0,1923,0.174,73.673
+0.942,1923,0.995,['Francisco Canaro'],0.47,171187,0.43,0,35gyMzxIMFL4e2YL5hkpH6,0.981,5,0.177,-13.013,1,I Ain't No Body's Darling - Remasterizado,0,9/7/1923,0.0516,166.475
+0.806,1923,0.758,['Harry Curtis'],0.725,130064,0.377,0,3DWEcGDSXu42LYHbSVYguU,1.19E-06,11,0.118,-12.955,1,There's No Tomorrow,0,1923,0.0324,109.982
+0.698,1923,0.995,['Ignacio Corsini'],0.435,153187,0.212,0,3IOmj6NIiknYGtIuFGBSBG,0.0165,6,0.252,-21.562,0,Muchachita Loca - Remasterizado,0,29/03/1923,0.0479,122.928
+0.727,1923,0.995,['Francisco Canaro'],0.618,176200,0.306,0,3V2R1hDixOyRYEIWdYm0OC,0.967,8,0.12,-13.928,0,Nubes de Humo - Remasterizado,0,9/7/1923,0.0535,122.623
+0.76,1923,0.995,['Francisco Canaro'],0.336,157867,0.415,0,3XHUxnjmA15lbMDcGYiWwZ,0.984,0,0.264,-15.088,1,Eleonore - Remasterizado,0,9/7/1923,0.17,167.96
+0.804,1923,0.992,['Robert Jysor'],0.666,188840,0.366,0,3ZKOtk1YGKwrQkDhi73zJr,0,1,0.336,-12.874,0,Dans Les Jardins De L'alhambra,0,1923,0.0682,108.158
+0.885,1923,0.758,['Harry Curtis'],0.718,143073,0.506,0,3erNdiLPou8N2daJMvaaWv,9.75E-06,7,0.0615,-10.519,1,Dinah,0,1923,0.0362,130.062
+0.729,1923,0.714,['Harry Curtis'],0.627,147069,0.415,0,3f4HAZPUTSrQbK6jCwQhnx,0,0,0.164,-11.671,1,You Broke the Only Heart That Ever Loved You,0,1923,0.0462,133.901
+0.779,1923,0.859,['Harry Curtis'],0.733,184059,0.516,0,3lWtpc2gKflv5xG7qGVA9l,0,2,0.0913,-11.97,1,I Can't Give You Anything But Love,0,1923,0.0475,139.964
+0.561,1923,0.906,['Harry Curtis'],0.743,150570,0.417,0,3zsFs71s4rmanTNdQUatzS,0,5,0.0982,-10.234,1,You Never Miss the Water till the Well Runs Dry,0,1923,0.0313,119.96
+0.236,1923,0.88,['Harry Curtis'],0.475,209058,0.294,0,41RLkvyELWv5ydLwQ6FsLu,0,10,0.109,-12.168,1,You Always Hurt the One You Love,0,1923,0.0381,126.301
+0.711,1923,0.996,['Francisco Canaro'],0.407,160787,0.407,0,4IZb9POk9nkymYNibJkUxh,0.982,0,0.296,-16.127,0,Negro Veio - Remasterizado,0,9/7/1923,0.116,134.869
+0.59,1923,0.994,['Ignacio Corsini'],0.537,130347,0.273,0,4Oy82y4C7BmmbRKwqtnHP9,0.866,9,0.161,-21.049,1,Fin de Fiesta - Remasterizado,0,29/03/1923,0.114,126.42
+0.88,1923,0.995,['Ignacio Corsini'],0.52,138387,0.168,0,4aBACPRAZ0c9aE4hANFqQC,0.916,6,0.106,-25.089,0,El Ranchito - Remasterizado,0,29/03/1923,0.0598,133.933
+0.785,1923,0.818,['Harry Curtis'],0.825,161071,0.476,0,4eM1VXQJL2BUF8oS5z0aMg,0,1,0.0901,-10.491,1,Sleepy Time Gal,0,1923,0.0328,119.979
+0.684,1923,0.992,['Ignacio Corsini'],0.375,165787,0.345,0,4k5a1oCScvCZQitzrWsND1,0.898,4,0.266,-20.106,0,La Vuelta de Mi Amor - Remasterizado,0,29/03/1923,0.337,74.236
+0.706,1923,0.976,['Georgius'],0.613,182440,0.457,0,4qCTrMjyVYDIGVKSGbuBNF,0,7,0.192,-15.501,1,Il N'osait Pas Se Decider,0,1923,0.51,76.682
+0.584,1923,0.995,['Gaby Montbreuse'],0.599,185067,0.227,0,4rU4TQ59s6Z91flH6bqPKM,4.49E-05,10,0.129,-14.867,0,Le Roudoudou,0,1923,0.0646,78.265
+0.661,1923,0.838,['Harry Curtis'],0.702,124056,0.372,0,4xHyPfnrvKvatqt2oj3b4V,0,0,0.13,-10.667,1,I Don't Know Enough About You,0,1923,0.0894,156.09
+0.593,1923,0.995,['Francisco Canaro'],0.332,179987,0.291,0,4xoxTpgNnolA6lk5yIVtmB,0.858,1,0.404,-16.271,1,Nerón - Remasterizado,0,9/7/1923,0.0555,186.573
+0.779,1923,0.993,['Ignacio Corsini'],0.394,164867,0.327,0,50x81sb0gBee8tf30mm8C9,0.764,1,0.14,-20.112,1,Pelele - Remasterizado,0,29/03/1923,0.12,63.228
+0.807,1923,0.992,['Maurice Chevalier'],0.564,145973,0.247,0,51aC0HxEnEvhiuCRRXwipW,0,7,0.201,-16.23,1,Si Vous N'aimez Pas Ca,0,1923,0.291,76.223
+0.795,1923,0.969,['Maurice Chevalier'],0.496,201400,0.297,0,52LOYFwwceYeK0A0XCA8CG,0,2,0.165,-16.775,1,C'est Paris,0,1923,0.0816,84.278
+0.272,1923,0.905,['FanChants: Navijači Radnički 1923'],0.406,117944,0.947,0,52rqxBsKzlyuWPkZDTryPJ,0.00225,11,0.821,-4.784,1,Ekipa Je Na Nogama,0,1923,0.282,129.659
+0.316,1923,0.994,['Francisco Canaro'],0.433,176147,0.381,0,53RV0sULomDyKTBNttT8rP,0,3,0.236,-8.127,0,Dejeme Que la Acompañe - Remasterizado,0,9/7/1923,0.0433,129.194
+0.762,1923,0.996,['Francisco Canaro'],0.566,170667,0.312,0,545izoN6zrJPVbxnuWWv6e,0.951,11,0.252,-16.077,0,Pelele - Remasterizado,0,9/7/1923,0.0853,129.161
+0.819,1923,0.995,['René De Buxeuil'],0.511,145427,0.267,0,55ihYpQJAmCxrStWCqbyLz,0.000242,0,0.16,-17.493,1,Y'a Des Loups,0,1923,0.0862,133.22
+0.675,1923,0.771,['Harry Curtis'],0.721,115069,0.394,0,56nYVNAo1pyeR5lNyQDkaw,0,2,0.371,-10.624,1,Linda,0,1923,0.0651,107.884
+0.706,1923,0.993,['Ignacio Corsini'],0.337,188067,0.311,0,59wHAfTZzQLjlRuki5fQbA,0.977,2,0.745,-19.693,1,Cariño Eterno Irene - Remasterizado,0,29/03/1923,0.0549,115.48
+0.888,1923,0.994,['Francisco Canaro'],0.512,139733,0.291,0,5G5CFwLItSxfy3lsiaL6D7,0.944,4,0.247,-14.599,1,La Java - Remasterizado,0,9/7/1923,0.0407,150.63
+0.335,1923,0.000591,['Hykoski Studios'],0.779,136800,0.121,0,5GUQeC4Yp5G89gxfRPJB4G,0.805,1,0.105,-23.027,1,Long Live Love Life,0,25/03/1923,0.0547,100.003
+0.822,1923,0.973,['Maurice Chevalier'],0.55,194533,0.333,0,5NVr3qEKa1YJiFs4W04JbF,0,7,0.213,-15.12,1,Ose Anna,0,1923,0.0543,89.669
+0.36,1923,0.986,['Ignacio Corsini'],0.345,140013,0.237,0,5To3LZIEi3F2Uto6huARlu,0.93,6,0.168,-19.972,0,Juan de los Santos Arena - Remasterizado,0,29/03/1923,0.0527,62.794
+0.278,1923,0.996,['Francisco Canaro'],0.431,124613,0.241,0,5kY4Yotw4QhL4OCGoJ41NA,0.877,4,0.153,-13.486,1,Los Ojazos de Mi Suegra - Remasterizado,0,9/7/1923,0.0651,117.048
+0.564,1923,0.994,['Francisco Canaro'],0.6,173067,0.329,0,5nrgo1baweZCJCSa0gx30D,0.964,7,0.148,-14.876,1,La Ratonera - Remasterizado,0,9/7/1923,0.0683,125.571
+0.77,1923,6.54E-05,['Macarti'],0.788,414749,0.898,0,5wBkFVpjJiuRi8ZomCngAU,0.843,6,0.0393,-9.377,1,Beis Ep,0,6/2/1923,0.0704,125.031
+0.473,1923,0.988,['Emma Liebel'],0.219,173960,0.301,0,6B23Olc7unlf1u4g7fKcC9,7.16E-06,3,0.159,-14.602,1,Rien Qu'une Nuit,0,1923,0.0457,77.506
+0.727,1923,0.995,['Ignacio Corsini'],0.459,138173,0.129,0,6DIS3aMViX5Fa3TpSn5VZa,0.973,2,0.436,-24.289,1,Sombras - Remasterizado,0,29/03/1923,0.0847,85.152
+0.837,1923,0.757,['Harry Curtis'],0.74,130064,0.512,0,6DT6nvj99xYdNwh4zc2qVM,0,7,0.361,-8.373,1,Glow Worm,0,1923,0.0507,146.037
+0.801,1923,0.962,['Dranem'],0.57,146693,0.277,0,6FY2h8LhZnDLz2qLiDu0kw,0,5,0.318,-15.736,1,Aime Moi Emma,0,1923,0.0648,76.632
+0.743,1923,0.995,['Maurice Chevalier'],0.481,115160,0.221,0,6Gevw7gzy3smhlriQzlCVG,1.78E-06,1,0.47,-17.99,0,Couplets De La Haut,0,1923,0.163,88.538
+0.542,1923,0.97,['Francisco Canaro'],0.323,186080,0.458,0,6LAMHr6Zzx6q8h0BtL2toL,0.928,1,0.112,-15.815,1,Camel - Remasterizado,0,9/7/1923,0.0526,186.768
+0.152,1923,0.784,['4509 STARPASS Prodcutions'],0.628,256981,0.091,0,6VWSJhuxjaIQdsE37xXfDj,0.000944,0,0.102,-18.878,1,Great is Thy Faithfulness,0,1923,0.0398,130.486
+0.524,1923,0.987,['Perchicot'],0.374,198507,0.383,0,6nL3RDerJ8lSOX1anIzpdz,0,5,0.241,-15.804,1,Quand On Aime On A Toujours Vingt Ans,0,1923,0.188,169.836
+0.758,1923,0.749,['Harry Curtis'],0.667,135053,0.408,0,6wgJnau215hVv6zrtPkBuz,0,8,0.0748,-9.513,1,Bye Bye Blackbird,0,1923,0.0286,132.023
+0.552,1923,0.869,['Harry Curtis'],0.489,180062,0.392,0,6yqYqwtzaMNOHDiNScVuwc,0,0,0.0618,-11.049,1,Paper Doll,0,1923,0.0333,140.085
+0.765,1923,0.993,['Fortugé'],0.687,187933,0.173,0,71tnorDlCFZ4g2c1VEaQkR,0,5,0.86,-14.726,1,C'est Jeune Et Ca N'sait Pas,0,1923,0.0772,114.198
+0.814,1923,0.996,['Francisco Canaro'],0.684,177173,0.262,0,7EvnfhaPaXURHPoLaFZyRE,0.975,10,0.149,-14.356,1,Ave María - Remasterizado,0,9/7/1923,0.0666,120.389
+0.659,1923,0.996,['Ignacio Corsini'],0.335,128547,0.096,0,7Hto89Th3bfsBMaBV70PWW,0.766,11,0.158,-27.473,0,La Cabeza del Italiano - Remasterizado,0,29/03/1923,0.0883,147.183
+0.668,1923,0.99,['Ignacio Corsini'],0.396,144680,0.246,0,7IP5SZ3br2KrmaU4zVvUGk,0.893,6,0.165,-21.15,1,Veni Pebeta - Remasterizado,0,29/03/1923,0.0565,63.823
+0.588,1923,0.992,['Francisco Canaro'],0.594,182907,0.231,0,7cXBqrsP9vw9n31zBR3HFg,0.932,6,0.148,-15.425,0,Sacate la Caretita - Remasterizado,0,9/7/1923,0.0608,117.917
+0.488,1923,0.815,['Harry Curtis'],0.724,134060,0.323,0,7dkz2VUbSc7Q884erTp7pG,0,2,0.0997,-13.774,0,You Can't Fool a Broken Heart,0,1923,0.0303,109.014
+0.0661,1923,0.994,"['Qatar Concert Choir', 'Giovanni Pasini']",0.419,230910,0.114,0,7li6UhaaGIR6qcrZKdj1V6,0.96,5,0.0681,-18.409,0,"The Four Seasons: 'Winter' in F Minor, RV 297: Allegro non Molto - Choral Version",0,1923,0.0476,127.638
+0.664,1923,0.955,"['Eugénie Buffet', 'René De Buxeuil']",0.515,186693,0.219,0,7uLMgGFcaP2GFyyXzcgSXj,0,0,0.31,-15.756,1,Ma Chanson,0,1923,0.108,85.385
+0.827,1923,0.995,['Dréan'],0.646,170040,0.345,0,7xHvQztpZzhaR9JRaeXDhM,3.82E-06,1,0.196,-11.057,1,Si Tu Vois Ma Tante,0,1923,0.072,122.159
+0.655,1924,0.994,"['Jean Goldkette and his Orchestra', 'Bix Beiderbecke']",0.721,148493,0.238,0,6rEw2OvQHSwaPfYSv9proK,0.162,2,0.135,-12.591,1,In My Merry Oldsmobile,12,1924,0.0419,111.372
+0.832,1924,0.816,"['Paul Whiteman & His Orchestra', 'Bix Beiderbecke']",0.678,206000,0.395,0,59UEylF5pnWCXm91Hzk2Q9,0.24,3,0.1,-9.825,1,Mississippi Mud (feat. Bix Beiderbecke),13,1924,0.133,184.446
+0.542,1924,0.818,"['The Chenille Sisters', ""James Dapogny's Chicago Jazz Band""]",0.712,133200,0.312,0,0JisTodwlw4iokUY4zEfMb,0,8,0.171,-11.535,1,Low Gravy,11,1924,0.0552,76.981
+0.648,1924,0.946,"['Paul Whiteman & His Orchestra', 'Bix Beiderbecke']",0.693,169867,0.319,0,5l3GHotrnIYZcaxvDgHbst,0.0121,8,0.497,-11.152,0,Changes,7,1924,0.0545,107.014
+0.854,1924,0.981,"['Jean Goldkette and his Orchestra', 'Bix Beiderbecke']",0.865,178773,0.326,0,3mKyLrlesMkJpHAarbeXCU,0.236,8,0.249,-12.64,1,Sunday,7,1924,0.0492,108.316
+0.763,1924,0.989,"['Jean Goldkette and his Orchestra', 'Bix Beiderbecke']",0.625,181933,0.275,0,5fihSggqWM5vABDBrKxGhE,0.824,0,0.483,-11.668,0,Slow River,6,1924,0.0358,104.05
+0.923,1924,0.983,"['Jean Goldkette and his Orchestra', 'Bix Beiderbecke']",0.781,193000,0.303,0,6ElNcnaA5qDK4VlXrLrqvx,0.0821,10,0.0582,-9.205,1,I'm Looking Over a Four-Leaf Clover (feat. Bix Beiderbecke),6,1924,0.0417,110.684
+0.962,1924,0.952,"['Bix Beiderbecke', 'Jean Goldkette and his Orchestra']",0.618,161800,0.568,0,7zdqEebfxYBKKYfLpRDcZb,0.868,7,0.106,-8.876,1,My Pretty Girl,7,1924,0.083,128.99
+0.688,1924,0.94,"['Bix Beiderbecke', 'Hoagy Carmichael & His Orchestra']",0.61,169000,0.784,0,0B6ttII7PpRQXgreuJCLv1,0.105,8,0.0835,-8.734,1,Barnacle Bill The Sailor,5,1924,0.266,131.186
+0.825,1924,0.995,"['Jean Goldkette and his Orchestra', 'Bix Beiderbecke']",0.614,185000,0.504,0,7AO6HiSVKT8WjYGc5Oh9ws,0.243,3,0.569,-10.579,1,I Didn't Know,6,1924,0.0332,101.04
+0.776,1924,0.93,"['Jean Goldkette and his Orchestra', 'Bix Beiderbecke']",0.679,171227,0.287,0,3t9Atfmz1AsCUoltGcOWm6,0.212,10,0.0627,-10.867,0,Idolizing,4,1924,0.0427,111.344
+0.658,1924,0.995,"['Paul Whiteman & His Orchestra', 'Bix Beiderbecke', 'Bing Crosby']",0.588,211987,0.209,0,4qdExp8yEjjREnW6qe59qT,0.853,5,0.119,-13.757,1,There Ain't No Sweet Man That's Worth the Salt of My Tears,4,1924,0.114,169.049
+0.366,1924,0.987,"['Hoagy Carmichael & His Orchestra', 'Bix Beiderbecke']",0.488,189000,0.204,0,661CAsOnUSYImyPn8PwtfN,0.0954,10,0.327,-13.313,1,Georgia On My Mind (feat. Bix Beiderbecke),5,1924,0.0447,104.229
+0.905,1924,0.973,"['Paul Whiteman & His Orchestra', 'Bix Beiderbecke']",0.678,202000,0.458,0,6tWzn21SATD02S0ts7BSPA,0.929,10,0.0675,-11.597,0,San,4,1924,0.0478,111.731
+0.961,1924,0.987,"['Jean Goldkette and his Orchestra', 'Bix Beiderbecke']",0.625,181173,0.346,0,7otUCdCHZmbKknO9fVKSNx,0.928,8,0.373,-12.467,1,Clementine (From New Orleans) - Remastered 1989,4,1924,0.0686,177.112
+0.781,1924,0.859,"['Paul Whiteman & His Orchestra', 'Bix Beiderbecke']",0.765,196000,0.378,0,0WpK3FoUfvOcfTtU6X0hbH,0.837,7,0.25,-12.191,1,Sugar,3,1924,0.0796,105.349
+0.871,1924,0.951,"['Hoagy Carmichael & His Orchestra', 'Bix Beiderbecke', 'Bud Freeman']",0.826,175720,0.447,0,1WVXxCQtAvzwerdF1oBiXy,0.24,5,0.0764,-10.71,1,Bessie Couldn't Help It,4,1924,0.0547,95.616
+0.741,1924,0.99,"['Paul Whiteman & His Orchestra', 'Bix Beiderbecke']",0.622,172000,0.527,0,1eesahm8KPMP9hTEv9W3QL,0.879,3,0.263,-10.487,1,Lonely Melody,3,1924,0.0468,96.512
+0.918,1924,0.84,"['Paul Whiteman & His Orchestra', 'Bix Beiderbecke']",0.491,181267,0.33,0,3JCJs6b2Midbvum3qechgd,0.896,5,0.269,-11.657,1,Dardanella,2,1924,0.0763,207.459
+0.924,1924,0.986,"['Bix Beiderbecke', 'Jean Goldkette and his Orchestra']",0.736,185667,0.286,0,3iBSWcxxl5xrw5w5iDYIFq,0.0878,7,0.124,-9.82,1,I'm Proud of a Baby Like You,4,1924,0.0457,104.57
+0.665,1924,0.932,"['Bix Beiderbecke', 'Hoagy Carmichael & His Orchestra']",0.657,207000,0.363,0,4Lf3YhfAE55vTfRyj5SUIq,0.0348,8,0.189,-12.306,1,Rockin' Chair,3,1924,0.4,161.306
+0.869,1924,0.966,"['Paul Whiteman & His Orchestra', 'Bix Beiderbecke']",0.664,151693,0.273,0,4SQ6xU6Q9AP6bua8bldBoe,0.861,7,0.371,-13.326,0,Coquette,2,1924,0.0445,105.798
+0.921,1924,0.889,"['Paul Whiteman & His Orchestra', 'Bix Beiderbecke', 'Bing Crosby']",0.422,166333,0.392,0,5vZwWZvoqDYiDqO6u7fIZm,0.515,7,0.327,-11.201,1,(What Are You Waiting For) Mary,3,1924,0.0388,189.586
+0.25,1924,0.992,"['Paul Whiteman & His Concert Orchestra', 'Bix Beiderbecke']",0.536,253800,0.0815,0,01ZZRn5vix6WJfvQqXLtpP,0.0261,10,0.111,-16.193,1,Washboard Blues,2,1924,0.0494,112.243
+0.315,1924,0.896,"['The Chenille Sisters', ""James Dapogny's Chicago Jazz Band""]",0.581,355440,0.132,0,09MlY8XZXec36c8z27raVd,0.0405,10,0.105,-16.464,1,Sentimental Journey,2,1924,0.033,71.587
+0.481,1924,0.992,['Louis Armstrong'],0.674,187400,0.176,0,0mvVIlqmAJnk4S1zWz8Pye,0.0264,11,0.273,-12.537,1,(What Did I Do to Be So) Black and Blue,1,1924,0.0574,98.984
+0.753,1924,0.922,"['Bix Beiderbecke And His Orchestra', 'Bix Beiderbecke']",0.565,181000,0.448,0,0xOgGPN7fDszF6wLpPBE6r,0.0434,7,0.107,-11.397,0,"Deep Down South (From ""Pardon My Gun"")",1,1924,0.0554,85.618
+0.684,1924,0.99,"['Paul Whiteman & His Orchestra', 'Bix Beiderbecke']",0.563,168000,0.23,0,3SzSfiYWgjMNdUNi3bCk5B,0.908,8,0.348,-12.341,1,Back In Your Own Backyard,1,1924,0.0328,99.411
+0.659,1924,0.983,"['Paul Whiteman & His Orchestra', 'Bing Crosby', 'Bix Beiderbecke']",0.649,184000,0.587,0,3pKHJwxKDCnhv6I5Jqhz8s,0.495,10,0.138,-10.376,1,From Monday On (with Bing Crosby & Bix Beiderbecke),2,1924,0.147,110.947
+0.909,1924,0.964,"['Jean Goldkette and his Orchestra', 'Bix Beiderbecke']",0.624,177933,0.404,0,3sTY4w8SiETVl4BJyGTNpd,0.0587,9,0.71,-9.894,1,Hoosier Sweetheart,3,1924,0.0474,112.317
+0.436,1924,0.887,"['Bix Beiderbecke And His Orchestra', 'Bix Beiderbecke']",0.508,186000,0.262,0,4SGCTwZyY0uTOJuMMsYKWl,0.0343,7,0.115,-12.632,1,"I'll Be a Friend ""With Pleasure""",2,1924,0.0405,137.012
+0.763,1924,0.974,"['Bix Beiderbecke', 'Bix Beiderbecke And His Orchestra']",0.416,173000,0.24,0,4YJ5hX2TZiBMAlwcUyfu8c,0.023,8,0.0789,-14.319,1,I Don't Mind Walking in the Rain (If I'm Walking in the Rain with You),2,1924,0.0656,171.83
+0.711,1924,0.988,"['Paul Whiteman & His Orchestra', 'Bix Beiderbecke']",0.636,176800,0.26,0,5v1mU1giXqokrOnNhCPDkP,0.0502,5,0.114,-12.631,0,Louisiana,2,1924,0.0449,97.797
+0.842,1924,0.971,"['Paul Whiteman & His Orchestra', 'Bix Beiderbecke']",0.671,181427,0.383,0,6nVSuzjKSZ9y6NrxUtmimA,0.0306,5,0.175,-12.275,1,Lovable,1,1924,0.0385,116.628
+0.968,1924,0.981,"['Jean Goldkette and his Orchestra', 'Bix Beiderbecke']",0.741,163000,0.535,0,7mjBXTOlhlaxX3qZDLfX6G,0.765,1,0.152,-9.173,0,I'm Gonna Meet My Sweetie Now,2,1924,0.0411,118.205
+0.564,1924,0.995,['Ignacio Corsini'],0.291,156293,0.153,0,00ZoQFjisje8cmTJKpO3uQ,0.0188,5,0.187,-22.092,1,Tristeza Criolla - Remasterizado,0,29/03/1924,0.0586,177.144
+0.746,1924,0.989,['Ignacio Corsini'],0.439,132787,0.158,0,00dYkxYZB1sChcRL6aUK85,0.862,6,0.109,-20.976,0,A Lo Lejos - Remasterizado,0,29/03/1924,0.0732,168.596
+0.352,1924,0.996,['Francisco Canaro'],0.589,170533,0.254,0,00jK3BvNcO3lf2TdxHwo9d,0.952,2,0.255,-16.081,1,Fantasio - Remasterizado,0,11/7/1924,0.0576,116.602
+0.556,1924,0.996,['Francisco Canaro'],0.686,176880,0.235,0,06GtF3borSXnkXfCyeUUmX,0.978,9,0.307,-14.023,1,El Vazquito - Remasterizado,0,12/7/1924,0.104,118.773
+0.799,1924,0.995,['George Olsen'],0.396,134360,0.28,0,06JcOHxs3UZbdTIGaP4ieA,0.939,0,0.0671,-13.775,1,A Sun-Kist Cottage In California,0,1/1/1924,0.049,211.839
+0.63,1924,0.996,['Francisco Canaro'],0.524,177693,0.532,0,08SpaYq4TuWsuqHoxJg3xM,0.943,3,0.131,-14.631,1,Ki Ki - Remasterizado,0,11/7/1924,0.385,116.661
+0.397,1924,0.996,['Francisco Canaro'],0.601,199667,0.177,0,0BWjkLpY5E5DWWbwtsZtEG,0.941,8,0.265,-17.316,0,La Cabeza del Italiano - Remasterizado,0,11/7/1924,0.0701,72.738
+0.276,1924,0.612,['Jailess'],0.755,150909,0.65,0,0DXeuoAUgY4kkFuC3AvhmE,0.000153,0,0.101,-7.107,1,Pelco y Trama,0,31/08/1924,0.42,90.951
+0.619,1924,0.995,['Francisco Canaro'],0.682,170667,0.3,0,0GJn6cusRANNfmv25i1hPZ,0.979,10,0.14,-13.108,0,Una Noche en París - Remasterizado,0,12/7/1924,0.0607,121.616
+0.688,1924,0.996,['Francisco Canaro'],0.605,167040,0.154,0,0GVfm14q2ESYGTf3ukH0Pi,0.931,2,0.167,-18.3,1,Sobre el Pucho - Remasterizado,0,11/7/1924,0.0626,124.756
+0.547,1924,0.987,['Ignacio Corsini'],0.332,134840,0.278,0,0GXSIHwSyddrKNddSMNABj,0.963,8,0.177,-19.895,1,Olga - Remasterizado,0,29/03/1924,0.0748,179.54
+0.15,1924,0.98,['Ignacio Corsini'],0.408,144253,0.198,0,0OJgo5mwk8SirgbF8Ht4lA,0.9,4,0.114,-23.185,1,Juan de los Santos Arena - Remasterizado,0,29/03/1924,0.0552,120.807
+0.692,1924,0.996,['Francisco Canaro'],0.463,154653,0.24,0,0P50B0DOwk4Y7k3ERvlq5b,0.906,0,0.225,-16.523,1,Día de Lluvia - Remasterizado,0,11/7/1924,0.127,138.878
+0.71,1924,0.996,['Francisco Canaro'],0.425,188147,0.652,0,0V29uZ25OVqdQeB7uOeUv3,0.843,10,0.715,-12.108,0,La Sulamita - Remasterizado,0,11/7/1924,0.0707,176.256
+0.614,1924,0.996,['Francisco Canaro'],0.371,151000,0.429,0,0XxNSOBdA2uQSwXMthVPfO,0.968,0,0.193,-13.349,0,Francesita - Remasterizado,0,11/7/1924,0.367,83.762
+0.835,1924,0.994,['Adolphe Bérard'],0.462,195200,0.277,0,0cqYzfCNsc3ESTkEsE45Ns,3.57E-06,7,0.0991,-14.628,0,Les grains de beauté,0,1924,0.058,91.775
+0.387,1924,0.975,['Duke Ellington & His Washingtonians'],0.548,203427,0.181,0,0dFIPCkgtDTapTIN3PgQON,0.0213,6,0.226,-16.196,1,Black and Tan Fantasy,0,1924,0.0491,108.274
+0.809,1924,0.671,"['The Chenille Sisters', ""James Dapogny's Chicago Jazz Band""]",0.687,176533,0.557,0,0fSiph081hxiAPQ95Ra786,0.000468,8,0.0353,-11.106,1,I Want To Be Happy,0,1924,0.0594,121.011
+0.835,1924,0.968,['Hot Lips Page'],0.626,200067,0.452,0,0ffe3xtnnDpGxRE3lHIwhD,0.0252,7,0.119,-12.341,0,Jump For Joy,0,1924,0.0698,125.293
+0.101,1924,0.984,['Dombrova Piano Duo'],0.372,1031014,0.0909,0,0g1SxfmgprLJXsBQ40pIYM,0.854,2,0.077,-24.959,1,Rhapsody in Blue (for piano 4 hands),0,1924,0.0557,71.866
+0.765,1924,0.996,['Francisco Canaro'],0.508,176520,0.491,0,0habaFvLjblyuJHUXOP1bu,0.931,6,0.192,-16.988,0,Sin Consuelo - Remasterizado,0,12/7/1924,0.219,74.513
+0.841,1924,0.985,['Georges Milton'],0.707,154893,0.316,0,0jevjABCJ7yA139ejmBjZY,0,0,0.167,-16.541,1,J'aime pas ca,0,1924,0.0686,90.009
+0.726,1924,0.985,"['Paul Whiteman & His Orchestra', 'Bix Beiderbecke']",0.778,170173,0.179,0,0lL9oZj00ktbJjmvJhuGnp,0.755,5,0.0889,-13.443,1,My Pet,1,1924,0.0502,96.408
+0.296,1924,0.772,['Sara Gee & Ramblin Matt'],0.59,283389,0.138,0,0ldBKPrhPqoqJcfwpQ4X0x,0.000221,7,0.12,-15.065,1,Wild Women Don't Have the Blues,0,1924,0.0628,81.219
+0.893,1924,0.996,['Francisco Canaro'],0.588,162827,0.316,0,0oBftCwkss2MDilOow56oy,0.966,2,0.228,-14.435,1,Oh París - Remasterizado,0,12/7/1924,0.0668,172.762
+0.588,1924,0.996,['Francisco Canaro'],0.634,164533,0.438,0,0odJX7Vaz6vyRdF7foaS19,0.956,5,0.273,-13.906,1,El Flechazo - Remasterizado,0,11/7/1924,0.253,127.552
+0.901,1924,0.931,['Johann Sebastian Bach'],0.661,170973,0.239,0,0sfPuqQFRqddMCwyntbyjC,0,9,0.0511,-13.361,1,Avec bidasse,0,1924,0.243,93.021
+0.515,1924,0.992,['Bayan Sultan'],0.382,166699,0.222,0,0u2QMHIKMviLxV4afomuiP,0.902,2,0.12,-14.032,1,Gemi Kalkar Sular Aka,0,18/12/1924,0.0712,80.039
+0.428,1924,0.996,['Francisco Canaro'],0.533,173467,0.219,0,0zYxScpizOj2XkB9jU9LxQ,0.911,8,0.31,-14.809,1,Sentimiento Gaucho - Remasterizado,0,12/7/1924,0.0827,71.05
+0.96,1924,0.624,"['The Chenille Sisters', ""James Dapogny's Chicago Jazz Band""]",0.657,180667,0.455,0,15SUltrayJlHNaoEVI1NgM,0.00194,10,0.214,-11.877,1,Rum and Coca Cola,0,1924,0.0547,143.431
+0.552,1924,0.601,"['The Chenille Sisters', ""James Dapogny's Chicago Jazz Band""]",0.647,313707,0.587,0,18OWcGarr66PybHGAF9nhr,0.635,5,0.128,-10.882,1,Bye Bye Blues,0,1924,0.0638,119.703
+0.752,1924,0.996,['Francisco Canaro'],0.369,164320,0.506,0,1AnWsrmF3or0kUIASWQxfP,0.942,7,0.37,-14.262,1,Pato Alegre - Remasterizado,0,12/7/1924,0.182,120.913
+0.949,1924,0.996,['Francisco Canaro'],0.628,172333,0.403,0,1DMuD0CaT8fJxx5pIbRJzP,0.898,2,0.693,-13.157,1,Pero Hay Una Melena - Remasterizado,0,12/7/1924,0.0352,77.773
+0.729,1924,0.991,['Mistinguett'],0.656,161933,0.467,0,1EO65UEEPfy7CR0NK2sDxy,0,9,0.219,-12.392,0,Ils n'ont pas ca,0,1924,0.177,129.865
+0.856,1924,0.89,"['Paul Whiteman & His Orchestra', 'Bix Beiderbecke']",0.727,170307,0.411,0,1FoAqfehAMBUEWKz01sVtr,0.105,5,0.249,-10.799,0,When,1,1924,0.0622,111.371
+0.689,1924,0.995,['George Olsen'],0.666,190707,0.329,0,1IwWFWpxxjbnYjI7enSbJD,0.227,5,0.0813,-10.168,1,Nancy,0,1/1/1924,0.033,109.65
+0.745,1924,0.821,['Lionel Hampton Orchestra'],0.589,500787,0.895,0,1JKGMzesB5AMCp9Yuqbcjj,0.675,10,0.593,-4.295,1,I Got Rhythm,0,1924,0.103,141.475
+0.494,1924,0.995,['Ignacio Corsini'],0.559,162507,0.138,0,1M4n1lkTiH1o6K2RKVuopE,0.907,2,0.238,-22.274,1,Galletita - Remasterizado,0,29/03/1924,0.117,111.322
+0.623,1924,0.996,['Francisco Canaro'],0.585,152387,0.306,0,1QeEdPa3xSu8Vejf8YBMXx,0.954,4,0.286,-12.408,1,Puentecito - Remasterizado,0,12/7/1924,0.0774,116.973
+0.937,1924,0.975,['Fred Gouin'],0.722,162293,0.267,0,1Wa0hdSbicX9gehPufTzr3,0,4,0.265,-13.319,1,Elle a perdu son pantalon,0,1924,0.0926,126.281
+0.517,1924,0.991,['Georgius'],0.61,197640,0.374,0,1agQgiViJVJrONfuBVGck6,0,3,0.159,-11.64,1,Passons la monnaie,0,1924,0.293,138.204
+0.505,1924,0.99,['René De Buxeuil'],0.404,194760,0.314,0,1bpb5MLji9mbUPqRltTtIk,0,0,0.298,-16.797,1,L'âme des roses,0,1924,0.0785,74.166
+0.693,1924,0.995,['Francisco Canaro'],0.374,148173,0.458,0,1dk1ilqdHCLXwAcqPsnMwM,0.911,8,0.422,-12.673,0,La Madrecita - Remasterizado,0,11/7/1924,0.0369,134.416
+0.81,1924,0.995,['Dranem'],0.644,167560,0.262,0,1dxQ9woGE6ErHP4eoct4b8,7.66E-06,9,0.127,-15.243,0,J'ai eu tort,0,1924,0.0767,64.835
+0.541,1924,0.996,['Francisco Canaro'],0.494,176747,0.232,0,1gxCV37YTTaWCPACNYdImn,0.927,9,0.174,-18.142,0,Juventud - Remasterizado,0,11/7/1924,0.175,65.9
+0.556,1924,0.995,['George Olsen'],0.334,168027,0.382,0,1hTEyfuMYO88JjvSJEarcr,0.886,5,0.114,-11.737,1,The Slave of Love,0,1/1/1924,0.0393,202.861
+0.617,1924,0.784,['Duke Ellington'],0.602,180427,0.333,0,1iYULfwDSwsh4eQUkdSx3D,1.22E-06,0,0.127,-9.352,1,"Up and Down, Up and Down (I Will Lead Them Up and Down) [Puck]",0,1924,0.0284,77.438
+0.803,1924,0.996,['Francisco Canaro'],0.725,167120,0.284,0,1nS72qyMPIOcQGyxxglsNJ,0.961,0,0.223,-14.01,0,Solita - Remasterizado,0,12/7/1924,0.0691,119.168
+0.7,1924,0.996,['Francisco Canaro'],0.653,171600,0.251,0,1oPGdfmHHEKUOQWKdqtqBN,0.96,2,0.114,-14.249,1,Mameluke - Remasterizado,0,12/7/1924,0.0681,116.703
+0.705,1924,0.995,['Francisco Canaro'],0.225,172160,0.432,0,1p6moJMYdQBIohT6LzFFtO,0.983,5,0.193,-15.683,0,Cotillón - Remasterizado,0,11/7/1924,0.058,171.9
+0.451,1924,0.000847,['Lionel Hampton Orchestra'],0.339,326093,0.623,0,1spxOSeCG8DUa5pwK6EPvZ,0.0125,7,0.354,-13.184,1,How High the Moon,0,1924,0.0481,80.847
+0.721,1924,0.995,['Maurice Chevalier'],0.6,148760,0.256,0,1tVeausocI8kRJXlAm3kGP,1.72E-06,6,0.401,-14.619,1,Ca vient ou ca n'vient pas,0,1924,0.0932,81.477
+0.647,1924,0.996,['Francisco Canaro'],0.3,188400,0.369,0,1uyUvOCTgWNn1cnQBclT5B,0.948,3,0.324,-13.854,1,El Borracho - Remasterizado,0,12/7/1924,0.0598,71.88
+0.456,1924,0.991,['Bessie Smith'],0.494,193960,0.212,0,1vyWKqg4E54w3woxOqIduz,0,1,0.777,-10.61,1,Work House Blues,0,1924,0.0332,80.287
+0.923,1924,0.988,['George Olsen'],0.438,180533,0.338,0,1zPZ6UI2IFvyw399Wqwuhk,0.925,3,0.151,-12.718,1,Save Your Sorrow For Tomorrow,0,1/1/1924,0.0479,209.855
+0.712,1924,0.993,['Maurice Chevalier'],0.616,159307,0.302,0,1zsq8owQ8KZ1yv7r0EZn3J,0,3,0.0865,-14.815,1,Les ananas,0,1924,0.161,136.155
+0.322,1924,0.996,['Francisco Canaro'],0.487,191147,0.0849,0,22Zf2FtRJhCKdnCoshU53T,0.818,8,0.121,-17.366,1,Padre Nuestro - Remasterizado,0,11/7/1924,0.0969,132.86
+0.236,1924,0.996,['Francisco Canaro'],0.389,174640,0.372,0,23Wl0mfhHCa0wgGKP0lvfv,0.952,3,0.239,-11.583,1,Melodía de Amor - Remasterizado,0,12/7/1924,0.0709,133.538
+0.475,1924,0.996,['Francisco Canaro'],0.393,186600,0.388,0,23xeY0EI4ZklNr7sm9hUvU,0.967,8,0.428,-11.936,0,Arrepentida - Remasterizado,0,12/7/1924,0.176,213.448
+0.681,1924,0.996,['Francisco Canaro'],0.432,189133,0.257,0,29qeRLMn8dC8namrmZzvpv,0.927,1,0.236,-10.682,1,Recuerdo de París - Remasterizado,0,12/7/1924,0.0805,71.063
+0.601,1924,0.996,['Francisco Canaro'],0.467,165213,0.36,0,2EHCmcIdGcn282tF7hkt0P,0.897,2,0.29,-13.877,0,La Garconiere - Remasterizado,0,11/7/1924,0.0516,119.334
+0.507,1924,0.995,['Francisco Canaro'],0.397,188347,0.334,0,2FcDRcHSSqtYjFnD5FUJOP,0.978,4,0.215,-16.767,1,Arabian Smiles - Remasterizado,0,11/7/1924,0.0706,136.523
+0.7,1924,0.995,['Francisco Canaro'],0.53,170067,0.297,0,2JyKwljqsuRIrqHOQscLUd,0.912,10,0.13,-18.45,1,Pobre Madrecita - Remasterizado,0,11/7/1924,0.136,128.019
+0.647,1924,0.995,['Francisco Canaro'],0.355,166667,0.299,0,2KQsH0OusGdovvY5XGvYoO,0.771,10,0.14,-18.996,1,La Virgen de Estambul - Remasterizado,0,11/7/1924,0.0456,130.437
+0.757,1924,0.995,['George Olsen'],0.585,179240,0.362,0,2LIwTk58Eb6g6Q6Rw4ekXD,0.769,0,0.341,-14.386,1,Nobody Knows What a Red-Head Mama Can Do,0,1/1/1924,0.0934,183.728
+0.686,1924,0.993,['George Olsen'],0.794,164093,0.327,0,2M6VDjIyknJqeZpyt0owZw,0.0294,5,0.112,-14.556,1,My Papa Doesn't Two-Time No Time,0,1/1/1924,0.0535,108.723
+0.801,1924,0.99,['George Olsen'],0.689,185853,0.319,0,2SCAklEyF0ArIoCq9HotPy,0.523,0,0.0421,-12.398,1,You'll Never Get to Heaven with Those Eyes,0,1/1/1924,0.0612,97.806
+0,1924,0.996,['Ignacio Corsini'],0,133947,0.0258,0,2WTtJDfCUjAyCZHRSfCLDn,0.768,5,0.0831,-24.894,1,La Mina del Ford - Remasterizado,0,29/03/1924,0,0
+0.823,1924,0.658,"['The Chenille Sisters', ""James Dapogny's Chicago Jazz Band""]",0.65,196560,0.599,0,2XIFockStn76X2Vt878GPq,0.000117,8,0.239,-10.187,1,Nagasaki,1,1924,0.0536,116.474
+0.579,1924,0.994,['Ignacio Corsini'],0.443,186240,0.0558,0,2cOE5LUG1FViS4yX3C8YUD,0.929,3,0.313,-22.32,1,Mi Rosal Ha Florecido - Remasterizado,0,29/03/1924,0.119,74.416
+0.673,1924,0.571,['Lionel Hampton Orchestra'],0.613,158853,0.578,0,2fKomnNDpVH4vvKPVnCq5f,0.0526,11,0.137,-11.159,0,Wine Song,0,1924,0.0305,134.619
+0.603,1924,0.996,['Francisco Canaro'],0.738,175893,0.285,0,2fzm8k973cmkJh1HBsgOu2,0.838,8,0.186,-11.513,1,Porque - Remasterizado,0,12/7/1924,0.0537,112.954
+0.628,1924,0.469,['Jimmy Rushing And His Orchestra'],0.59,207333,0.37,0,2gLGKPi8uCfRGV2Kkv2YJJ,0,8,0.304,-11.666,1,Down Hearted Blues,0,1924,0.0367,80.482
+0.922,1924,0.996,['Francisco Canaro'],0.451,171827,0.599,0,2hBNaMVFeZ68GPOCXKw8G3,0.911,6,0.849,-9.195,1,Yo Tuve un Amorcito - Remasterizado,0,12/7/1924,0.11,183.705
+0.672,1924,0.996,['Francisco Canaro'],0.689,172987,0.245,0,2mYyH216FlPzP4rFQAuIxo,0.916,7,0.273,-13.916,1,Marea Baja - Remasterizado,0,11/7/1924,0.0671,126.603
+0.744,1924,0.995,['Francisco Canaro'],0.64,170533,0.311,0,2v1xGuEPv8AtXzNSxDeCyV,0.973,3,0.201,-14.227,0,No me Digas Que la Quiero - Remasterizado,0,12/7/1924,0.0539,124.044
+0.327,1924,0.996,['Francisco Canaro'],0.424,204053,0.309,0,2xDnVQfki042lphxbxDylR,0.946,5,0.175,-16.927,1,Sobin Blue - Remasterizado,0,11/7/1924,0.0591,127.24
+0.872,1924,0.991,['Francisco Canaro'],0.576,173693,0.487,0,2xK2jdLgjizVgc7pt3xjm1,0.963,5,0.145,-15.383,0,El Serrucho - Remasterizado,0,11/7/1924,0.0987,131.307
+0.634,1924,0.995,['Ignacio Corsini'],0.494,159200,0.111,0,2xY6aTzgJS9nI9kcG3F2bh,0.684,5,0.176,-23.239,1,El Beso de la Muerte - Remasterizado,0,29/03/1924,0.0653,127.714
+0.575,1924,0.996,['Francisco Canaro'],0.209,168373,0.52,0,30JHWOyo2V4pvQu7Kttmk8,0.987,10,0.501,-15.655,1,Sueño Indio - Remasterizado,0,12/7/1924,0.0739,173.264
+0.781,1924,0.995,['Francisco Canaro'],0.436,172707,0.492,0,31mfc5lwsASjh3fXAn5VCJ,0.967,2,0.367,-14.29,1,Ahí Va el Dulce - Remasterizado,0,11/7/1924,0.0977,127.168
+0.882,1924,0.713,"['The Chenille Sisters', ""James Dapogny's Chicago Jazz Band""]",0.658,199533,0.398,0,36Cxe9CIlO1pcc7kPpm9nX,0,7,0.127,-10.054,0,Goody-Goody,0,1924,0.0434,157.969
+0.453,1924,0.00262,['Lionel Hampton Orchestra'],0.478,449480,0.601,0,39hHy2RE5bbkjweHBOwyi7,0.0125,7,0.413,-15.063,1,Mr. John,0,1924,0.0434,140.472
+0.902,1924,0.996,['Francisco Canaro'],0.315,148120,0.278,0,3A4KeGhXlHPpSWYIFyxYZk,0.975,10,0.423,-14.458,1,Melodía de Amor - Remasterizado,0,11/7/1924,0.0607,202.084
+0.554,1924,0.996,['Francisco Canaro'],0.37,170800,0.4,0,3CbLwi1sL1h4C1uOVLERLX,0.985,5,0.532,-15.612,1,La Mora - Remasterizado,0,12/7/1924,0.0697,127.293
+0.953,1924,0.993,['Dréan'],0.692,153973,0.273,0,3PVLFMxbSZMgzepT2O3zvE,8.00E-06,5,0.181,-14.492,1,Elle s'etait fait couper les cheveux,1,1924,0.0921,71.256
+0.715,1924,0.995,['Bijoylal Mukherjee'],0.301,177348,0.312,0,3T8yr5lt6QxomDUG9CIkrt,0.916,4,0.422,-14.995,1,Nebe Aye Shyama Nebe Aye,0,31/12/1924,0.0527,68.673
+0.726,1924,0.996,['Francisco Canaro'],0.386,169253,0.518,0,3W8SR4j4XfaSrRoJou1EYA,0.882,0,0.31,-10.86,1,Asi me Dejas - Remasterizado,0,12/7/1924,0.0446,117.085
+0.745,1924,0.995,['George Olsen'],0.434,182773,0.322,0,3a1oQMnNoqob4NOSmTAsvr,0.883,10,0.128,-15.618,1,Biminy,0,1/1/1924,0.0497,203.564
+0.832,1924,0.861,['Mahalia Jackson'],0.524,161373,0.383,0,3dlYc2bWBp3AIPBaYzvqL8,0,0,0.24,-11.666,1,The Holy Babe,0,1924,0.0544,164.574
+0.586,1924,0.996,['Francisco Canaro'],0.825,153613,0.251,0,3hnWzirtxXGoNp40x0WbAo,0.898,3,0.133,-12.484,0,Yo Busco a Mi Pebeta - Remasterizado,0,12/7/1924,0.0775,75.416
+0.833,1924,0.992,['Maurice Chevalier'],0.723,159440,0.381,0,3k0JUV42pr3lm1MiXtN0sp,2.01E-06,9,0.0687,-11.463,0,Dites moi m'sieur chevalier,0,1924,0.482,118.719
+0.766,1924,0.996,['Francisco Canaro'],0.674,153240,0.318,0,3k7kqHlT7z3HAe8BVrk0Zd,0.931,10,0.153,-16.047,1,China - Remasterizado,0,11/7/1924,0.256,130.672
+0.918,1924,0.977,['Louis Armstrong & His Hot Seven'],0.583,175200,0.301,0,3lToy7oVouc833ZPrXPGO0,0.515,5,0.18,-10.049,1,Potato Head Blues,0,1924,0.218,181.885
+0.822,1924,0.991,['Ignacio Corsini'],0.523,141733,0.189,0,3pfh479X2kg7sNFLZmscWE,0.94,8,0.216,-20.918,1,Torcacita - Remasterizado,0,29/03/1924,0.106,123.954
+0.436,1924,0.0126,['Lionel Hampton Orchestra'],0.387,644027,0.715,0,3sRZN0JyaVNLH33y7n1ioN,0.623,7,0.227,-13.2,1,Flying Home,0,1924,0.118,129.754
+0.44,1924,0.996,['Francisco Canaro'],0.456,172493,0.325,0,3vNSAfq1Kpl8iKkb47oMJQ,0.95,4,0.327,-15.917,0,Muchachita Loca - Remasterizado,0,11/7/1924,0.129,127.493
+0.675,1924,0.763,"['The Chenille Sisters', ""James Dapogny's Chicago Jazz Band""]",0.654,206693,0.326,0,3weXrCuH0BVpfGaonKxZ3c,0,0,0.0366,-11.12,1,Bob White,0,1924,0.0706,79.84
+0.878,1924,0.995,['George Olsen'],0.801,126307,0.398,0,46I2GKZAgZPBEPud1gzMlS,0.895,10,0.0802,-11.753,1,Toodles - My Baby's Baby Blue Eyes,0,1/1/1924,0.0459,106.301
+0.354,1924,0.995,['Mlle Davia'],0.382,176240,0.274,0,46VoG8v7mJStzIkyJw4hJD,0.0201,5,0.293,-17.137,0,Pour un homme,0,1924,0.062,127.386
+0.727,1924,0.995,['Maurice Chevalier'],0.534,176067,0.166,0,4BI5x2PIP4RtYUtfRD36gZ,0,5,0.139,-15.402,1,C'est pas grand chose,0,1924,0.0719,129.396
+0.776,1924,0.996,['Ignacio Corsini'],0.58,147267,0.117,0,4CRqnUrUiDEi1d3jSLKgTH,0.934,5,0.137,-25.096,1,Fea - Remasterizado,0,29/03/1924,0.129,130.235
+0.361,1924,0.951,"['The Chenille Sisters', ""James Dapogny's Chicago Jazz Band""]",0.592,275667,0.115,0,4Eo9mdYFPtjBeUrHlHcnlx,6.61E-06,5,0.115,-13.934,1,Little White Lies,0,1924,0.041,115.759
+0.443,1924,0.995,['Francisco Canaro'],0.456,189547,0.116,0,4GCADzGgIy4ywHIWCKkWNM,0.954,8,0.146,-17.128,1,Yo Tuve un Cariño - Remasterizado,0,11/7/1924,0.1,132.705
+0.306,1924,0.995,['Ignacio Corsini'],0.47,175640,0.0838,0,4JcqL56M22aCDB37MSSnH1,0.834,8,0.108,-25.666,1,El Olivo - Remasterizado,0,29/03/1924,0.0726,116.989
+0.969,1924,0.995,['George Olsen'],0.671,164507,0.492,0,4L0ek0zTuWb9dYvSy5uUIL,0.898,10,0.156,-13.83,1,Sax-o-phun - A Study In Laugh and Slap Tongue,0,1/1/1924,0.0395,109.993
+0.908,1924,0.995,['Francisco Canaro'],0.375,169253,0.319,0,4N3kXRigvFadWNy6Tq7ayJ,0.874,4,0.172,-15.537,1,En la Vida Hay un Corazón - Remasterizado,0,12/7/1924,0.0441,163.387
+0.69,1924,0.996,['Ignacio Corsini'],0.597,156160,0.113,0,4TuFMDzGgPrDEmXwZbGChX,0.904,4,0.115,-24.686,1,Melancolica Casita - Remasterizado,0,29/03/1924,0.164,65.457
+0.736,1924,0.996,['Francisco Canaro'],0.746,140547,0.231,0,4U6AcKBTdp67QToRpDHHb9,0.956,2,0.145,-15.838,1,China de Mi Amor - Remasterizado,0,11/7/1924,0.0842,115.355
+0.385,1924,0.996,['Francisco Canaro'],0.731,181173,0.233,0,4WdaiZK4fMflUP8ruEYH8l,0.967,1,0.146,-15.861,0,Il Picolo Navio - Remasterizado,0,11/7/1924,0.264,124.516
+0.533,1924,0.994,['George Olsen'],0.619,203480,0.282,0,4YH89e5hyfAel9AAN97rvN,0.451,10,0.0872,-16.012,1,Sally Lou,0,1/1/1924,0.0412,103.758
+0.495,1924,0.954,['Lionel Hampton Orchestra'],0.547,362587,0.568,0,4eNQvjOAqygtLY4i28x17x,0.356,1,0.199,-10.012,1,Stompin' at the Savoy - Mix Two,0,1924,0.0301,135.524
+0.412,1924,0.996,['Francisco Canaro'],0.457,136320,0.287,0,4eTrXVeB8bQza6nYQuxiae,0.917,7,0.162,-12.439,1,Un Metejón - Remasterizado,0,12/7/1924,0.193,95.47
+0.775,1924,0.991,['George Olsen'],0.71,171747,0.311,0,4fsYspmSsMdX5lixH2B8Rs,0.923,3,0.201,-13.292,1,Follow the Swallow,0,1/1/1924,0.0374,106.585
+0.487,1924,0.995,['Fortugé'],0.535,188067,0.151,0,4g4UXXZXrlGxdrXisWRTYo,0,10,0.376,-16.059,0,La chanson du trombone,0,1924,0.0675,81.787
+0.541,1924,0.98,['Robert Marino'],0.327,192267,0.271,0,4ltnhOLm5o612B902ti2TV,9.24E-05,2,0.186,-15.228,1,Les larmes de pierrot,0,1924,0.0429,93.289
+0.834,1924,0.995,['Francisco Canaro'],0.545,185160,0.439,0,4lwzPjx1blV6uaPLsduFTc,0.941,9,0.185,-16.679,1,Asaura - Remasterizado,0,11/7/1924,0.0815,121.012
+0.493,1924,0.992,['Ignacio Corsini'],0.329,170253,0.17,0,4mLDZgVosOy0ZharLlerK0,0.401,10,0.148,-27.037,0,El Pato Alegre - Remasterizado,0,29/03/1924,0.0627,64.447
+0.8,1924,0.995,['Francisco Canaro'],0.499,178733,0.49,0,4srXADiC1aeEWPg8IcDfff,0.934,11,0.147,-16.745,1,El Rocío - Remasterizado,0,11/7/1924,0.123,122.224
+0.883,1924,0.996,['George Olsen'],0.753,201253,0.316,0,4vLc0mWLQ8S8T6XR5Us97h,0.861,4,0.092,-13.68,0,Those Panama Mamas - Are Ruining me,0,1/1/1924,0.047,105.504
+0.754,1924,0.99,['Georges Milton'],0.747,183573,0.289,0,4zuSkKlnNPCq7Bflx7JMQG,0,9,0.22,-16.036,1,Le trompette en bois,0,1924,0.107,65.831
+0.965,1924,0.996,['George Olsen'],0.677,171413,0.456,0,503XlfLtlqdQhIu9WJK4zo,0.797,10,0.157,-15.781,1,Sax-o-phun,0,1/1/1924,0.041,104.675
+0.572,1924,0.995,['Francisco Canaro'],0.334,193267,0.311,0,53S2MU9AZtdPhAmAtxYdAf,0.97,6,0.147,-15.861,1,Reflejos - Remasterizado,0,11/7/1924,0.0748,168.437
+0.68,1924,0.996,['Francisco Canaro'],0.591,177747,0.538,0,58yxwImcolz0UxiBnXiU7o,0.9,4,0.316,-9.451,1,Amigazo - Remasterizado,0,12/7/1924,0.0724,115.426
+0.757,1924,0.995,['George Olsen'],0.728,170587,0.323,0,5AaoGLPAE3gNEdr7DAWyDe,0.764,0,0.139,-12.072,1,The Slave of Love,0,1/1/1924,0.0363,104.668
+0.44,1924,0.996,['Francisco Canaro'],0.574,156587,0.524,0,5GHzONOO44agKZ0D1sUIoL,0.947,7,0.13,-10.125,1,La Maldita - Remasterizado,0,12/7/1924,0.105,127.607
+0.789,1924,0.864,"['The Chenille Sisters', ""James Dapogny's Chicago Jazz Band""]",0.54,155427,0.365,0,5H5BWIwlrKkWzx86VfGcuU,2.73E-06,0,0.0847,-10.057,1,At the Codfish Ball,0,1924,0.0537,158.53
+0.83,1924,0.989,['Ignacio Corsini'],0.546,163293,0.305,0,5HrVPZAMDLW3qs0TNt6Wdv,0.9,8,0.114,-21.329,1,Martín Fierro - Remasterizado,0,29/03/1924,0.0517,83.004
+0.759,1924,0.99,['Ignacio Corsini'],0.461,97493,0.587,0,5IO4UbhRB6NKME2WHUgHN1,0.973,0,0.683,-18.78,1,Maullidos - Remasterizado,0,29/03/1924,0.49,67.355
+0.795,1924,0.996,['Francisco Canaro'],0.262,169307,0.515,0,5ItArcz1C4oLqsP0ynX0X0,0.966,3,0.303,-12.606,0,Entre Rejas - Remasterizado,0,12/7/1924,0.0685,74.955
+0.688,1924,0.996,['Francisco Canaro'],0.616,172333,0.325,0,5IuSiHLUKKDzf1nTpdYjN0,0.96,11,0.312,-14.641,0,Alfredo - Remasterizado,0,12/7/1924,0.0441,118.544
+0.605,1924,0.995,['Bijoylal Mukherjee'],0.346,173375,0.339,0,5JHebWyrUzXXLGNCn1vVR4,1.60E-05,0,0.588,-14.342,1,Omon Kore Ma Tor Haasi,0,31/12/1924,0.039,92.245
+0.622,1924,0.996,['Francisco Canaro'],0.535,128667,0.279,0,5K6eShQXgL65FitgXDl7sp,0.949,6,0.357,-16.063,1,Madame Pompadour - Remasterizado,0,11/7/1924,0.0844,149.034
+0.55,1924,0.996,['Francisco Canaro'],0.513,171320,0.305,0,5L4O8EOyMaeCeWz9X500Dm,0.897,2,0.16,-15.49,1,Mi Noche Alegre - Remasterizado,0,12/7/1924,0.248,116.572
+0.55,1924,0.945,['Lionel Hampton Orchestra'],0.565,322587,0.605,0,5P6rLF53DKfDZElPgZrBF7,0.876,10,0.0911,-11.482,1,Birth of the Blues,0,1924,0.0325,116.593
+0.685,1924,0.996,['Ignacio Corsini'],0.51,139760,0.263,0,5PnoWOpiLKfTxnbTzP4pH9,0.961,2,0.46,-14.126,1,Sombras - Remasterizado,0,29/03/1924,0.0705,125.761
+0.802,1924,0.606,['Teddy Wilson & His All-Stars'],0.778,178693,0.39,0,5R4vvUXYIn9tFoi68GsYwW,0.0303,0,0.136,-12.192,1,Sugar Plum,0,1924,0.0645,93.941
+0.836,1924,0.929,"['Paul Whiteman & His Orchestra', 'Bing Crosby', 'Bix Beiderbecke']",0.753,171000,0.47,0,5SAzSfD1eAuuy3H93owYKk,0.00462,1,0.527,-10.059,0,You Took Advantage of Me (with Bing Crosby & Bix Beiderbecke),1,1924,0.118,102.994
+0.46,1924,0.994,['Lionel Hampton Orchestra'],0.484,190627,0.387,0,5ab7VUgTYMtn0WYxfiVw7K,0.917,3,0.831,-12.306,1,I've Got a Feeling I'm Falling,2,1924,0.0315,91.558
+0.76,1924,0.994,['George Olsen'],0.69,182067,0.427,0,5bBLHhJzqqNqEX184N4pQp,0.845,10,0.248,-13.525,1,He's the Hottest Man In Town,0,1/1/1924,0.0406,105.231
+0.92,1924,0.996,['Francisco Canaro'],0.735,175280,0.325,0,5eHqeM6dI4W30vqE1f7Ocy,0.911,9,0.509,-14.517,1,El Matrero - Remasterizado,0,12/7/1924,0.0549,112.052
+0.84,1924,0.919,['Lionel Hampton Orchestra'],0.742,192680,0.805,0,5hGmr6KQWzcCGdTYxf4P4S,0.578,1,0.259,-5.123,1,Stompin' at the Savoy - Mix One,0,1924,0.036,112.84
+0.697,1924,0.996,['Maurice Chevalier'],0.476,139293,0.149,0,5hKoJAuCgukMBXd0W9ZdVt,0,0,0.388,-16.185,1,Ca n'est pas la même chose,0,1924,0.0492,86.447
+0.775,1924,0.732,['Lionel Hampton Orchestra'],0.76,195667,0.354,0,5hoLIJF3clip0VplseKOyG,5.24E-05,9,0.0854,-12.788,0,You're My Ideal,0,1924,0.0711,113.981
+0.963,1924,0.982,['George Olsen'],0.778,176107,0.38,0,5ixjL1GSioVd8lGNkLwYDM,0.431,7,0.0922,-12.082,1,Say Arabella - What's A Fella To Do,0,1/1/1924,0.038,107.463
+0.731,1924,0.996,['Francisco Canaro'],0.423,171347,0.441,0,5kSeMwoKtS12E5CM2nKva0,0.914,10,0.788,-12.383,0,Llanto de Amor - Remasterizado,0,12/7/1924,0.0447,72.046
+0.862,1924,0.814,"['The Chenille Sisters', ""James Dapogny's Chicago Jazz Band""]",0.52,208240,0.381,0,5kgUhsCxWKTIl9HitccHTw,0.0227,5,0.201,-11.147,1,Button Up Your Overcoat,1,1924,0.0506,184.814
+0.921,1924,0.993,['George Olsen'],0.595,186040,0.407,0,5nEG47pZrOxPo2HQLxnOFn,0.256,3,0.0874,-11.626,1,Beale Street Blues,0,1/1/1924,0.0654,200.905
+0.549,1924,0.996,['Francisco Canaro'],0.653,169333,0.211,0,5oK7hYOkBEkXz9d9lumSGd,0.862,0,0.223,-16.294,0,Cascabelito - Remasterizado,0,11/7/1924,0.066,123.96
+0.401,1924,0.0231,['Lionel Hampton Orchestra'],0.477,375307,0.446,0,5pxZkT5e2TDtFBwFRtSB5D,0.0391,7,0.424,-15.051,1,Mr. J,0,1924,0.0402,83.291
+0,1924,0.996,['Francisco Canaro'],0,170253,0.315,0,5tQsQaMquCXBREb1FNymi7,0.956,8,0.375,-15.969,0,Oh Mujer Mujer - Remasterizado,0,12/7/1924,0,0
+0.719,1924,0.765,"['The Chenille Sisters', ""James Dapogny's Chicago Jazz Band""]",0.731,240693,0.386,0,5tqBa2U9oKGIogbeXMsRUp,0.126,0,0.274,-11.018,1,"Tell Me, Tell Me, Baby",0,1924,0.0331,126.444
+0.728,1924,0.896,"['Jones-Smith, Incorporated']",0.767,186667,0.236,0,5v4GREJgz2A4IIsDAh6Xv1,0.0677,7,0.0967,-13.798,1,"Oh, Lady Be Good! (78rpm Version)",0,1924,0.0698,93.567
+0.616,1924,0.995,['Francisco Canaro'],0.484,165880,0.357,0,5xEaN9KWzxI7yodq5IChQB,0.943,7,0.232,-14.954,1,Yo Tartamudeo - Remasterizado,0,11/7/1924,0.223,174.226
+0.743,1924,0.995,['George Olsen'],0.402,176373,0.244,0,61tPk9oU7n4Z0nqcIf7vQg,0.809,0,0.0775,-16.48,1,Why Couldn't It Be Poor Little Me,0,1/1/1924,0.0503,210.421
+0.755,1924,0.993,['Georgius'],0.594,211040,0.329,0,62iSxXOvjCAAZO0uaQE00r,0,8,0.116,-15.134,1,Par politesse,0,1924,0.263,80.329
+0.648,1924,0.996,['George Olsen'],0.618,184840,0.278,0,633pI004Sj1MzvGt0xazcy,0.866,0,0.167,-14.328,0,Everybody Loves My Baby - But My Baby Don't Love Nobody But Me,0,1/1/1924,0.0628,176.776
+0.692,1924,0.996,['Francisco Canaro'],0.394,152387,0.375,0,693026zJdM7qLpwGAcAloy,0.901,9,0.771,-16.496,1,Para Usted Mi Nenita - Remasterizado,0,12/7/1924,0.0437,83.214
+0.673,1924,0.995,['George Olsen'],0.426,185267,0.223,0,6BqGRSPdHkvRJ5XcRGfflf,0.913,5,0.123,-16.407,1,Put Away a Little Ray of Golden Sunshine,0,1/1/1924,0.0426,208.925
+0.568,1924,0.995,['Francisco Canaro'],0.38,169173,0.459,0,6CTMrZvUsc3k3xm8oKXXQH,0.911,10,0.162,-19.284,1,Evocación - Remasterizado,0,11/7/1924,0.338,124.502
+0.585,1924,0.996,['Ignacio Corsini'],0.313,172107,0.0773,0,6HX0QJiKsDUAb9QzH4EVs0,0.959,10,0.141,-27.583,0,Oh Mujer Mujer - Remasterizado,0,29/03/1924,0.052,201.031
+0.563,1924,0.966,['Count Basie'],0.524,140840,0.269,0,6OlnIrsPk9qv1hFLBtrXRb,0.825,8,0.123,-14.617,1,Moten Swing,0,1924,0.11,183.752
+0.587,1924,0.996,['Francisco Canaro'],0.432,156267,0.264,0,6Po2YeMVr5Ee23OZoY9RgZ,0.925,4,0.38,-14.616,1,Todo Corazón - Remasterizado,0,12/7/1924,0.0585,118.359
+0.479,1924,0.996,['Francisco Canaro'],0.742,173360,0.21,0,6SJEjLR19BlLNBxIJVX5zX,0.938,11,0.328,-17.135,0,Talan Talan - Remasterizado,0,11/7/1924,0.0801,117.433
+0.705,1924,0.996,['Francisco Canaro'],0.406,175733,0.45,0,6U7X6rtxqIxdh2F9ScqIOI,0.97,8,0.364,-14.074,1,La Diana - Remasterizado,0,12/7/1924,0.25,72.514
+0.58,1925,0.969,['Tommy Dorsey'],0.678,194320,0.175,0,3XDharvL8vEyxdQwOQKmww,0.00105,3,0.177,-13.021,1,"On the Sunny Side of the Street (From ""Is Everybody Happy?"")",37,1925,0.0301,112.941
+0.406,1925,0.98,['Tommy Dorsey'],0.455,275773,0.0804,0,2AATCpoin3pSsUwjLKNCYe,0.000317,8,0.136,-15.696,1,Manhattan Serenade,30,1925,0.04,77.926
+0.805,1925,0.991,"['Tommy Dorsey', 'Jack Leonard', 'Bunny Berigan']",0.531,197787,0.17,0,47c6hVC9hL8KoAclJCVOXC,0.174,5,0.126,-14.5,1,Marie,30,1925,0.0771,165.165
+0.149,1925,0.992,['Tommy Dorsey'],0.513,217253,0.108,0,3p0VwUCFW31rwgugbnAGhW,0.932,9,0.112,-16.835,1,I'm Gettin' Sentimental Over You,29,1925,0.0315,103.752
+0.85,1925,0.982,['Louis Armstrong & His Hot Five'],0.666,150160,0.336,0,2nOYxyusxAfqjZCUSxfNZ4,0.733,8,0.0789,-10.138,1,Muskrat Ramble,22,1925,0.222,183.833
+0.657,1925,0.939,['Tommy Dorsey'],0.377,175920,0.497,0,6C0bdY5MgM2WYu6yuxtzC5,0.946,0,0.322,-9.292,0,Opus #1,24,1925,0.0332,169.203
+0.647,1925,0.981,['Ethel Waters'],0.68,181293,0.241,0,3Fc83pvJzQ5VcRFSGlvMCO,0,2,0.165,-9.866,1,Heat Wave,26,1925,0.0634,84.91
+0.925,1925,0.915,['Louis Armstrong & His Hot Five'],0.783,146267,0.3,0,7dXVSMwfH5X9y2ou0WtrzK,0.478,7,0.0288,-10.066,1,"Come Back, Sweet Papa",20,1925,0.13,99.102
+0.634,1925,0.935,['Tommy Dorsey'],0.41,186960,0.23,0,4ou73CMygT62S9gubMZxIe,0.888,5,0.427,-12.827,1,Song of India,23,1925,0.0602,174.066
+0.917,1925,0.852,['Tommy Dorsey'],0.689,189787,0.222,0,5YYbVEtvB0PHxYVXrJTDpM,0.924,5,0.104,-15.98,1,Boogie Woogie,22,1925,0.127,145.205
+0.288,1925,0.988,['Tommy Dorsey'],0.473,185747,0.0887,0,3fHgV9OfktqOegAvEP6zlv,0,0,0.118,-13.93,1,Star Dust,20,1925,0.0418,78.675
+0.652,1925,0.984,['Jelly Roll Morton'],0.572,200840,0.449,0,4HkUx8zJPUEh9sSYjO0ki6,0.0774,10,0.363,-7.531,1,Doctor Jazz,15,1925,0.038,125.729
+0.57,1925,0.983,['Louis Armstrong & His Hot Five'],0.671,171800,0.324,0,5CLkYMVMOfqW3VWcjKKr1n,8.34E-05,8,0.143,-10.637,1,Heebie Jeebies,13,1925,0.106,164.628
+0.768,1925,0.993,['Louis Armstrong & His Hot Five'],0.583,170533,0.288,0,2iHtgZVqtU2lGy0WBhwHnU,0.109,5,0.206,-9.204,1,Droppin' Shucks,11,1925,0.123,177.647
+0.498,1925,0.945,"['Tommy Dorsey', 'Sy Oliver', 'Jo Stafford']",0.804,209987,0.217,0,7r9c3mqLjqfVe791cERNOI,0.0687,0,0.0849,-12.118,1,"Yes, Indeed!",14,1925,0.0602,131.117
+0.784,1925,0.992,['Louis Armstrong & His Hot Five'],0.631,181933,0.347,0,6xXlavKbZL6HqPfNWswZvp,0.0136,5,0.0889,-11.102,0,Don't Forget To Mess Around,10,1925,0.0601,101.803
+0.43,1925,0.954,['Ethel Waters'],0.35,185840,0.213,0,6O89uMM5FDGGRJ6aYLG51B,0,0,0.254,-12.808,1,Stormy Weather (Keeps Rainin' All The Time) - 78rpm Version,14,1925,0.0399,85.369
+0.852,1925,0.968,['The Dorsey Brothers'],0.731,180960,0.341,0,0aUTZjgkNG4jJ0wzqtXh2G,0.138,3,0.212,-9.87,1,My Melancholy Baby,13,1925,0.146,101.408
+0.827,1925,0.985,['Louis Armstrong & His Hot Five'],0.692,142893,0.467,0,7y7gNlCv5WhDdBFXV1vGp2,0.0965,0,0.091,-7.237,0,My Heart,8,1925,0.0897,97.858
+0.495,1925,0.985,['Louis Armstrong & His Hot Five'],0.625,194627,0.223,0,6bTkrQHnJUXAQtIITRhTg5,0.0255,8,0.111,-11.825,1,You're Next,7,1925,0.0577,125.495
+0.77,1925,0.995,['Louis Armstrong & His Hot Five'],0.751,156000,0.282,0,1qlX1t0ws9AyIksvKCzh83,0.000778,5,0.106,-9.918,1,Yes! I'm in the Barrel,6,1925,0.0697,154.265
+0.451,1925,0.995,['Louis Armstrong & His Hot Five'],0.541,179333,0.258,0,5BnopTvfLza9CwvBl75iNv,0.614,5,0.16,-11.838,1,Oriental Strut,6,1925,0.0865,183.702
+0.759,1925,0.996,['Louis Armstrong & His Hot Five'],0.618,168400,0.141,0,61wCa6mI8xxcZH2GGnWPBc,0.91,11,0.115,-17.2,1,Gut Bucket Blues,6,1925,0.113,138.691
+0.209,1925,0.991,['Tommy Dorsey'],0.345,192027,0.127,0,6q9IP7wbfpocUiOEGvQqCZ,0.000133,0,0.72,-17.475,1,I'll Never Smile Again,7,1925,0.0372,71.003
+0.809,1925,0.849,['Tommy Dorsey'],0.694,190120,0.363,0,06EAFIZpwSKY659b6KPtAR,0.552,10,0.103,-11.692,1,Hawaiian War Chant,9,1925,0.103,101.726
+0.706,1925,0.897,['Louis Armstrong & His Hot Five'],0.73,151600,0.213,0,3mWcoPBHsrmcs1lj6uBfvz,0,8,0.152,-14.635,1,Georgia Grind,5,1925,0.0554,140.34
+0.259,1925,0.983,['Bing Crosby'],0.326,192627,0.117,0,6DYnSk5zkvMQEK8Awm2acT,6.32E-06,6,0.674,-13.753,1,How Deep Is the Ocean?,6,1925,0.0446,92.875
+0.489,1925,0.962,['Ethel Waters'],0.568,209000,0.112,0,6kKeXUi0zunKxWrB2uUyWb,0,1,0.327,-13.026,1,Harlem On My Mind,10,1925,0.0747,95.221
+0.751,1925,0.995,['Louis Armstrong & His Hot Five'],0.622,175067,0.287,0,7e1JFTRrpZIgr7lLE5XBKC,0.163,5,0.0671,-9.342,1,Cornet Chop Suey,5,1925,0.153,94.987
+0.603,1925,0.988,['The Big Aces'],0.538,192893,0.333,0,7iGSIYRmzu18rIMe8HrFkq,0.158,0,0.139,-10.38,0,Cherry,8,1925,0.0764,174.542
+0.678,1925,0.988,['Louis Armstrong & His Hot Five'],0.573,159933,0.295,0,0rEP2CDOuvUm4zbhIPZAkK,0.000139,5,0.0784,-10.096,1,Gut Bucket Blues,4,1925,0.0525,146.336
+0.954,1925,0.85,"['Tommy Dorsey', 'Edythe Wright']",0.668,164107,0.288,0,5UXcT8kcQ0t0efFVp1m0Ma,0.25,5,0.155,-14.088,1,Head Over Heels in Love,5,1925,0.0747,95.922
+0.565,1925,0.994,['Louis Armstrong & His Hot Five'],0.595,182773,0.257,0,7od83Q1ZlsQtpsvNT5nGWH,0.335,2,0.411,-9.774,1,The King of the Zulus,5,1925,0.215,166.855
+0.56,1925,0.954,['Ethel Waters'],0.7,178293,0.197,0,0sSVsv3yHMSkL0qeLRoRDa,0,2,0.361,-11.915,1,(What Did I Do To Be So) Black and Blue?,6,1925,0.136,120.542
+0.607,1925,0.97,['Louis Armstrong & His Hot Five'],0.672,182400,0.146,0,1qEXqZQkzIaUnhmfObk2sL,0.0182,0,0.101,-13.417,1,Skid-Dat-De-Dat,3,1925,0.0472,122.127
+0.202,1925,0.992,['Connie Boswell'],0.376,189440,0.104,0,3V1sblJugg82L8yxgw6BMZ,8.15E-06,2,0.159,-16.626,1,Lullaby Of The Leaves,5,1925,0.0488,90.542
+0.913,1925,0.949,['Louis Armstrong & His Hot Five'],0.551,162600,0.343,0,4hoxOG3DE2yQO4E7A7MmfS,2.44E-05,2,0.158,-11.366,0,I'm Gonna Gitcha,4,1925,0.118,203.051
+0.902,1925,0.996,['The Golden Gate Orchestra'],0.797,181320,0.449,0,5PGXbXww1JWuVPNwYdzMwB,0.895,0,0.182,-12.592,1,"Dusting The Donkey - aka ""The Pay-Off""",5,1925,0.0826,113.216
+0.494,1925,0.963,['Paul Whiteman & His Orchestra'],0.552,195067,0.266,0,6MWxok8M7vCTguRy8QR9gc,0.0152,5,0.432,-11.338,1,It Won't Be Long Now,6,1925,0.142,157.758
+0.674,1925,0.84,['Tom Dorsey'],0.724,189827,0.324,0,6lGfkQqVuwJ0dOXPcb0MZx,0.872,0,0.0991,-9.842,1,It's Right Here For You,5,1925,0.0631,94.042
+0.294,1925,0.987,['Louis Armstrong & His Hot Five'],0.594,182227,0.188,0,7lf1uY54Svtrc9PHPj7g9t,0,10,0.104,-12.796,1,Lonesome Blues,4,1925,0.0406,83.759
+0.733,1925,0.956,['The Boswell Sisters'],0.668,184707,0.132,0,7on1N979cYvlNt3Nfrqicv,4.84E-06,4,0.0776,-12.561,0,Sentimental Gentleman From Georgia,5,1925,0.094,122.527
+0.823,1925,0.901,['Tommy Dorsey'],0.558,212533,0.58,0,0TEzkFrM13PeyKjxXkcWJi,0.915,9,0.326,-9.065,0,March Of The Toys,4,1925,0.121,177.79
+0.962,1925,0.938,['Louis Armstrong & His Hot Five'],0.801,179667,0.341,0,12JgvibIIArYH4wWN8c8x8,0.15,5,0.15,-12.395,1,Jazz Lips,3,1925,0.0927,107.101
+0.452,1925,0.982,['Tommy Dorsey'],0.435,306013,0.36,0,1OGRmZ42QZfpDc7tMbdbrG,0.0105,5,0.946,-11.138,0,Take The 'A' Train,3,1925,0.206,71.276
+0.855,1925,0.959,['The Travelers'],0.934,169560,0.609,0,1Znnilxi9JGrqarvVHAgy3,0.889,2,0.0966,-9.479,1,Breakaway,4,1925,0.0636,107.321
+0.16,1925,0.975,['Duke Ellington'],0.183,176947,0.141,0,1bQ2BR5kCUrnvuTgfDwdiZ,0.833,1,0.119,-14.981,1,Tonight I Shall Sleep,4,1925,0.0363,81.125
+0.864,1925,0.992,['Chick Bullock And His Levee Loungers'],0.776,181467,0.376,0,1vEK2vbx8x7nWOHmAFpHUD,0.0341,0,0.0892,-10.126,1,Bend Down Sister,5,1925,0.0436,106.555
+0.785,1925,0.981,"[""The Dorsey Brothers' Orchestra""]",0.573,207893,0.171,0,1xxZATxkPkllMCm204ctUR,0.0641,2,0.0752,-11.474,1,Mean To Me,5,1925,0.0442,147.841
+0.955,1925,0.962,['The All-Star Orchestra'],0.697,182200,0.429,0,2HBNPqCMuaAOHp6s9OzOLo,0.514,0,0.25,-9.241,1,Add A Little Wiggle,4,1925,0.0583,100.54
+0.9,1925,0.989,['Louis Armstrong & His Hot Five'],0.597,163133,0.337,0,2UiPfmIWrBfzdfdiCZAVsu,0.842,5,0.106,-10.079,1,Sweet Little Papa,2,1925,0.136,187.665
+0.922,1925,0.985,['Sam Lanin & His Famous Players & Singers'],0.775,192360,0.285,0,2Ve5waZJJrExJDHajoxDb1,0.138,5,0.101,-9.884,1,Ten Little Miles From Town,5,1925,0.0597,83.803
+0.97,1925,0.981,['Tommy Dorsey'],0.721,180013,0.493,0,2ZHUaQCwRLAVbmy6eiyOjD,0.728,5,0.839,-10.955,1,Trombonology,3,1925,0.0354,104.167
+0.704,1925,0.915,['Tommy Dorsey'],0.617,190560,0.435,0,2lPV0bfNMgn7LGAXEyU1qR,0.00405,8,0.15,-8.284,1,At The Fat Man's,4,1925,0.0466,154.89
+0.895,1925,0.846,['Ed Lang & His Orchestra'],0.823,178787,0.613,0,3Da0rFSGowkOPtcugvxKp5,0.886,10,0.0534,-9.062,1,Bugle Call Rag - 78 rpm Version,5,1925,0.0674,114.038
+0.882,1925,0.996,['Louis Armstrong & His Hot Five'],0.686,157533,0.216,0,3G2ioNaqXW8RXtlhSD1zHp,0.901,7,0.0595,-14.856,1,Muskrat Ramble,4,1925,0.0959,174.4
+0.867,1925,0.993,['Louis Armstrong & His Hot Five'],0.724,163640,0.335,0,3H6wCLijWnyr4Wq9E3mmNi,0.71,0,0.0691,-10.4,1,Who'sit,3,1925,0.0411,106.338
+0.786,1925,0.995,['Louis Armstrong & His Hot Five'],0.596,178040,0.341,0,3LQiqV3KZk3ZrzPeSBu8tI,0.0929,3,0.69,-10.838,1,Big Fat Ma and Skinny Pa,3,1925,0.271,170.338
+0.429,1925,0.924,"['Frank Sinatra', 'Tommy Dorsey Orchestra']",0.499,193840,0.0748,0,3Ym9KAplnUsm8kIrwETUBy,0.014,1,0.55,-13.552,1,Imagination,4,1925,0.044,113.268
+0.889,1925,0.937,['Harold Lem & His Orchestra'],0.848,195093,0.35,0,5n2a00lvFmgllxaBkEpYlr,0.117,10,0.0616,-9.963,1,I Got Rhythm,5,1925,0.0583,114.518
+0.604,1925,0.973,"['Tommy Dorsey', 'Duke Ellington']",0.432,182120,0.461,0,71SxKog2t1yfpQ6LTkEXjC,0.755,6,0.114,-12.228,1,The Minor Goes Muggin',4,1925,0.0533,178.098
+0.431,1925,0.974,['Hoagy Carmichael & His Orchestra'],0.667,194227,0.122,0,7Dde47A4x0nAyOPMeuBDs9,0.197,8,0.1,-14.869,1,Moon Country,3,1925,0.0441,119.835
+0.891,1925,0.989,['The Columbia Photo Players'],0.759,191827,0.34,0,07Hbp0v6qpkMfNmNPpsz6X,0.0721,5,0.0734,-11.025,1,Dust,3,1925,0.0801,102.731
+0.497,1925,0.736,"['Tommy Dorsey', 'Jimmy Dorsey']",0.464,174400,0.867,0,0eqRYgft7ZKV9GJPbwNl35,0.543,0,0.386,-7.986,0,Dippermouth Blues (feat. Jimmy Dorsey),2,1925,0.135,119.664
+0.784,1925,0.81,['Tommy Dorsey'],0.526,239133,0.428,0,0ldgrcj6lJNJLA0VMN73WL,0.86,8,0.785,-10.731,1,Easy Does It,2,1925,0.317,176.681
+0.96,1925,0.718,['Tommy Dorsey & His Clambake Seven'],0.787,160373,0.502,0,1KZcikuC5qZiPfrLZJKY0z,0.105,9,0.0363,-10.509,0,Vol Vistu Gaily Star,3,1925,0.0529,111.209
+0.685,1925,0.845,['Tommy Dorsey'],0.536,191173,0.494,0,1MF2r88Wbv0G4I2WXwuizw,0.00982,7,0.938,-11.52,0,Rhumboogie,2,1925,0.472,180.142
+0.769,1925,0.826,['Tommy Dorsey'],0.597,199880,0.353,0,1SH94QAw754YgXxyHsQtzt,0.35,5,0.733,-10.993,0,Goin' Home,2,1925,0.166,92.098
+0.787,1925,0.995,['Louis Armstrong & His Hot Five'],0.644,151960,0.123,0,1YobXiCCdnlBVzezl5nAt0,0.858,11,0.218,-18.648,1,"Come Back, Sweet Papa",3,1925,0.394,189.67
+0.621,1925,0.923,['Tommy Dorsey'],0.59,195320,0.249,0,1cuaa5iKOB69rkBD4sI6U6,0.337,10,0.18,-11.499,0,Pussy Willow,3,1925,0.0313,139.101
+0.327,1925,0.991,['Tommy Dorsey'],0.255,231653,0.13,0,1r5iGmVNpOEWHSWEkm2vFd,0.00114,5,0.594,-13.763,1,Every Night About This Time,2,1925,0.0358,80.426
+0.601,1925,0.957,['Tommy Dorsey'],0.775,224573,0.235,0,2F8CnNSU7pExOSXzsgf2vz,0,0,0.955,-11.981,1,Oh! Look At Me Now,2,1925,0.108,120.288
+0.673,1925,0.958,['Ethel Waters'],0.628,192107,0.227,0,2nSjyu82yxXPzdMWyOE6Y3,0,5,0.133,-13.328,1,Please Don't Talk About Me When I'm Gone,3,1925,0.0824,128.357
+0.324,1925,0.801,['Tommy Dorsey'],0.223,265880,0.386,0,3MTesqagdJyJNtSAeTEp94,2.09E-05,10,0.866,-10.931,1,The Song Is You,2,1925,0.0653,62.335
+0.675,1925,0.944,['Tommy Dorsey'],0.427,184213,0.267,0,3NN2bocqQi0K2UyxGMcmPf,0.00331,9,0.193,-8.684,0,Our Love Affair,2,1925,0.0439,75.715
+0.893,1925,0.972,"[""Clarence Williams' Jug Band""]",0.74,187014,0.604,0,3SBEbhHjV4zwqjqaj2Bab4,0.0719,5,0.0395,-10.616,1,Chizzlin' Sam,2,1925,0.123,123.043
+0.744,1925,0.941,['Jack Bland'],0.767,162227,0.69,0,3TyrWNoKRbNIf518AklVXx,0.272,3,0.0652,-9.304,1,Who Stole The Lock (On The Hen-House Door),3,1925,0.335,119.293
+0.946,1925,0.97,['Tommy Dorsey & His Clambake Seven'],0.796,182933,0.341,0,3lZDXtwP8CdwuSO2PPJfaX,0.0313,7,0.215,-13.195,1,One Night In Monte Carlo,3,1925,0.0567,117.325
+0.29,1925,0.938,['Tommy Dorsey'],0.272,168467,0.379,0,3mQkgsL18klkojLlVOXB6y,0.0331,5,0.737,-8.337,0,Daybreak,2,1925,0.0316,114.589
+0.918,1925,0.897,"['Tommy Dorsey & His Clambake Seven', 'Tommy Dorsey']",0.577,200907,0.478,0,42hnnWqFTJCTRh0hxgtf9z,0.799,0,0.202,-13.166,1,Twilight In Turkey,2,1925,0.0859,175.273
+0.876,1925,0.951,['Mildred Bailey'],0.708,171627,0.424,0,4SUZxev3cGf4DOByQAc1WY,0.00024,5,0.117,-9.897,1,Shoutin' In That Amen Corner,3,1925,0.145,124.781
+0.522,1925,0.968,['Art Jarrett'],0.517,198840,0.293,0,4i3hpDpsOEkgWgq7yv6zHt,0.035,8,0.15,-11.361,1,Goodbye Blues,3,1925,0.0416,131.702
+0.886,1925,0.921,['Tommy Dorsey'],0.575,176267,0.318,0,4nxFz8WqJtnWrgf95gO0mQ,0.735,5,0.0871,-11.331,1,Melody In F,3,1925,0.1,171.98
+0.939,1925,0.995,['Louis Armstrong & His Hot Five'],0.625,149160,0.366,0,4xtbUCnNwcHBl8vsvUi0v6,0.741,11,0.0728,-13.557,0,My Heart,2,1925,0.056,94.231
+0.55,1925,0.991,['Ethel Waters'],0.636,196000,0.038,0,4ywiiUqjEvx8RufPznNY8K,0,0,0.143,-15.057,1,Shake That Thing,2,1925,0.0516,95.043
+0.88,1925,0.906,['The Charleston Chasers'],0.799,210613,0.409,0,5Nzd6zrlxV5rA0xzn7qIUN,0.167,3,0.331,-10.617,1,Cinderella Brown,3,1925,0.0825,88.614
+0.806,1925,0.969,"['Tommy Dorsey', 'Elvis Presley']",0.521,180813,0.539,0,5OhEHB9YEo9ZQxYQaC2rcC,0.000575,4,0.946,-9.161,1,Heartbreak Hotel,3,1925,0.508,93.412
+0.12,1925,0.982,['Tommy Dorsey'],0.397,193187,0.165,0,5VSjFy6P2TNVFjubGBgS4T,0.000604,0,0.332,-14.849,0,Do I Worry?,3,1925,0.053,109.488
+0.56,1925,0.757,['Tommy Dorsey'],0.566,193627,0.642,0,5njTIocvVWLbfZ7Hxqyp2E,0.254,0,0.208,-7.815,0,Flagler Drive,3,1925,0.0472,137.34
+0.875,1925,0.913,['Tommy Dorsey'],0.693,316867,0.332,0,5uzofUqcDnqHlt6XhIGm37,0.877,7,0.0687,-14.792,1,"Stop, Look and Listen",4,1925,0.139,163.991
+0.882,1925,0.801,['Tommy Dorsey'],0.841,233187,0.694,0,61zSM8kaKDEhXev6AHPB8r,0.729,10,0.0386,-9.603,1,Jimtown Blues,2,1925,0.0988,106.237
+0.415,1925,0.985,['Ethel Waters'],0.481,181893,0.157,0,68nUatvdvTFOdu4YhSUhcj,1.30E-06,1,0.207,-12.936,1,"I Just Couldn't Make It, Baby",3,1925,0.0684,92.374
+0.479,1925,0.955,['A Jam Session At Victor'],0.717,178907,0.178,0,6NgWKnyCfpCPRgzFla4JYP,0.519,3,0.0663,-15.267,1,Blues,3,1925,0.0607,84.079
+0.573,1925,0.991,['Ethel Waters'],0.669,187942,0.309,0,6OkpVl92j9bQdpoXQx0oGS,0,6,0.483,-9.578,1,No Man's Mama - A Woman's Choice,3,1925,0.0723,112.189
+0.436,1925,0.947,['Tommy Dorsey'],0.613,262373,0.127,0,6ePf49aaEame3gXDa7VhCx,0.000131,7,0.316,-13.712,1,East Of The Sun,2,1925,0.0793,122.776
+0.902,1925,0.927,"['""Test for Victor Young""']",0.734,175693,0.474,0,6ivMXI6YMOPvsiUyTDIV7b,0.0762,10,0.737,-10.544,1,Bugle Call Rag,3,1925,0.256,132.788
+0.814,1925,0.786,['Tommy Dorsey'],0.545,138680,0.647,0,6rWXuCoH1xnnRFCKZzoGVL,0.727,7,0.764,-11.564,0,Put On Your Old Grey Bonnet,2,1925,0.148,140.096
+0.898,1925,0.945,['Joe Turner & His Memphis Men'],0.812,170806,0.491,0,78jJhC1gUOEodPawGCFNCj,0.854,10,0.0877,-8.665,1,Freeze And Melt,2,1925,0.0511,130.289
+0.312,1925,0.922,['Tommy Dorsey'],0.3,170480,0.215,0,7L7cJzX1RQm0CjLyKZz8p8,0.0398,10,0.213,-12.33,0,I Could Make You Care,3,1925,0.0351,97.463
+0.638,1925,0.979,['Tommy Dorsey & His Clambake Seven'],0.751,222133,0.378,0,7aXtdan5Jnpxd8FM5AmkUs,1.42E-06,4,0.759,-9.972,1,There's Good Blues Tonight,2,1925,0.462,128.665
+0.735,1925,0.774,['Tommy Dorsey'],0.496,206920,0.418,0,7lTGnqo3hLHbVJNqExZGuE,0.637,5,0.678,-9.183,0,Liebestraum,2,1925,0.197,172.257
+0.722,1925,0.964,"['Tommy Dorsey & His Clambake Seven', 'Edythe Wright']",0.744,202027,0.147,0,7ocEaCAhDXT9Uuyw5Jxu8c,0.526,2,0.0911,-13.56,0,After You,3,1925,0.0595,100.262
+0.505,1925,0.99,['Ethel Waters'],0.468,180400,0.149,0,7rIJoIHeTkxJLNma31SODS,2.51E-06,10,0.0854,-12.323,1,My Kind Of Man,4,1925,0.0516,134.243
+0.422,1925,0.978,['Sophie Tucker'],0.717,186178,0.137,0,0485yBvhfEDALeMoLAMgRY,0,8,0.384,-10.949,1,'Cause I Feel Lowdown,0,1925,0.149,120.821
+0.49,1925,0.98,['Sarah Martin'],0.618,178422,0.214,0,05iQ8IGTqvGslDqNm91N31,0,3,0.43,-10.301,1,Take Your Black Bottom Outside,0,1925,0.195,74.541
+0.667,1925,0.996,['Francisco Canaro'],0.669,173227,0.22,0,079U8WfmME31H7cVFsLmS0,0.901,6,0.194,-15.095,1,Organito de la Tarde - Remasterizado,0,12/7/1925,0.0718,115.552
+0.512,1925,0.995,['Ignacio Corsini'],0.535,129293,0.0771,0,0IUCrCSZagXImLUmvAjnhp,0.902,3,0.118,-23.549,1,Destellos - Remasterizado,0,25/04/1925,0.067,116.449
+0.187,1925,0.996,['Francisco Canaro'],0.42,166467,0.27,0,0MQQj0hAHO1inR2vZoPNRt,0.878,2,0.216,-14.227,1,Quereme Serrana - Remasterizado,0,12/7/1925,0.13,79.458
+0.689,1925,0.987,['Pauline Carton'],0.535,110440,0.28,0,0QnRFZh9xov6LBNatS5hL9,9.50E-05,6,0.198,-13.416,1,Par Le Trou De La Serrure,0,1925,0.186,70.401
+0.159,1925,0.991,['Georges Thill'],0.321,221572,0.0307,0,0RZBIn9LXkMFF74ogMEg83,0.000371,1,0.147,-21.081,1,"Carmen, 14, Acte 2: ""La Fleur Que Tu M'avais Jetée""",0,1/1/1925,0.0521,62.307
+0.828,1925,0.995,['Ignacio Corsini'],0.439,184720,0.136,0,0T6OzRD32ETtwy3Wu6zzap,0.93,11,0.122,-24.409,1,El Narcizo Negro - Remasterizado,0,25/04/1925,0.042,95.57
+0.816,1925,0.976,['Don Redman and His Orchestra'],0.708,176565,0.295,0,0Un2w6TdNj8ghR9xPaFTVp,0.00496,5,0.126,-12.142,1,Two-Time Man,0,1925,0.283,147.411
+0.46,1925,0.991,['Ignacio Corsini'],0.343,152653,0.161,0,0Zh7SAqHbur0KxyY803Vn5,0.878,6,0.112,-23.61,0,El Flechazo - Remasterizado,0,25/04/1925,0.0546,127.287
+0.898,1925,0.99,['Maurice Chevalier'],0.679,134000,0.438,0,0ah4iXssNB9uA8rrgU0Jto,0,10,0.112,-12.901,0,C'est Merveilleux,0,1925,0.075,113.682
+0.784,1925,0.989,['Cab Calloway & His Orchestra'],0.891,162200,0.486,0,0bmODwVIBbDxkiqdwD3EUP,0.017,2,0.0925,-7.605,0,Farewell Blues,0,1925,0.0741,114.923
+0.733,1925,0.994,['Ignacio Corsini'],0.534,157160,0.11,0,0dddKchzYnQH4L23amUMVH,0.934,2,0.106,-25.113,0,Altar Criollo - Remasterizado,0,25/04/1925,0.0595,128.092
+0.701,1925,0.969,['Jelly Roll Morton'],0.573,209493,0.414,0,0f6RVXKtgDxOjDOwbuAGqT,0.148,8,0.232,-6.402,1,Sidewalk Blues,1,1925,0.0467,78.154
+0.55,1925,0.987,['Ignacio Corsini'],0.469,166147,0.436,0,0iAhqFWOm8rBNLVbJpqj31,0.0276,11,0.917,-17.742,1,La Carrera - Remasterizado,0,25/04/1925,0.446,75.081
+0.162,1925,0.314,['Old Grape God'],0.678,822857,0.835,0,0lATdfQAizjfZqZdTdcbGp,0.00441,0,0.148,-11.909,1,Hella Often Freestyle,0,12/11/1925,0.264,140.005
+0.535,1925,0.975,['Yvonne George'],0.622,202760,0.155,0,0oJH3wVkNLSneZBxEtKYck,0,4,0.26,-16.196,1,C'est Pour Ca Qu'on S'aime,0,1925,0.173,107.4
+0.531,1925,0.994,['Ignacio Corsini'],0.426,178253,0.0828,0,0tlfw6PGBvOc0pl2H6glvR,0.924,10,0.0966,-25.369,0,Añoranza - Remasterizado,0,25/04/1925,0.0711,131.868
+0.659,1925,0.904,['Ethel Waters'],0.617,169827,0.267,0,0uQZYQqUY0bEEu7dNTiKkj,0,5,0.188,-11.869,1,Honey In The Honeycomb,1,1925,0.0392,106.781
+0.779,1925,0.996,['Francisco Canaro'],0.731,170120,0.143,0,0uwYigNgUmXOSxJvmP1hnR,0.966,5,0.193,-15.413,1,Muchachita de Montmartre - Remasterizado,0,2/8/1925,0.0911,116.323
+0.509,1925,0.994,['Ignacio Corsini'],0.454,187253,0.0956,0,0vyPrfz2uJpZJZtzxmVbZz,0.936,9,0.102,-24.888,0,Mi Perdón - Remasterizado,0,25/04/1925,0.062,61.298
+0.568,1925,0.991,['Ignacio Corsini'],0.462,131720,0.0762,0,0xPQBMO3cMaxZINENSeC7F,0.83,4,0.111,-23.872,1,Ojazos Color de Mar - Remasterizado,0,25/04/1925,0.0608,66.493
+0.963,1925,0.989,"[""Henderson's Roseland Orchestra""]",0.667,151208,0.539,0,0xymKYYptd1H5z6ePQ8x49,0.893,3,0.216,-8.665,1,Raisin' The Roof,0,1925,0.0341,121.589
+0.564,1925,0.996,['Louis Armstrong & His Hot Five'],0.816,158360,0.111,0,144bl4trI7TCSotGEHZjXl,0.136,7,0.36,-16.78,1,Georgia Grind,1,1925,0.0789,133.454
+0.75,1925,0.995,['Ignacio Corsini'],0.514,136067,0.158,0,14u67tUXk5qU0xHua0HKyR,0.943,5,0.273,-26.002,0,Ojerosa - Remasterizado,0,25/04/1925,0.0488,123.55
+0.852,1925,0.995,['René Koval'],0.71,146200,0.315,0,1CX8k7KiYUDeC55NHwLOWv,3.46E-06,0,0.297,-13.262,0,Pas Sur La Bouche,0,1925,0.224,84.674
+0.472,1925,0.995,['Ignacio Corsini'],0.503,171547,0.0943,0,1GyFn9OVcq2ZyH1GNha129,0.946,6,0.0968,-25.742,0,La Canción del Huérfano - Remasterizado,0,25/04/1925,0.0579,110.983
+0.616,1925,0.996,['Francisco Canaro'],0.729,149747,0.234,0,1J0TOwIqPPie8U8glGqMxA,0.843,7,0.311,-16.481,1,Personita - Remasterizado,0,12/7/1925,0.101,120.432
+0.913,1925,0.996,['Francisco Canaro'],0.735,154960,0.371,0,1LQbY0hHq9hJaPxN33biJB,0.877,0,0.107,-15.524,1,"Hopa, Hopa, Hopa - Remasterizado",0,12/7/1925,0.0533,99.376
+0.645,1925,0.996,['Louis Armstrong & His Hot Five'],0.716,175507,0.173,0,1LUThITCz9td2SNvTFkJbD,0.917,3,0.118,-16.527,0,Who'sit,1,1925,0.0546,98.769
+0.794,1925,0.996,['Francisco Canaro'],0.764,147733,0.141,0,1OHIpTiYXDSZBr285seKbA,0.825,10,0.112,-14.538,0,Entrá Nomás - Remasterizado,0,2/8/1925,0.143,121.741
+0.549,1925,0.996,['Francisco Canaro'],0.322,151600,0.45,0,1RhYzg8TrUuSXLZLw5HZrl,0.844,1,0.771,-14.922,0,Tierra Mia - Remasterizado,0,12/7/1925,0.39,72.69
+0.556,1925,0.995,['Ignacio Corsini'],0.526,181187,0.0719,0,1VArvZy2yQYWnkJ66skPfp,0.875,5,0.221,-23.548,1,Perdón - Remasterizado,0,25/04/1925,0.147,125.436
+0.744,1925,0.942,['Jelly Roll Morton'],0.711,174427,0.635,0,1Wj1hBJKbEgyFHzraDL9aD,0.882,0,0.0744,-5.458,1,The Chant,0,1925,0.0479,104.181
+0.319,1925,0.979,['Ethel Waters'],0.326,198933,0.169,0,1apQU5qZgyw6rm4wxvKxo4,0,1,0.129,-15.623,1,Cabin In The Sky,1,1925,0.0309,64.187
+0.46,1925,0.992,['Ignacio Corsini'],0.32,159680,0.169,0,1cTfZCuDHR0hyurrY8McD4,0.98,6,0.129,-23.694,0,Engualichaste Mi Corazón - Remasterizado,0,25/04/1925,0.053,118.373
+0.8,1925,0.996,['Louis Armstrong & His Hot Five'],0.568,173760,0.156,0,1k4xhU1UoTGs2lYsA7xq4J,0.734,11,0.209,-16.906,1,I'm Gonna Gitcha,1,1925,0.317,186.689
+0.894,1925,0.984,['Dranem'],0.671,149133,0.366,0,1usQRVBEb4UMMlUdsPPfOV,0,7,0.115,-13.625,1,Raymonde,0,1925,0.0618,109.651
+0.733,1925,0.992,['Georgius'],0.541,196867,0.378,0,1xSOWXoINyYVF46ab8sKpb,0.000102,7,0.131,-15.167,1,Hortensia Ou La Fille Du Jazz Band,0,1925,0.0777,140.419
+0.0543,1925,0.816,['Georges Thill'],0.298,217261,0.0436,0,1zPmz3rh854RXIho4RYtWi,0.00729,0,0.111,-19.321,1,"Faust, Acte 3, Scène Et Duo Du Jardin, Fin (4ème Partie): ""Tête Folle, Tu Nous Écoutais!""",0,1/1/1925,0.193,76.279
+0.427,1925,0.993,['Patrick Hunt'],0.906,119096,0.103,0,20Kjljtn4LFdxyQOJPLqBR,0.95,1,0.106,-21.967,0,Sweet Georgia Brown,0,1925,0.045,107.829
+0.417,1925,0.996,"['Francisco Canaro', 'Azucena Maizani']",0.563,174667,0.242,0,230yKx4iJH3uW33JkEqP4g,0.912,0,0.398,-12.03,1,Silbando - Remasterizado,0,2/8/1925,0.147,113.549
+0.502,1925,0.967,['Ethel Waters'],0.58,187133,0.225,0,23furE1azaxq02V6iHZHMt,0,0,0.118,-16.784,1,Come Up And See Me Sometime,1,1925,0.319,96.869
+0.592,1925,0.996,['Louis Armstrong & His Hot Five'],0.686,181600,0.127,0,29735iAeYhkpYnVAURWpSa,0.372,7,0.112,-17.711,1,Heebie Jeebies,1,1925,0.0818,156.359
+0.379,1925,0.992,['Yvonne George'],0.553,170173,0.0903,0,2AbVQuMyvNhUZEsNAQzp8V,0,3,0.259,-14.881,1,J'ai Pas Su Y Faire,0,1925,0.101,77.049
+0.315,1925,0.993,['Francisco Canaro'],0.443,171533,0.265,0,2HHvjG9sSrs5uVeity8AvB,0.959,1,0.141,-17.091,1,Virgencita del Talar - Remasterizado,0,12/7/1925,0.46,69.038
+0.544,1925,0.955,['Andrée Turcy'],0.654,185307,0.156,0,2HQhHBFe2kDksoRKdGCZXF,0,7,0.344,-12.899,1,Mon Anisette,1,1925,0.382,139.323
+0.237,1925,0.969,['Georges Thill'],0.279,226639,0.179,0,2NhCNt7OL6CqHLEwgWjZaN,0.0684,10,0.31,-12.267,1,"Faust, Acte 1, 1er Tableau, 2ème Partie:""Salut Ô Mon Dernier Matin""",0,1/1/1925,0.0453,90.865
+0.666,1925,0.993,['Ignacio Corsini'],0.435,196027,0.239,0,2SFPIqnhQkrrqyxmVFJm0n,0.84,9,0.119,-20.321,0,Alfredo - Remasterizado,0,25/04/1925,0.0785,130.607
+0.626,1925,0.993,['Ignacio Corsini'],0.427,117533,0.361,0,2VRq4ROe0zs7rcVVDHEUUq,0.506,3,0.72,-19.103,1,Marinero - Remasterizado,0,25/04/1925,0.0829,71.589
+0.627,1925,0.992,['Marguerite Deval'],0.469,179067,0.305,0,2aNIUgf8gshzUpIyXfnLE6,5.25E-05,9,0.355,-15.285,0,Si J'avais Été Un Homme,0,1925,0.0779,68.849
+0.489,1925,0.996,['Francisco Canaro'],0.627,161080,0.255,0,2afVoyujGksnWxWAuqV92K,0.919,1,0.358,-13.333,1,París - Remasterizado,0,2/8/1925,0.0739,111.645
+0.567,1925,0.995,['Ignacio Corsini'],0.484,151760,0.101,0,2bV9JZ4rTDS3BmlHY93X76,0.783,2,0.111,-24.966,1,Tu Promesa - Remasterizado,0,25/04/1925,0.0336,100.019
+0.662,1925,0.996,"['Francisco Canaro', 'Azucena Maizani']",0.61,156773,0.343,0,2ezxccnGkAqUPnhlYNn9Z6,0.883,7,0.413,-12.121,0,Penas de Arrabal - Remasterizado,0,2/8/1925,0.353,71.72
+0.805,1925,0.996,['Francisco Canaro'],0.828,163147,0.158,0,2fRfDHRDDSoFLnqHngDSeU,0.916,7,0.116,-12.071,1,Langosta - Remasterizado,0,2/8/1925,0.132,115.943
+0.881,1925,0.994,['Emma Liebel'],0.67,147227,0.222,0,2jodvzBbR6KwOq1S8N0yfl,7.85E-06,10,0.0725,-14.268,1,Mon Paris,0,1925,0.0682,133.096
+0.579,1925,0.994,['Ignacio Corsini'],0.549,135200,0.0829,0,2kxqxpB6nTkFNrDuBYxwhk,0.887,4,0.11,-22.695,0,Luna Gaucha - Remasterizado,0,25/04/1925,0.0556,65.139
+0.837,1925,0.996,['Francisco Canaro'],0.63,160867,0.309,0,2mVkVHKBoG54PaUJIuKw5N,0.788,5,0.317,-15.324,0,Tita - Remasterizado,0,12/7/1925,0.0511,126.717
+0.309,1925,0.95,['Georges Thill'],0.469,228416,0.0259,0,2nJLxjZFbrrhFF3AF1LQ6a,0,10,0.675,-19.539,0,"Carmen, 13, Acte 2, Duo De Carmen Et Don José (1ère Partie): ""Je Vais Danser En Votre Honneur""",0,1/1/1925,0.311,83.576
+0.784,1925,0.994,['Ignacio Corsini'],0.53,179827,0.255,0,2wc9bV6XI32NNMSjlKvOTD,0.438,6,0.857,-20.043,0,Los Carreteros - Remasterizado,0,25/04/1925,0.478,67.319
+0.75,1925,0.974,['Cliff Edwards'],0.758,148701,0.434,0,2xpAh8qSWSWlDSszgdMuOC,0,8,0.173,-9.317,0,That's My Weakness Now,0,1925,0.225,133.982
+0.348,1925,0.929,['Ethel Waters'],0.496,209533,0.177,0,3194gT5ute5xvd87SGZlPG,0,7,0.153,-13.495,1,Hottentot Potentate - Live,1,1925,0.0717,97.915
+0.527,1925,0.972,['Ethel Waters'],0.64,190000,0.129,0,31d4c389HCF9pQo3ODHXgZ,0,9,0.656,-15.323,1,Taking A Chance On Love,1,1925,0.0619,126.108
+0.125,1925,0.913,['Georges Thill'],0.294,243854,0.176,0,32X6PAkvyHnBaBvLwRVYug,0.000214,5,0.174,-12.836,1,"Hérodiade: ""Air De Jean""",0,1/1/1925,0.0404,101.202
+0.673,1925,0.995,['Ignacio Corsini'],0.604,170333,0.112,0,32zbt9mbnA19OnGyTIudRB,0.931,9,0.17,-21.041,0,Campana de Plata - Remasterizado,0,25/04/1925,0.204,113.544
+0.668,1925,0.989,['Ethel Waters'],0.66,204573,0.11,0,33v3eC44xoY0brO1L6sDx6,0,10,0.0898,-12.595,1,You Can't Stop Me From Loving You,1,1925,0.0921,114.574
+0.126,1925,0.965,['Georges Thill'],0.167,188631,0.163,0,36DjPq4xxE6PFx8LQIXzBr,0.928,3,0.105,-15.896,1,"Carmen, 17, Acte 3: ""Entracte""",0,1/1/1925,0.0445,73.344
+0.766,1925,0.964,['Ignacio Corsini'],0.284,164387,0.293,0,39RpyXuSsKCPSRn7t8TBv8,0.351,9,0.206,-22.059,0,China Ingrata - Remasterizado,0,25/04/1925,0.0584,95.38
+0.643,1925,0.996,['Francisco Canaro'],0.656,164213,0.175,0,3Fz0Tex4GxtWZNeLnTKU6V,0.925,4,0.174,-13.481,1,En Aquel Cuartito - Remasterizado,0,2/8/1925,0.0905,121.13
+0.53,1925,0.995,['Francisco Canaro'],0.631,172493,0.222,0,3LFsQMhlxh56QnIfxy4SPO,0.97,5,0.218,-14.833,0,Juguete de Placer - Remasterizado,0,2/8/1925,0.0609,115.436
+0.853,1925,0.948,['The Hot Air-Men'],0.703,189661,0.428,0,3LGBGcUHPxRqRmcReNtIK4,0.102,0,0.171,-10.027,1,Red Hot Chicago,1,1925,0.133,178.698
+0.469,1925,0.986,['Ignacio Corsini'],0.392,171320,0.0474,0,3MXw4DICWE6vmEE3n9cZ0I,0.888,8,0.104,-27.093,0,El Centenario - Remasterizado,0,25/04/1925,0.0397,63.757
+0.133,1925,0.959,['Georges Thill'],0.4,211932,0.127,0,3PxwHGNMTNcpq0pmDV1b4m,0.00176,1,0.109,-16.209,1,"Mireille, Acte 5: ""Anges Du Paradis""",0,1/1/1925,0.0834,131.828
+0.431,1925,0.994,['Ignacio Corsini'],0.541,133013,0.126,0,3Q2O3hJW2FbiMzcbk3mRu1,0.843,6,0.321,-23.725,0,Medias de Seda - Remasterizado,0,25/04/1925,0.199,74.423
+0.477,1925,0.981,['Ethel Waters'],0.548,197760,0.157,0,3SDibiG9HuSpd31Rdoewog,0,7,0.578,-15.765,1,Theif In The Night,1,1925,0.0804,102.87
+0.842,1925,0.996,['Francisco Canaro'],0.659,172000,0.391,0,3WW7kJBtoWBKhV6KES1fO7,0.877,10,0.306,-10.866,1,Pico Blanco - Remasterizado,0,2/8/1925,0.0487,128.317
+0.824,1925,0.996,['Francisco Canaro'],0.372,150973,0.361,0,3aLSgdsdfGnJC0DAT7P87b,0.936,8,0.266,-15.181,1,Tea For Two - Remasterizado,0,2/8/1925,0.0699,212.162
+0.827,1925,0.996,['Francisco Canaro'],0.756,154107,0.25,0,3bF4rNEbDkB4ETRgZkTr9p,0.917,6,0.25,-13.816,1,Tomasito - Remasterizado,0,12/7/1925,0.0654,129.519
+0.299,1925,0.987,['Ethel Waters'],0.428,188640,0.148,0,3e2L9DmZ1GuWE5BeH8IvpL,0,8,0.107,-13.764,1,You're Lucky To Me,0,1925,0.0448,114.339
+0.0377,1925,0.991,['American Concert Orchestra'],0.116,284735,0.178,0,3gsHRi7WxGqzAd7kIPKyFy,0.804,4,0.902,-21.844,0,Extracts from the Ballet-Suite Scherazada - Remaster,0,28/04/1925,0.0427,83.158
+0.307,1925,0.995,['Ignacio Corsini'],0.48,145573,0.0939,0,3hdG6AI3ObCO8OZgYuyWGM,0.689,4,0.11,-23.486,0,Trago Amargo - Remasterizado,0,25/04/1925,0.206,94.007
+0.705,1925,0.996,['Francisco Canaro'],0.582,144413,0.286,0,3izqufataLHCvwGKfsiSem,0.941,1,0.322,-15.647,0,Mimosita - Remasterizado,0,12/7/1925,0.0607,125.142
+0.543,1925,0.995,['Ignacio Corsini'],0.513,163920,0.0658,0,3pDMFFshCPFbNQMJWCJxnH,0.888,10,0.114,-24.642,1,Sarita - Remasterizado,0,25/04/1925,0.0677,113.2
+0.554,1925,0.996,['Francisco Canaro'],0.583,166387,0.338,0,3pni9bAPJPiFltXwDpV6xj,0.957,5,0.127,-14.555,1,Ramas Secas - Remasterizado,0,12/7/1925,0.0527,126.456
+0.551,1925,0.995,['Ignacio Corsini'],0.516,139480,0.0422,0,3tl9k8QT0CRs9XAbVVH2to,0.843,6,0.105,-24.281,0,Anochecer - Remasterizado,0,25/04/1925,0.0648,80.733
+0.719,1925,0.978,['Mistinguett'],0.415,172840,0.33,0,3vuypSGFgGT7JKJiWPJURp,0,0,0.32,-14.533,1,Mon Bus'ness,0,1925,0.128,72.96
+0.719,1925,0.982,['Jelly Roll Morton'],0.6,173747,0.41,0,3zPUuRnmclI9WiLbmt8lmB,0.385,3,0.0771,-4.633,1,Black Bottom Stomp,0,1925,0.0382,136.793
+0.822,1925,0.969,['Maurice Chevalier'],0.705,158493,0.213,0,45OfpkoaAJTQhuJDy8zXND,0,2,0.228,-16.042,1,Je Ne Dis Pas Non,0,1925,0.558,98.08
+0.742,1925,0.995,['Ignacio Corsini'],0.554,125107,0.0917,0,48uWNLgQTIuI2FKRDWrWus,0.862,6,0.107,-25.096,1,Resignación - Remasterizado,0,25/04/1925,0.105,115.904
+0.815,1925,0.917,['Clarence Williams & His Orchestra'],0.8,207911,0.458,0,49wmJoUqLhM4shYvqYGdYB,0.0371,3,0.0833,-10.564,1,Papa De Da Da,0,1925,0.0546,91.611
+0.52,1925,0.995,['Ignacio Corsini'],0.381,196827,0.075,0,4AUS8NJUzqXcGLOpZeY27v,0.917,7,0.143,-25.665,1,Un Triste Despertar - Remasterizado,0,25/04/1925,0.0586,82.714
+0.888,1925,0.953,['Perchicot'],0.65,185973,0.52,0,4IUls53mx64sfeX1LBxCM5,0,9,0.0629,-12.068,1,Je N'suis Pas Celle Que Vous Croyez,0,1925,0.0817,131.367
+0.809,1925,0.996,['Ignacio Corsini'],0.56,146907,0.122,0,4KQqDGZsFJHGRqRiJgqzke,0.94,1,0.198,-23.506,1,Labios Pintados - Remasterizado,0,25/04/1925,0.0747,126.886
+0.678,1925,0.989,['Ignacio Corsini'],0.653,143693,0.151,0,4Kv5krOFkBEK9JaBJP7hVt,0,2,0.121,-16.657,0,El Cuchillo del Plata - Remasterizado,0,25/04/1925,0.156,120.634
+0.749,1925,0.972,['Annette Hanshaw'],0.687,172339,0.237,0,4MMJVh055Vo5yA83OtvMGM,0,10,0.0855,-8.725,1,I Got 'It' But It Don't Do Me No Good,0,1925,0.0678,94.444
+0.84,1925,0.978,['Frankie Half-Pint Jaxon & His Hot Shots'],0.805,184320,0.293,0,4PhCv5cFe0F1vUXLOQx20d,0.000248,8,0.0946,-9.23,1,Fifteen Cents,0,1925,0.0968,84.558
+0.629,1925,0.996,['Louis Armstrong & His Hot Five'],0.613,183133,0.114,0,4UrrnH02uRio9VJaOX2aAZ,0.829,4,0.247,-17.569,1,Droppin' Shucks,1,1925,0.184,163.646
+0.35,1926,0.821,['Fats Waller'],0.515,237773,0.222,0,3BFRqZFLSrqtQr6cjHbAxU,0.00193,0,0.19,-16.918,0,Ain't Misbehavin',49,1926,0.0575,98.358
+0.54,1926,0.725,['Fats Waller'],0.651,183560,0.0867,0,0eInL1bLAFdHJDL04R0OCP,6.54E-05,5,0.169,-18.882,1,Two Sleepy People,45,1926,0.048,87.221
+0.789,1926,0.912,['Fats Waller'],0.731,158427,0.179,0,0EYRLGRgsgnKetAVziaaLT,0.00752,5,0.111,-17.177,1,Honeysuckle Rose,28,1926,0.0634,154.709
+0.67,1926,0.917,['Fats Waller'],0.778,209133,0.101,0,5YZpAH2jWtOOvbe1jv936Q,0.00199,0,0.147,-20.193,1,I'm Gonna Sit Right Down and Write Myself a Letter,27,1926,0.0548,115.347
+0.629,1926,0.728,['Fats Waller'],0.715,184053,0.0885,0,0fkfPggXhmXEkzCq0170MQ,2.55E-06,0,0.125,-20.028,1,Your Feet's Too Big,24,1926,0.191,117.142
+0.83,1926,0.987,['George Olsen'],0.737,189427,0.287,0,4BforxQIGJnNduf8sjkLGw,0.282,10,0.0808,-11.605,1,Sunny,19,1/7/1926,0.0326,108.152
+0.804,1926,0.753,['Fats Waller'],0.751,185693,0.274,0,4NgQxw0duwOJhmovUZu8zJ,0.543,5,0.0863,-13.229,1,Functionizin',21,1926,0.0863,173.782
+0.89,1926,0.931,['Louis Armstrong & His Hot Five'],0.74,183960,0.319,0,43QRJNdGe4GaO0ucHHQnmS,0.869,8,0.0507,-8.707,1,Struttin' with Some Barbecue - 78 rpm Version,22,1926,0.119,95.699
+0.917,1926,0.971,['Louis Armstrong & His Hot Seven'],0.602,175293,0.351,0,6v27P8xpwlYSaaV56levKN,0.345,5,0.142,-7.769,1,Potato Head Blues,21,1926,0.167,181.591
+0.782,1926,0.885,['Fats Waller'],0.715,194880,0.296,0,0Eb41TbSJMswzv1ZBlkwOt,0.0159,0,0.0552,-15.082,1,"Patty Cake, Patty Cake",19,1926,0.0715,102.969
+0.804,1926,0.987,"['Jelly Roll Morton', 'Johnny Dodds']",0.646,199645,0.326,0,6cZfUYHBa8LJ6GcnWUQ7B6,0.798,10,0.122,-15.245,1,Wolverine Blues - 1990 Remastered - Take 1,21,1926,0.0395,113.918
+0.873,1926,0.828,['Fats Waller'],0.78,186200,0.425,0,2P1X7MLycJr7BFRuByn53z,0.359,5,0.215,-12.282,0,Dinah,16,1926,0.059,112.156
+0.644,1926,0.97,['Louis Armstrong & His Hot Seven'],0.639,188907,0.211,0,5trUr8XzpbSzQo07ZnQnor,0.675,0,0.43,-9.139,0,Wild Man Blues,23,1926,0.0558,95.574
+0.686,1926,0.722,['Fats Waller'],0.85,165573,0.113,0,2nMIbw9NAjPGzkZa7c8Bre,1.82E-06,0,0.146,-18.821,1,All That Meat And No Potatoes,16,1926,0.0642,141.788
+0.871,1926,0.982,['George Olsen'],0.889,198520,0.266,0,4AEoPGkwHI5f7SC875nUrG,0.534,3,0.0885,-13.342,1,Horses - Take 2,17,1/7/1926,0.0674,105.866
+0.64,1926,0.912,['Fats Waller'],0.645,190400,0.285,0,00WwIdBVbLYRNbDpA4n9I5,0.000108,0,0.104,-14.223,0,Ain't Nothin' To It,15,1926,0.121,129.422
+0.516,1926,0.926,['Fats Waller'],0.615,187600,0.0754,0,4FEHNITJSMx4lMq7YU0ZH1,0.0796,2,0.109,-21.62,1,Squeeze Me,16,1926,0.0389,91.528
+0.837,1926,0.89,['Fats Waller'],0.802,136413,0.348,0,5GXHilIWPNgswL89WQGeyI,0.642,3,0.309,-15.926,1,I'm Crazy 'Bout My Baby,13,1926,0.105,118.104
+0.542,1926,0.991,['Fats Waller'],0.562,180320,0.179,0,7bqaKsfrVZtHOoaV78i7N9,0.793,0,0.101,-16.708,1,"Ain't Misbehavin' - (from the musical comedy ""Connie's Hot Chocolates"")",15,1926,0.049,166.007
+0.712,1926,0.83,['Fats Waller'],0.704,166707,0.233,0,0dg9GI2GbHjjswsDPrizOB,0.0367,0,0.0771,-15.376,1,How Can You Face Me?,13,1926,0.0646,144.045
+0.822,1926,0.959,"['Louis Armstrong & His Hot Seven', 'Carroll Dickerson Orchestra']",0.597,197867,0.315,0,6nIWphwUlDuSZYUd9vIZv1,0.636,10,0.0883,-9.583,1,Chicago Breakdown,13,1926,0.0991,174.815
+0.226,1926,0.99,['Fats Waller'],0.565,176653,0.163,0,4JzoonYwqVoNs4HbZQJFfH,0.735,3,0.185,-20.056,1,Viper's Drag,12,1926,0.0597,114.554
+0.655,1926,0.897,['Fats Waller'],0.699,167800,0.412,0,4mo3AVxhJPwV4yQMIAhMou,9.64E-05,10,0.128,-16.051,1,The Joint Is Jumpin',12,1926,0.327,108.865
+0.536,1926,0.896,['Fats Waller'],0.746,189520,0.156,0,67lHQA6eJXtHPwha1PXvJl,0.000521,0,0.709,-16.504,1,Sugar Rose,11,1926,0.0471,127.875
+0.475,1926,0.975,['Fats Waller'],0.58,185693,0.126,0,6X5Viwfm2gWYjaEuEdKelA,0.232,5,0.12,-20.103,1,Lost Love,12,1926,0.038,95.862
+0.411,1926,0.9,['Fats Waller'],0.658,210040,0.108,0,5EOPkk6bd6NgYhjuPKWFtx,0.0177,3,0.135,-18.916,1,Our Love Was Meant to Be,11,1926,0.0435,81.085
+0.626,1926,0.984,['Louis Armstrong & His Hot Five'],0.671,171760,0.341,0,5hUP7BDeuNEXHYRIRp74gv,2.68E-05,8,0.143,-9.597,1,Heebie Jeebies,13,1926,0.0894,164.49
+0.764,1926,0.973,['Uncle Bunt Stephens'],0.467,178364,0.425,0,6pXovRXvSN6jZdmpeNsbv1,0.828,2,0.43,-10.594,1,Sail Away Lady - 2020 Remaster,12,1926,0.0517,125.385
+0.676,1926,0.868,['Fats Waller'],0.655,195173,0.193,0,1u8R1k0NGh3RGCpDrUERBn,0.00676,2,0.249,-16.625,1,The Panic Is On,11,1926,0.051,163.276
+0.88,1926,0.924,['Louis Armstrong & His Hot Five'],0.61,192360,0.393,0,3GljPfJrELlzZTyK5DLD7A,0.0115,7,0.182,-11.365,1,Put 'Em Down Blues,11,1926,0.134,95.215
+0.792,1926,0.645,['Fats Waller'],0.821,173920,0.297,0,7qd7lA9LjnUJsawEql0m0J,0.154,0,0.261,-15.573,1,It's A Sin To Tell A Lie,11,1926,0.0723,113.539
+0.846,1926,0.994,['Louis Armstrong & His Hot Five'],0.656,177227,0.295,0,2eyH4O0azQOth7dH0MRr8E,0.0377,7,0.111,-10.598,1,Big Butter And Egg Man,11,1926,0.0882,98.965
+0.386,1926,0.976,['Fats Waller'],0.672,192707,0.0427,0,0sC7L64J9vnhojMN45aK0S,0.00139,0,0.113,-24.487,0,A Hopeless Love Affair,10,1926,0.0418,91.043
+0.59,1926,0.872,['Fats Waller'],0.661,197013,0.207,0,4zC4COjgpINYWZfAULgHs2,1.94E-05,7,0.197,-18.692,1,Honey Hush,10,1926,0.0404,102.944
+0.427,1926,0.891,['Fats Waller'],0.651,176040,0.0453,0,5nvRa7XTODdrFqGsuTcAjI,0,5,0.145,-23.104,0,I Can't Give You Anything but Love,11,1926,0.0757,95.157
+0.699,1926,0.921,['Fats Waller'],0.774,176173,0.301,0,19azfDLJijGlOwA0UbtAk0,0.078,5,0.0567,-13.865,1,Hold My Hand,9,1926,0.0605,102.415
+0.334,1926,0.973,['Fats Waller'],0.642,171120,0.104,0,6w4XHLfGgJnBio2Si3WLKl,0.741,7,0.175,-14.055,1,St. Louis Blues,9,1926,0.0505,77.2
+0.499,1926,0.983,['Fats Waller'],0.547,171040,0.171,0,07iw9DLedYT7J7qQgKbN4Y,0.95,7,0.136,-20.581,1,Numb Fumblin',9,1926,0.0326,112.481
+0.487,1926,0.00746,['Future Rapper'],0.797,81000,0.516,0,0YFDGOIR9ubDqWCvsUQKY0,0.229,11,0.0972,-12.679,0,HF V CMV.Iii,7,3/10/1926,0.252,151.114
+0.587,1926,0.796,['Fats Waller'],0.641,164600,0.141,0,575F747gQWkmowDG5QiOLs,0.000444,0,0.166,-20.027,1,Old Grand Dad,9,1926,0.283,162.438
+0.603,1926,0.981,['Louisiana Sugar Babes'],0.479,178573,0.208,0,0opATqwdecNexKKXwgVRov,0.864,5,0.0912,-17.239,0,Thou Swell,8,1926,0.0544,114.38
+0.369,1926,0.731,['Marbella Corella'],0.751,272744,0.231,0,1jOtq4PEiGgfGNRp3fqc7C,2.59E-06,9,0.115,-10.745,0,Nostalgias,22,1926,0.0411,89.91
+0.316,1926,0.987,['Fats Waller'],0.495,188067,0.144,0,1rHLZDAI3KYUB0PFxMkqQL,0.857,2,0.103,-19.035,1,African Ripples,9,1926,0.0428,94.608
+0.434,1926,0.731,['Fats Waller'],0.402,201347,0.198,0,3IeebgUYCGyhFra2EzUD29,0.182,0,0.121,-17.893,0,The Jitterbug Waltz,8,1926,0.0489,59.924
+0.75,1926,0.761,['Fats Waller'],0.754,192720,0.228,0,3qaDdnyJPvQgrAIbSQPi2z,0.000321,2,0.211,-17.338,1,Anita,8,1926,0.0609,126.515
+0.531,1926,0.996,['George Gershwin'],0.568,186813,0.157,0,4pqZwOAqCc9cp46gXELTEO,0.923,3,0.137,-19.184,1,Someone to Watch Over Me (Bonus Track),11,1926,0.0439,73.179
+0.6,1926,0.82,['Fats Waller'],0.529,151493,0.207,0,549igzfp6h3PKv6FP39iJb,5.05E-05,7,0.162,-15.603,0,You Must Be Losing Your Mind,8,1926,0.0969,167.692
+0.461,1926,0.0068,['Future Rapper'],0.151,51149,0.279,0,6Gb9wRpZp6p0VYuMBxuFHH,6.56E-05,1,0.188,-7.713,1,Past Ice and Ice and Even More,7,3/10/1926,0.034,81.184
+0.54,1926,0.994,['Louis Armstrong & His Hot Five'],0.596,182773,0.252,0,6xVCdroOORUMHucbfROQdQ,0.489,11,0.406,-9.836,0,The King of the Zulus,10,1926,0.179,166.735
+0.191,1926,0.987,['Fats Waller'],0.659,192640,0.0656,0,7JwtsF0G5xTilRm8nVlQtt,0.657,0,0.297,-20.399,1,Star Dust,9,1926,0.0746,88.666
+0.749,1926,0.817,['Fats Waller'],0.741,179520,0.309,0,0vz33QAoQkWX3cUmqfquuo,0.0211,5,0.163,-16.244,1,'Tain't Nobody's Biz-Ness If I Do,7,1926,0.119,116.148
+0.558,1926,0.993,['Fats Waller'],0.634,158507,0.131,0,1l3gf1CJHHTGnrhtrvADzt,0.84,5,0.165,-20.531,0,Love Me or Leave Me - Take 3,7,1926,0.0403,95.215
+0.322,1926,0.968,['Louis Armstrong & His Hot Five'],0.576,198533,0.234,0,2wzGWv4nyzVJXhy21Eg24B,0.646,3,0.0829,-11.531,1,West End Blues,8,1926,0.0537,83.026
+0.201,1926,0.991,['Fats Waller'],0.649,192333,0.0709,0,3N2FXCkpZmIFHlqUgx6crA,0.863,0,0.139,-20.096,1,Keepin' Out of Mischief Now,7,1926,0.0478,111.303
+0.649,1926,0.95,['Fats Waller'],0.62,197293,0.118,0,46ewJ4i4xwgUuMyGZFwJqW,0.119,10,0.223,-18.829,0,Up Jumped You With Love,7,1926,0.0485,122.267
+0.485,1926,0.969,['Louisiana Sugar Babes'],0.427,183493,0.141,0,4TZ5xHacg417VxJC2qkSdt,0.933,5,0.171,-19.769,0,'Sippi,8,1926,0.101,82.353
+0.96,1926,0.937,['Louis Armstrong & His Hot Five'],0.802,179667,0.383,0,4hH2L62wG40hqrrcaFz3Dn,0.23,5,0.129,-11.351,1,Jazz Lips,9,1926,0.0906,107.059
+0.715,1926,0.941,['Louis Armstrong & His Hot Seven'],0.697,181067,0.186,0,5pYWNge6xtzTmqOexSb1fa,0.846,5,0.0772,-9.133,1,Alligator Crawl,11,1926,0.0928,104.555
+0.628,1926,0.867,['Fats Waller'],0.701,179787,0.0478,0,5tlLRDd1GRkHKFWIf4I0Il,4.33E-05,3,0.188,-20.807,1,"Bessie, Bessie, Bessie",7,1926,0.061,97.439
+0.713,1926,0.9,['Fats Waller'],0.75,202267,0.139,0,7FwTP9tlB7L0fzXOnJYTXk,5.15E-05,3,0.242,-18.908,1,Cash for Your Trash,7,1926,0.0609,150.964
+0.89,1926,0.988,['Fats Waller'],0.525,156320,0.302,0,7GUP6CQubCwyJdsUvO89jP,0.78,7,0.17,-17.964,1,Carolina Shout,7,1926,0.0419,121.195
+0.644,1926,0.957,['Fats Waller'],0.802,190213,0.148,0,048gn7xU3aWixBAEJFspEN,0.0485,7,0.205,-17.719,1,You're Not the Only Oyster In the Stew,7,1926,0.0581,96.144
+0.313,1926,0.995,['Louis Armstrong & His Hot Five'],0.536,192560,0.115,0,04VbEMd4mpltd4CsBK0lHi,0.00176,9,0.105,-16.693,1,Lonesome Blues,10,1926,0.041,78.728
+0.829,1926,0.935,"['Fats Waller, His Rhythm and Orchestra']",0.728,186240,0.317,0,08TX1IJWR9K9oZwUnAA5oJ,0.00324,7,0.19,-15.351,0,The Sheik of Araby,7,1926,0.0597,105.792
+0.854,1926,0.982,['Louis Armstrong & His Hot Five'],0.665,150160,0.366,0,0o5rGmxu61uteBIMSym5fK,0.666,8,0.0763,-9.064,1,Muskrat Ramble,8,1926,0.212,183.755
+0.928,1926,0.931,['Louis Armstrong & His Hot Five'],0.791,182333,0.401,0,1JHCXaQfAdO2llk8fGKSQT,0.567,3,0.193,-10.28,1,Hotter Than That,8,1926,0.0864,107.604
+0.923,1926,0.971,['Louis Armstrong & His Hot Seven'],0.58,175267,0.34,0,1TGnuUqI5bsIVspv4YYsvy,0.34,5,0.151,-8.282,1,Potato Head Blues,8,1926,0.176,180.171
+0.812,1926,0.982,['Fats Waller'],0.541,184920,0.247,0,2wZJjUPmBb9tJP9Xx2G6ez,0.868,0,0.131,-19.291,1,Smashin' Thirds,7,1926,0.0432,111.664
+0.836,1926,0.926,['Fats Waller'],0.703,169920,0.285,0,2xllQZvVjAI8dKM9eznGDN,0.00932,10,0.163,-16.221,1,Christopher Columbus,7,1926,0.0631,133.982
+0.834,1926,0.811,['Fats Waller'],0.762,155547,0.307,0,3VPirEcISU7rbDYX5lLJXb,0.000389,3,0.669,-16.266,1,Lulu's Back In Town,7,1926,0.104,108.806
+0.943,1926,0.992,['Louis Armstrong & His Hot Five'],0.819,162760,0.366,0,4uBVcsW9vWVH4zDQpOHf1f,0.048,5,0.0995,-9.257,1,Sunset Cafe Stomp,10,1926,0.0846,106.524
+0.827,1926,0.911,['Jack Teagarden And His Orchestra'],0.606,192360,0.364,0,5HS5WfcRVbMEmXDpTUGTM4,0.000493,5,0.0959,-11.549,1,(I'll Be Glad When You're Dead) You Rascal You,7,1926,0.0927,103.317
+0.841,1926,0.922,['Louis Armstrong & His Hot Five'],0.683,204040,0.254,0,64Qo1QPHkodjW9Bmmo1E35,0.851,10,0.067,-10.63,1,Got No Blues,9,1926,0.337,142.575
+0.9,1926,0.942,['Louis Armstrong & His Hot Seven'],0.62,172760,0.23,0,66iLa3Cm2AA4hYnhMMsDJe,0.1,3,0.139,-9.867,1,S.O.L. Blues,8,1926,0.0849,106.551
+0.925,1926,0.917,['Louis Armstrong & His Hot Seven'],0.737,182733,0.251,0,6d7Oj3m87JYBcM3l7aTdx4,0.67,3,0.1,-8.707,1,Twelfth Street Rag,9,1926,0.208,118.028
+0.756,1926,0.962,['Fats Waller'],0.74,175827,0.28,0,7L1leQfPAqVZXDddj1TYrH,0.0343,3,0.498,-14.506,1,Lounging At the Waldorf,7,1926,0.0693,91.015
+0.88,1926,0.78,['Fats Waller'],0.666,161867,0.304,0,7gQU7Q2HlQ1xsb4UOIxmks,0.25,7,0.03,-17.365,1,Darktown Strutters Ball,6,1926,0.133,107.246
+0.44,1926,0.98,['Fats Waller'],0.628,160693,0.208,0,0Gowvqbu5TaTTYHmXuUcOG,0.938,5,0.14,-18.304,1,My Fate Is In Your Hands,7,1926,0.0558,134.126
+0.736,1926,0.96,['Fats Waller'],0.62,201893,0.14,0,0IQuXNRQuSWahRcrdnUS3J,0.707,5,0.0515,-18.103,1,In The Gloamin',6,1926,0.0572,144.375
+0.963,1926,0.959,['Louis Armstrong & His Hot Five'],0.677,182493,0.493,0,0bHTqVi0vBmOtAjL3UqwVz,0.82,5,0.757,-9.078,1,Ory's Creole Trombone,8,1926,0.131,104.383
+0.899,1926,0.995,['Louis Armstrong & His Hot Five'],0.614,189333,0.196,0,0jiH6Bf3OOm36ubMWZ0Sr5,0.892,4,0.0526,-14.019,1,Jazz Lips,9,1926,0.427,201.119
+0.843,1926,0.563,['Fats Waller'],0.837,124613,0.267,0,0komRzofadMbK7goHcF92v,2.18E-05,7,0.267,-16.93,0,"Hold Tight (Want Some Seafood, Mama)",6,1926,0.324,95.735
+0.904,1926,0.869,['Louis Armstrong & His Hot Seven'],0.755,186067,0.408,0,0n4FLRhXMhkLtXc8Q3p5CR,0.82,5,0.0839,-9.16,1,Willie the Weeper,7,1926,0.0598,96.365
+0.922,1926,0.921,"['Bunny Berigan', 'Tommy Dorsey', 'Fats Waller', 'Dick McDonough', 'George Wettling']",0.636,188040,0.468,0,0sbgH0KYc5ZvZBjfJtmeAB,0.811,5,0.0726,-12.714,1,Honeysuckle Rose,7,1926,0.0575,109.831
+0.883,1926,0.94,['Jelly Roll Morton & His Red Hot Peppers'],0.643,191147,0.597,0,1WTUn1PJVvvSIYgbwDTodX,0.934,0,0.198,-9.214,0,Black Bottom Stomp - 1992 Remastered,8,1926,0.0552,127.553
+0.953,1926,0.896,['Fats Waller'],0.791,157133,0.341,0,1c3HSfaO8NRyZDMqiCqFIP,0.491,2,0.119,-13.496,0,Serenade For A Wealthy Widow,6,1926,0.0451,105.399
+0.738,1926,0.866,['Louis Armstrong & His Hot Five'],0.757,195800,0.328,0,1zsftHmIQlP1kCIDxH54jg,0.829,7,0.0436,-9.365,1,Once In a While,8,1926,0.0679,100.939
+0.832,1926,0.932,['Louis Armstrong & His Hot Five'],0.731,207440,0.249,0,2McWvcuPPsBIHnpvitA3yV,0.0219,0,0.112,-11.251,1,The Last Time,7,1926,0.0919,78.711
+0.435,1926,0.794,['Fats Waller'],0.65,166733,0.0744,0,2REMgJ8r6BiAxXWyUdePXo,0.785,9,0.083,-20.496,0,Rosetta,6,1926,0.03,99.804
+0.62,1926,0.97,['Louis Armstrong & His Hot Seven'],0.616,188973,0.2,0,3EPOAu5vlmjh8zvP3ao5f9,0.537,0,0.445,-9.716,0,Wild Man Blues,7,1926,0.0578,90.148
+0.599,1926,0.724,['Fats Waller'],0.69,182787,0.136,0,3ZwgQglycOY7m7idbpdoQo,8.58E-05,7,0.371,-19.43,1,"You Run Your Mouth, I'll Run My Business",6,1926,0.254,134.339
+0.779,1926,0.946,['Fats Waller'],0.772,207507,0.357,0,3dAD7dU16dqKmUuny47sV0,0.275,10,0.187,-13.468,1,Somebody Stole My Gal,6,1926,0.133,120.811
+0.762,1926,0.945,['Fats Waller'],0.787,262653,0.3,0,3fbSEYYkemGkEETe8xSuMf,0.855,0,0.0866,-16.418,1,"Blue, Turnin' Grey Over You",6,1926,0.0466,90.081
+0.707,1926,0.994,['Louis Armstrong & His Hot Five'],0.712,171440,0.331,0,4KYNsBI4NTX6h1Hh7al02T,0.0274,0,0.112,-10.021,1,You Made Me Love You,10,1926,0.0686,98.211
+0.786,1926,0.912,['Fats Waller'],0.668,183600,0.22,0,5FzgkVitiLFdKZcxiMXclD,0.0205,0,0.219,-16.153,1,A Good Man Is Hard to Find,6,1926,0.0639,148.905
+0.589,1926,0.905,['Louis Armstrong & His Savoy Ballroom Five'],0.712,191693,0.197,0,5X9cqxhBN41jIq5rpXLJ5a,3.95E-05,5,0.133,-9.922,0,St. James Infirmary,6,1926,0.0475,116.727
+0.808,1926,0.843,['Fats Waller'],0.765,169493,0.202,0,7MpHsjhkcP9MWYQubWuRlS,0.00298,8,0.11,-19.525,1,'Tain't What You Do (It's The Way That You Do It),6,1926,0.0875,77.072
+0.777,1926,0.76,['Fats Waller'],0.762,160693,0.347,0,7fLzg5vvKbNMUXikhyCx95,0.403,9,0.0821,-15.264,1,Mamacita,6,1926,0.0681,91.115
+0.914,1926,0.852,['Louis Armstrong & His Hot Seven'],0.739,186067,0.43,0,7fbE6FdotcSEyjnRwhVlfV,0.84,5,0.0737,-8.623,1,Willie the Weeper,7,1926,0.0543,95.599
+0.693,1926,0.986,['Louis Armstrong & His Hot Seven'],0.749,180000,0.218,0,7ovcofZ0IabtMg7VbJOKEA,0.842,5,0.754,-8.931,0,Melancholy,10,1926,0.082,113.41
+0.369,1926,0.822,['Louis Armstrong & His Hot Five'],0.578,194973,0.169,0,7xoKblVgkrpJ2ckky3SAB1,7.56E-05,10,0.851,-12.513,1,Basin Street Blues,7,1926,0.0513,109.418
+0.503,1926,0.872,['Louis Armstrong & His Savoy Ballroom Five'],0.759,191800,0.244,0,0yrVHDPQF4HiwjGQAgYIb6,0.00419,2,0.0469,-11.738,1,Tight Like This,5,1926,0.111,114.098
+0.963,1926,0.904,['Louis Armstrong & His Hot Seven'],0.778,178027,0.325,0,137vYD6w4TxssV0b4L2qpj,0.901,5,0.0849,-9.127,1,Weary Blues,6,1926,0.198,102.568
+0.549,1926,0.947,['Louis Armstrong & His Hot Seven'],0.723,202227,0.209,0,1YAD1jeMEk2OjFj1b6HjzT,0.0307,0,0.0963,-11.703,1,Squeeze Me,6,1926,0.0485,90.673
+0.934,1926,0.963,['Jelly Roll Morton & His Red Hot Peppers'],0.763,174335,0.431,0,1eodLtI2tja7z5OQ7YUyJ0,0.9,0,0.124,-11.272,1,Grandpa's Spells (Take 2),8,1926,0.046,104.743
+0.961,1926,0.958,['Louis Armstrong & His Hot Five'],0.673,182533,0.485,0,1krKBveQvDvPExwp0mzdJp,0.699,5,0.85,-9.404,1,Ory's Creole Trombone,6,1926,0.133,102.758
+0.842,1926,0.747,['Fats Waller'],0.793,186747,0.333,0,3FElAk9AiSylE04JqVea41,0.0859,7,0.0473,-14.026,1,There'll Be Some Changes Made,6,1926,0.134,120.905
+0.849,1926,0.971,['Louis Armstrong & His Hot Seven'],0.668,194493,0.245,0,3XP8PgEegJ7ZMm4c4ss5Q1,0.0187,3,0.0994,-9.833,1,Gully Low Blues,7,1926,0.0854,109.261
+0.457,1926,0.907,['Fats Waller'],0.637,180893,0.0602,0,4AOBtdCRSMhnn4dyPVgW8k,0.000734,3,0.115,-19.47,1,Let's Get Away from It All,6,1926,0.185,94.213
+0.774,1926,0.914,['Fats Waller'],0.682,156107,0.252,0,4FmdIDwlUhxswISRZZNFRI,0.155,5,0.0971,-19.542,1,"She's Tall, She's Tan, She's Terrific",5,1926,0.0989,110.677
+0.716,1926,0.943,['Louis Armstrong & His Hot Seven'],0.709,181093,0.193,0,4H9nOS1KgWl1VsxYoPJukt,0.828,5,0.0721,-8.592,1,Alligator Crawl,7,1926,0.0698,104.328
+0.887,1926,0.934,['Louis Armstrong & His Hot Five'],0.75,184000,0.329,0,5Ld0aQqaZtmDJU2Oi6oefj,0.865,8,0.0478,-7.91,1,Struttin' with Some Barbecue - 78 rpm Version,6,1926,0.109,96.055
+0.482,1926,0.972,['Louis Armstrong & His Hot Seven'],0.717,169800,0.131,0,5Qe0jnw19N2kWBQt2EXFNL,0.000413,10,0.198,-12.129,1,Muggles,6,1926,0.0436,85.835
+0.947,1926,0.831,['Fats Waller'],0.823,169747,0.323,0,5TewqcSDltVwN9NHZBbWlm,0.0786,5,0.202,-18.041,1,What's The Reason (I'm Not Pleasin' You),5,1926,0.109,117.263
+0.925,1926,0.876,['Louis Armstrong & His Hot Five'],0.73,158467,0.389,0,7FBOxqPDKby3FmOzWEQpqq,3.99E-06,9,0.123,-12.072,0,Irish Black Bottom,8,1926,0.0723,99.4
+0.551,1926,0.996,['Louis Armstrong & His Hot Five'],0.676,193387,0.0337,0,7L3lNzoVn1th5t5qNPE3f7,0.74,11,0.114,-19.827,1,Skid-Dat-De-Dat,6,1926,0.054,114.371
+0.921,1926,0.979,['Louis Armstrong & His Hot Seven'],0.581,175293,0.34,0,1hn1anDgmYRxS9M3raq88c,0.47,5,0.177,-8.357,1,Potato Head Blues,6,1926,0.162,179.949
+0.895,1926,0.967,"['Jelly Roll Morton & His Red Hot Peppers', 'Jelly Roll Morton']",0.49,204707,0.502,0,1riCFEK7PSSY9fKHsGfqdN,0.181,8,0.083,-9.387,0,Doctor Jazz,8,1926,0.0812,201.875
+0.956,1926,0.913,['Louis Armstrong & His Savoy Ballroom Five'],0.78,178707,0.466,0,1xg3uCUEpqxBhNEITu3hIx,0.809,3,0.102,-9.048,1,Beau Koo Jack,5,1926,0.0865,120.703
+0.731,1926,0.972,['Louis Armstrong & His Hot Seven'],0.734,206467,0.238,0,29NXZoraEVtB8k6ufCBV9H,0.0452,7,0.22,-8.939,0,Keyhole Blues,6,1926,0.0851,107.381
+0.963,1926,0.906,['Louis Armstrong & His Hot Seven'],0.78,178000,0.313,0,3mF2yzcl2Oo5y9JnpTNA3p,0.899,5,0.0785,-9.66,1,Weary Blues,7,1926,0.211,102.273
+0.939,1926,0.994,['Louis Armstrong & His Hot Seven'],0.589,178773,0.259,0,4Uoea1KgB3nzoeP8JKalh0,0.895,2,0.175,-12.822,0,Potato Head Blues,6,1926,0.33,177.536
+0.739,1926,0.995,['Louis Armstrong & His Hot Five'],0.564,175333,0.265,0,4a84KAeFtpkPtoBmMircXK,0.291,5,0.0659,-10.21,1,Cornet Chop Suey,6,1926,0.294,189.522
+0.907,1926,0.984,['Louis Armstrong & His Hot Five'],0.757,162827,0.382,0,4kT1EDojFeN9tIvt3cyXOP,0.00211,5,0.127,-9.945,1,I'm Gonna Gitcha,6,1926,0.0779,101.399
+0.781,1926,0.97,['Louis Armstrong & His Hot Seven'],0.708,174773,0.234,0,5jw8MJ15e0lrhARLPxSMmI,0.000134,5,0.156,-10.281,1,That's When I'll Come Back to You,6,1926,0.243,123.377
+0.818,1926,0.996,['Louis Armstrong & His Hot Five'],0.61,170267,0.215,0,68AKl3qisoo7T5nuqJOxg3,0.892,4,0.16,-13.863,1,Sweet Little Papa,7,1926,0.363,180.075
+0.125,1926,0.972,"['George Gershwin', 'P. G. Wodehouse', 'Barbara Ruick', 'Lehman Engel']",0.227,354240,0.0784,0,6f9LYAOD74464g0MPJuVSx,0.000534,8,0.102,-20.73,1,Oh Kay!: Someone to Watch Over Me,7,1926,0.0472,83.957
+0.538,1926,0.991,['Louis Armstrong & His Hot Seven'],0.573,194973,0.0714,0,6lAdR50GO5Vh9xA6hAazdm,0.651,4,0.352,-16.373,0,Wild Man Blues,6,1926,0.174,77.903
+0.961,1926,0.941,['Louis Armstrong & His Hot Seven'],0.822,204027,0.351,0,2CzQp5PPDATR0CZzCZONgg,0.87,10,0.043,-13.299,1,Knee Drops,4,1926,0.138,105.113
+0.909,1926,0.959,['Louis Armstrong & His Hot Five'],0.747,184160,0.278,0,2K5KdxtSzbREwmXuOWYXUB,0.848,8,0.0534,-10.137,1,Struttin' with Some Barbecue - 78 rpm Version,4,1926,0.149,96.085
+0.778,1926,0.986,"['Jelly Roll Morton', 'Johnny Dodds']",0.708,171921,0.283,0,2KbXEL4z74YT4xFPFiVTz8,0.889,10,0.181,-15.143,1,Mr. Jelly Lord,5,1926,0.0717,120.828
+0.899,1926,0.983,['Louis Armstrong & His Hot Five'],0.786,187493,0.39,0,4TYcu30D2Fbs6Uud6dHVsi,0.893,8,0.0526,-10.34,1,Fireworks,4,1926,0.102,117.542
+0.786,1926,0.996,['Louis Armstrong & His Hot Five'],0.61,188333,0.18,0,4pWJmJpmO4ZJcKPvwGdftT,0.438,6,0.144,-15.011,1,Big Butter And Egg Man,5,1926,0.0941,96.489
+0.797,1926,0.996,['Louis Armstrong & His Hot Five'],0.714,167800,0.181,0,4yNLOqfjUKOammXXjob7Ki,0.438,1,0.358,-15.321,0,Irish Black Bottom,4,1926,0.229,92.418
+0.745,1926,0.992,['Louis Armstrong & His Hot Seven'],0.736,187467,0.137,0,5QVNWioCfr93v6z1lovxzN,0.814,7,0.395,-14.349,0,Twelfth Street Rag,5,1926,0.403,113.649
+0.704,1926,0.993,['Louis Armstrong & His Hot Seven'],0.715,211133,0.13,0,5xP2RQHhL5Smj0h9U9qW49,0.389,9,0.122,-13.993,1,Keyhole Blues,6,1926,0.263,104.933
+0.552,1926,0.992,['Louis Armstrong & His Hot Seven'],0.698,185640,0.136,0,657I3AxRiZoTkP41zopM10,0.726,5,0.516,-15.05,1,Alligator Crawl,5,1926,0.136,100.813
+0.844,1926,0.967,"['Louis Armstrong & His Hot Seven', 'Carroll Dickerson Orchestra']",0.596,197933,0.294,0,68TmlPJVOH5Du2gMrbQfKm,0.773,10,0.0952,-10.162,1,Chicago Breakdown,4,1926,0.104,173.5
+0.865,1926,0.977,['Louis Armstrong & His Hot Seven'],0.549,191053,0.292,0,6pZNMjGp089aOEHWlPvkTu,0.854,9,0.576,-13.882,1,Willie the Weeper,5,1926,0.258,185.197
+0.482,1926,0.991,"['Jelly Roll Morton & His Red Hot Peppers', 'Jelly Roll Morton']",0.753,207122,0.168,0,75LecOmVXuRbvBm9oo6df7,0.836,7,0.131,-11.986,1,Smoke House Blues,5,1926,0.0493,91.282
+0.913,1926,0.996,['Louis Armstrong & His Hot Five'],0.748,173573,0.164,0,79SEQI96lWzU1d3OcbtuOj,0.641,6,0.154,-15.883,0,Sunset Cafe Stomp,5,1926,0.228,99.143
+0.584,1926,0.994,['Louis Armstrong & His Hot Seven'],0.73,185107,0.139,0,7EXn1bbCJaTseYTyUt9m3i,0.779,0,0.683,-13.786,0,Melancholy,4,1926,0.144,107.883
+0.883,1926,0.982,['Louis Armstrong & His Hot Seven'],0.754,183213,0.259,0,7FCBObEAw0fMCC75WZbHp7,0.822,9,0.125,-13.945,1,Weary Blues,4,1926,0.361,98.888
+0.683,1926,0.996,['Louis Armstrong & His Hot Five'],0.562,179507,0.162,0,7xa3AtEqYxbPUbT6fdO0iJ,0.119,11,0.0944,-15.236,1,You Made Me Love You,5,1926,0.197,186.162
+0.766,1926,0.995,['Louis Armstrong & His Hot Five'],0.65,182173,0.324,0,032d7xImO9LR7JdRKI1wRG,0.218,8,0.0676,-11.704,1,Don't Forget To Mess Around,3,1926,0.0726,101.437
+0.48,1926,0.928,"['George Gershwin', 'P. G. Wodehouse', 'Oh, Kay! Orchestra (1955)', 'Cy Walter', 'Bernard Leighton', 'Lehman Engel']",0.373,235427,0.312,0,0NI4cK55W52HThYMJkw6hn,0.905,3,0.0923,-14.149,1,Oh Kay!: Overture,3,1926,0.0348,137.833
+0.958,1926,0.965,['Louis Armstrong & His Hot Five'],0.809,179867,0.349,0,1Byu7lacJilhtOl2TAMzcn,0.655,5,0.162,-11.797,1,Jazz Lips,4,1926,0.103,107.197
+0.962,1926,0.995,['Jelly Roll Morton'],0.52,101600,0.364,0,1ywBmCaCvQ0SqqvvZgI18V,0.961,1,0.136,-13.016,1,Jungle Blues,2,1926,0.0497,107.32
+0.937,1926,0.984,['Jelly Roll Morton'],0.675,203453,0.679,0,24MZSH5QJHlDft2zNnvWpD,0.276,8,0.0625,-4.897,1,The Pearls,1,1926,0.0547,99.752
+0.899,1926,0.951,['Jelly Roll Morton & His Red Hot Peppers'],0.784,172803,0.57,0,2U9QCAZMQdp8E1N49LOgq7,0.874,0,0.069,-7.036,1,Grandpa's Spells (Take 3),2,1926,0.0513,105.028
+0.242,1926,0.581,"['Georgette Heyer', 'Irina Salkow']",0.717,125167,0.254,0,2gQBKj0vLJfdFxpAXlHDvD,0,4,0.394,-23.432,0,Kapitel 1 - Der Page und die Herzogin,7,1926,0.909,116.411
+0.555,1926,0.918,['Louis Armstrong & His Savoy Ballroom Five'],0.731,192040,0.207,0,3IwfJ9UORky7yUJWWCA1g3,0.0132,2,0.0407,-13.293,1,Tight Like This,3,1926,0.15,114.257
+0.85,1926,0.866,"['George Gershwin', 'P. G. Wodehouse', 'Allen Case', 'Oh, Kay! Ensemble (1955)', 'Lehman Engel']",0.622,131267,0.507,0,40O0J7k78OJAMbhwiCMVcC,5.43E-06,5,0.288,-11.591,1,Oh Kay!: Clap Yo' Hands,3,1926,0.0379,91.791
+0.653,1926,0.987,['George Olsen'],0.708,205667,0.277,0,4urNOA4TMEOYNbIpdRP7UB,0.278,3,0.102,-13.288,1,Who?,5,1/7/1926,0.0356,107.67
+0.763,1926,0.989,['Jelly Roll Morton & His Red Hot Peppers'],0.774,194630,0.213,0,4uvWBxGYLjd64hpiEumW5o,0.404,10,0.287,-14.887,1,Dead Man Blues - Take 1,3,1926,0.0869,128.421
+0.649,1926,0.991,['Jelly Roll Morton'],0.524,212013,0.478,0,4y7Bed5ihLJ4lyOlAn4pPy,0.669,10,0.129,-6.882,1,Original Jelly Roll Blues,2,1926,0.044,124.682
+0.915,1926,0.973,['Jelly Roll Morton & His Red Hot Peppers'],0.667,209955,0.39,0,5AuUxXAROGkigaMsLmk7t2,0.801,0,0.186,-10.517,0,Billy Goat Stomp,2,1926,0.0522,104.036
+0.864,1926,0.965,['Jelly Roll Morton & His Red Hot Peppers'],0.723,192215,0.497,0,5xoKOYyS2kCzxb9docXLaY,0.929,8,0.526,-10.347,1,The Chant,3,1926,0.0509,122.841
+0.83,1926,0.965,['Jelly Roll Morton & His Red Hot Peppers'],0.587,183856,0.53,0,5yUXVwuVsCxXjEBCzzEvmt,0.766,3,0.169,-7.48,1,Original Jelly-Roll Blues - Remastered 1995,2,1926,0.0668,76.45
+0.539,1926,0.824,['Louis Armstrong & His Hot Five'],0.718,181867,0.37,0,6FR9KQNhP4BaDHTfdNUrGG,0.706,8,0.119,-9.664,1,I'm Not Rough,3,1926,0.161,101.563
+0.548,1926,0.971,['Louis Armstrong & His Hot Seven'],0.733,202493,0.179,0,7BGXSpysMMs2zBS0uVh2mj,0.244,0,0.124,-13.213,1,Squeeze Me,4,1926,0.0564,91.574
+0.538,1926,0.898,"['Louis Armstrong & His Hot Seven', 'Carroll Dickerson Orchestra']",0.59,194467,0.169,0,7JQJRI1nLnp1WfTklDZrRr,0.00141,0,0.0971,-15.725,1,"Save It, Pretty Mama",3,1926,0.0828,107.852
+0.295,1926,0.456,"['Georgette Heyer', 'Irina Salkow']",0.719,137157,0.19,0,006fbuXS6rRAWlUEaklCmt,0,8,0.307,-22.712,0,Kapitel 297 - Der Page und die Herzogin,1,1926,0.915,114.452
+0.573,1926,0.169,['Эрнест Хемингуэй'],0.714,111200,0.263,1,015GfHsn37TX6TYpentlC8,0,1,0.362,-13.232,1,Часть 37.2 - Фиеста,0,1926,0.942,108.64
+0.327,1926,0.996,['Francisco Canaro'],0.604,161160,0.165,0,01IHl3vTIl6O35e2ADUn0p,0.531,0,0.0934,-9.838,1,La Maestrita - Remasterizado,0,15/07/1926,0.0651,126.009
+0.496,1926,0.0583,['Эрнест Хемингуэй'],0.719,98752,0.25,1,01IlQGfYsymFySYHPsNAEf,0,1,0.303,-14.484,1,Часть 72.4 & Часть 73.1 - Фиеста,0,1926,0.943,112.664
+0.964,1926,0.993,['Francisco Canaro'],0.704,174000,0.426,0,01gVBCp26pEKA1oWqTYBhA,0.916,9,0.115,-15.601,1,Madona - Instrumental (Remasterizado),0,15/08/1926,0.0528,118.176
+0.556,1926,0.996,['Ignacio Corsini'],0.494,123373,0.0663,0,01oH8fAOO58FEoypTjQqkv,0.916,6,0.105,-26.478,1,Derrotado - Remasterizado,0,14/05/1926,0.0596,67.739
+0.27,1926,0.0311,['Future Rapper'],0.401,78000,0.61,0,02R3JMuw0E8uloMBpHG3Yz,0.97,2,0.637,-12.807,1,Submission Accomplice,0,3/10/1926,0.0277,160.24
+0.312,1926,0.363,"['Georgette Heyer', 'Irina Salkow']",0.663,121327,0.162,0,02iZa5gL9rVFa6qZyYmaRP,0,11,0.277,-22.452,1,Kapitel 265 - Der Page und die Herzogin,1,1926,0.94,82.335
+0.317,1926,0.411,"['Georgette Heyer', 'Irina Salkow']",0.738,135616,0.163,0,02nINv52VmB4dKtOvtCH5E,0,9,0.34,-21.276,1,Kapitel 363 - Der Page und die Herzogin,1,1926,0.864,115.452
+0.297,1926,0.618,"['Georgette Heyer', 'Irina Salkow']",0.645,141310,0.205,0,03nXSQPb3mOYN2rvP8r6mu,0,0,0.238,-20.228,1,Kapitel 436 - Der Page und die Herzogin,1,1926,0.948,86.693
+0,1926,0.958,['Iván Rolón'],0.702,41719,0.00176,0,03xTkOTe36kugZ1pd6NxxN,0.622,11,0.0974,-38.295,0,"Cuatro melodías al unísono, No. III",0,1926,0.308,98.985
+0.801,1926,0.995,['Francisco Canaro'],0.473,162507,0.11,0,056LMajUc6GLM8Cb7GAkNz,0.84,5,0.114,-15.72,0,Katinka - Instrumental (Remasterizado),0,15/08/1926,0.229,214.817
+0.277,1926,0.562,"['Georgette Heyer', 'Irina Salkow']",0.721,109467,0.172,0,05E2C4mspHNyHRPHpnCe09,0,0,0.173,-20.798,1,Kapitel 355 - Der Page und die Herzogin,1,1926,0.94,116.338
+0.355,1926,0.533,"['Georgette Heyer', 'Irina Salkow']",0.712,110643,0.18,0,05kaM9NuTaBI7MxJsFdV82,0,11,0.161,-23.588,0,Kapitel 121 - Der Page und die Herzogin,1,1926,0.939,131.248
+0.285,1926,0.411,"['Georgette Heyer', 'Irina Salkow']",0.72,135903,0.167,0,065QKMAtm9ykIExcGtV4rD,0,4,0.236,-21.287,1,Kapitel 148 - Der Page und die Herzogin,1,1926,0.928,124.219
+0.285,1926,0.263,['Эрнест Хемингуэй'],0.618,98200,0.31,1,06C1qyU9LisOkexJJc5X4L,0,1,0.414,-14.464,1,Часть 53.2 - Фиеста,0,1926,0.961,184.235
+0.596,1926,0.0765,['Эрнест Хемингуэй'],0.728,97100,0.255,1,06oAAQ9JmIumRbuiQDyaKr,0,5,0.21,-15.532,0,Часть 7.4 - Фиеста,0,1926,0.95,81.873
+0.277,1926,0.327,"['Georgette Heyer', 'Irina Salkow']",0.715,112419,0.167,0,07Mkx2L4pbt7r68KRaBk8C,0,10,0.124,-22.57,1,Kapitel 260 - Der Page und die Herzogin,1,1926,0.904,110.881
+0.886,1926,0.987,['George Olsen'],0.56,182467,0.347,0,07ng4nNcxkrDvULVPwkbfD,0.304,0,0.0602,-10.262,1,A Little Bit Bad,0,1/7/1926,0.128,202.705
+0.28,1926,0.502,"['Georgette Heyer', 'Irina Salkow']",0.717,110721,0.131,0,07nlDg6wUfc0YMXoweDJlI,1.58E-06,8,0.149,-22.531,0,Kapitel 295 - Der Page und die Herzogin,1,1926,0.902,126.411
+0.789,1926,0.996,['Francisco Canaro'],0.318,161920,0.416,0,08YP5vVwvVT2lapzxNvVdY,0.982,8,0.339,-16.565,0,A Ti Te Contaré - Remasterizado,0,15/07/1926,0.0406,75.007
+0.492,1926,0.0337,['Эрнест Хемингуэй'],0.722,97617,0.215,1,09MTIoNIgD1dIFij1lyBVB,0,11,0.381,-13.139,0,Часть 74.5 & Часть 75.1 - Фиеста,0,1926,0.946,113.915
+0.653,1926,0.879,['Max Roge'],0.654,190600,0.328,0,09nQudtxDyOqDzglklWu8m,0.00372,8,0.531,-15.878,1,C'est Une Chemise Rose,0,1926,0.47,114.908
+0.261,1926,0.397,"['Georgette Heyer', 'Irina Salkow']",0.628,133813,0.17,0,0AqucZsx7HTklE1PFKGwQ6,0,9,0.234,-22.679,1,Kapitel 328 - Der Page und die Herzogin,1,1926,0.941,172.082
+0.267,1926,0.517,"['Georgette Heyer', 'Irina Salkow']",0.723,131436,0.183,0,0B4LlD6Rx6Ma1v4qKgKF10,0,3,0.148,-19.001,0,Kapitel 389 - Der Page und die Herzogin,1,1926,0.905,112.053
+0.382,1926,0.459,"['Georgette Heyer', 'Irina Salkow']",0.634,119315,0.179,0,0BSU1mA1RpLr4YqyhTd2LZ,0,11,0.162,-20.774,1,Kapitel 292 - Der Page und die Herzogin,1,1926,0.948,171.208
+0.358,1926,0.445,"['Georgette Heyer', 'Irina Salkow']",0.728,129581,0.132,0,0BiabBrmCw1XG6xaVRkf23,1.85E-06,11,0.325,-22.049,1,Kapitel 306 - Der Page und die Herzogin,1,1926,0.883,106.312
+0.466,1926,0.509,"['Georgette Heyer', 'Irina Salkow']",0.756,118532,0.184,0,0BjtCwfDH15trQGxhUwwxT,0,5,0.197,-22.445,1,Kapitel 358 - Der Page und die Herzogin,1,1926,0.943,103.189
+0.553,1926,0.996,['Francisco Canaro'],0.454,187693,0.541,0,0CdWVv6HzPxVy0UNLmC3Wz,0.958,3,0.702,-14.28,0,La Piba Del Tabaris - Remasterizado,0,12/7/1926,0.859,67.332
+0.385,1926,0.0977,['Эрнест Хемингуэй'],0.681,103000,0.304,1,0E34NDoA5tFsksVokrmFo1,0,9,0.14,-15.338,1,Часть 81.3 - Фиеста,0,1926,0.954,83.944
+0.412,1926,0.623,"['Georgette Heyer', 'Irina Salkow']",0.623,129790,0.144,0,0ESV6VtxZY3DVei945FjXa,0,0,0.24,-21.117,1,Kapitel 341 - Der Page und die Herzogin,1,1926,0.937,76.79
+0.362,1926,0.0636,['Эрнест Хемингуэй'],0.696,96900,0.332,1,0EcPKCPdW2WdoUF1p5ubXa,0,0,0.259,-19.631,1,Часть 54.4 - Фиеста,0,1926,0.951,136.425
+0.284,1926,0.396,"['Georgette Heyer', 'Irina Salkow']",0.639,120465,0.118,0,0EgzqM2yupwQJmKUdlymdP,0,4,0.134,-20.979,0,Kapitel 26 - Der Page und die Herzogin,2,1926,0.96,164.293
+0.911,1926,0.994,['Georgius'],0.672,177627,0.38,0,0G74FXTvzdA57sWLAwJwXq,0,3,0.426,-14.833,1,Les Absents Ont Toujours Tort,0,1926,0.212,120.162
+0.832,1926,0.995,['Ignacio Corsini'],0.395,156027,0.245,0,0GaWz2dar8OB737eQA31Hy,0.931,5,0.114,-22.87,1,Acordes - Remasterizado,0,14/05/1926,0.0555,114.199
+0.37,1926,0.317,"['Georgette Heyer', 'Irina Salkow']",0.704,114744,0.174,0,0H52HDdiv6rwvOEuRFcIBr,0,6,0.226,-22.358,0,Kapitel 53 - Der Page und die Herzogin,2,1926,0.951,81.51
+0.465,1926,0.99,['Ted Weems & His Orchestra'],0.697,177040,0.0809,0,0HNCyiSrlUAWilNvcZLVY0,0.376,5,0.0834,-15.554,1,Love Bound,0,1/7/1926,0.0386,110.11
+0.582,1926,0.164,['Эрнест Хемингуэй'],0.721,96700,0.221,1,0HYIOK4NUlkAxdMuAXefEt,0,1,0.22,-14.69,1,Часть 38.2 - Фиеста,0,1926,0.935,125.902
+0.819,1927,0.99,['Bix Beiderbecke'],0.709,180027,0.208,0,1YLxMRyib15FfONoTod5TV,0.796,0,0.0831,-12.245,0,Singin' The Blues,41,1927,0.0828,132.245
+0.964,1927,0.991,['Bix Beiderbecke'],0.779,192773,0.452,0,5H4bQ14RjOVM4eKtaIpn3B,0.818,5,0.0828,-10.351,1,Clarinet Marmalade,35,1927,0.0504,125.229
+0.497,1927,0.986,['Bix Beiderbecke'],0.688,189600,0.308,0,2uax3uO82di90ZsSx8DnNi,0.898,10,0.133,-11.084,1,I'm Coming Virginia,26,1927,0.0402,131.81
+0.485,1927,0.996,['Bix Beiderbecke'],0.392,163733,0.29,0,5Bk13n28rlG7GYCKDshsQM,0.958,0,0.112,-19.273,1,In a Mist,24,1927,0.0348,175.04
+0.681,1927,0.969,"['Jimmie Rodgers', ""Bob Sawyer's Jazz Band""]",0.487,182107,0.476,0,2oIt5PGBjFxFpqIQqUDQAb,0,7,0.398,-5.369,1,California Blues,16,1927,0.031,114.757
+0.557,1927,0.938,['Patrick Hunt'],0.842,125149,0.232,0,0aW8REcXlVXC1886CEWcoG,0.898,0,0.101,-18.243,1,Among My Souvenirs,13,1927,0.086,120.03
+0.878,1927,0.994,"['Broadway Bell Hops', 'Bix Beiderbecke', 'Frank Trumbauer']",0.711,181827,0.244,0,6ZqS7G9uJrBUDyVxsPiNeJ,0.0462,10,0.124,-14.124,1,There Ain't No Land Like Dixieland to Me (feat. Bix Beiderbecke & Frank Trumbauer),17,1927,0.106,206.167
+0.935,1927,0.976,"['Frankie Trumbauer & His Orchestra', 'Bix Beiderbecke']",0.742,187093,0.482,0,2hwE9NtJfgcT5cbLbPj8IB,0.859,8,0.276,-9.987,1,Riverboat Shuffle (feat. Bix Beiderbecke),17,1927,0.0351,106.418
+0.678,1927,0.986,['Ella Fitzgerald'],0.661,191427,0.108,0,56EWLK7IzCDywaEyXt5rtX,0.696,10,0.178,-20.662,1,All My Life - Live,28,1927,0.0419,106.539
+0.562,1927,0.979,"['Frankie Trumbauer & His Orchestra', 'Bix Beiderbecke']",0.683,169640,0.31,0,2pncudlraeKtvdug3V2qzW,0.818,7,0.114,-12.265,1,Way Down Yonder In New Orleans (feat. Bix Beiderbecke),17,1927,0.0494,144.638
+0.744,1927,0.994,"['Frank Trumbauer & His Orchestra', 'Bix Beiderbecke', 'Eddie Lang']",0.743,179427,0.331,0,4dYnW1fyCz6cNAKg719CIA,0.409,3,0.0868,-11.496,1,Trumbology (feat. Bix Beiderbecke & Eddie Lang),14,1927,0.0879,93.835
+0.736,1927,0.993,['Bix Beiderbecke'],0.672,173067,0.217,0,0z8SUv5AHWDkyA3QlkP0eV,0.926,0,0.0943,-15.418,1,Wringin' And Twistin',12,1927,0.0455,128.308
+0.89,1927,0.989,"['Frankie Trumbauer', 'Bix Beiderbecke', 'Eddie Lang']",0.607,182333,0.366,0,42vy3n2n4BOA3VYhdTf6sF,0.894,0,0.151,-13.926,1,For No Reason at All In C,13,1927,0.041,149.115
+0.96,1927,0.989,"['Frankie Trumbauer & His Orchestra', 'Bix Beiderbecke']",0.615,185040,0.479,0,4w5YWozyxt9kW0WCeRtwag,0.909,8,0.156,-11.283,1,Ostrich Walk (feat. Bix Beiderbecke),12,1927,0.0373,98.913
+0.731,1927,0.991,['Dock Boggs'],0.598,178207,0.253,0,6CGZj5w1yXFGrbZkVXkHpO,1.53E-05,1,0.0889,-14.974,1,Sugar Baby - 2020 Remaster,9,1927,0.0344,126.79
+0.892,1927,0.991,['Bix Beiderbecke'],0.635,180667,0.309,0,0HRlneFlkcSDkavcU5j5QC,0.917,8,0.161,-14.531,1,Three Blind Mice (Rhythmic Theme In Advanced Harmony),12,1927,0.0588,204.297
+0.675,1927,0.993,"['Frankie Trumbauer & His Orchestra', 'Bix Beiderbecke']",0.67,196133,0.279,0,1EnfQq9BDo95XSFHqxssj4,0.0284,5,0.174,-11.723,0,Blue River (feat. Bix Beiderbecke),11,1927,0.0641,77.178
+0.654,1927,0.99,"['Frankie Trumbauer & His Orchestra', 'Bix Beiderbecke', 'Eddie Lang']",0.526,180533,0.267,0,0LNGtRsSs96C3FgbKVewKO,0.125,3,0.376,-13.792,1,There's A Cradle In Caroline! (feat. Bix Beiderbecke & Eddie Lang),10,1927,0.0523,129.706
+0.693,1927,0.986,"['Frankie Trumbauer & His Orchestra', 'Bix Beiderbecke', 'Eddie Lang']",0.743,180467,0.228,0,1B9TWWO1yVTRm1oHT8amui,0.783,0,0.262,-12.099,1,Krazy Kat (feat. Bix Beiderbecke & Eddie Lang),10,1927,0.0457,141.384
+0.424,1927,0.991,"['Frankie Trumbauer & His Orchestra', 'Bix Beiderbecke', 'Eddie Lang']",0.663,181373,0.256,0,3ph2e4N2lfGu48vDq3tD3n,0.533,0,0.0739,-11.971,1,Humpty Dumpty (feat. Bix Beiderbecke & Eddie Lang),10,1927,0.0497,127.006
+0.713,1927,0.986,"['Frankie Trumbauer & His Orchestra', 'Bix Beiderbecke', 'Eddie Lang']",0.617,179267,0.301,0,6DwW0InhPzhWlsd1EbGAmI,0.862,5,0.0858,-12.571,1,(The) Baltimore (feat. Bix Beiderbecke & Eddie Lang),10,1927,0.103,166.349
+0.845,1927,0.989,"['Benny Meroff & His Orchestra', 'Bix Beiderbecke']",0.758,171307,0.378,0,7tDvzckZoxVLy6QkGQup9f,0.0434,8,0.112,-11.099,1,Just An Hour Of Love,8,1927,0.0409,104.5
+0.846,1927,0.987,"['Baron Lee', 'The Blue Rhythm Band']",0.848,169067,0.26,0,1ADOlp2CnR3TpNpg7DBQp0,9.74E-06,5,0.109,-12.751,0,Reefer Man - Live,5,1927,0.194,106.746
+0.822,1927,0.995,"['Broadway Bell Hops', 'Bix Beiderbecke', 'Frank Trumbauer']",0.815,174360,0.201,0,1E0BPa3Vd2bBzlnZafsU2l,0.0177,10,0.102,-14.327,1,There's a Cradle In Caroline! (feat. Bix Beiderbecke & Frank Trumbauer),9,1927,0.0442,109.116
+0.771,1927,0.978,"['Benny Meroff & His Orchestra', 'Bix Beiderbecke']",0.741,169360,0.404,0,4YfiY5AqaGSkjWEGF7e8CM,0.105,8,0.104,-12.187,1,I'm Wonderin' Who,8,1927,0.0765,90.566
+0.864,1927,0.996,"['Bix Beiderbecke', 'The Wolverines']",0.767,166970,0.386,0,4yJV4dmoxEz44B3f2vAJb1,0.904,5,0.233,-9.37,1,Big Boy,8,26/06/1927,0.0488,110.631
+0.851,1927,0.996,"['Bix Beiderbecke', 'The Wolverines']",0.715,173684,0.309,0,6GLVaOsGOqENV9PCVcD6ec,0.915,9,0.129,-9.632,0,Tia Juana,7,26/06/1927,0.0501,93.502
+0.633,1927,0.951,"['Bill ""Bojangles"" Robinson', 'Don Redman']",0.719,154960,0.607,0,4FPaZIoUEKu4N49mGYNW0a,0.00485,9,0.103,-17.579,0,Doin' The New Low Down - Live,4,1927,0.256,119.664
+0.811,1927,0.888,['Jimmie Rodgers'],0.551,177187,0.552,0,6xduEiTYonvynQ14nJzZd2,2.98E-05,2,0.146,-3.729,1,Mulskinners Blues,3,1927,0.0291,172.835
+0.326,1927,0.978,['Tito Schipa'],0.407,209493,0.141,0,0CXU6XXlYfYgpsihWBvMLM,0,1,0.161,-16.414,1,Era De Maggio,10,1927,0.0696,64.86
+0.644,1927,0.957,['Jimmie Rodgers'],0.67,197800,0.652,0,1WxQPVLcu6LZ7h3wgXW0Ke,0,2,0.0919,-4.545,1,Away Out On the Mountain,2,1927,0.0266,142.578
+0.578,1927,0.82,['Jimmie Rodgers'],0.481,189987,0.618,0,35s8Bm9HedjDjXraa6PgzQ,0.000141,7,0.0842,-3.272,1,The Brakeman's Blues,2,1927,0.0288,80.252
+0.661,1927,0.91,['Jimmie Rodgers'],0.647,184253,0.675,0,3a2mh3Xo1dq11ZU4ZsL1s9,0,3,0.262,-2.985,1,My Little Lady,2,1927,0.0249,91.238
+0.761,1927,0.877,['Jimmie Rodgers'],0.592,176253,0.55,0,3cFC3vuN2vXxlMvUyUmCma,0,3,0.255,-3.982,1,Daddy and Home,2,1927,0.026,139.498
+0.565,1927,0.941,['Jimmie Rodgers'],0.57,208000,0.718,0,3grfvaO0LT8pk4g4ZAfU83,0,3,0.309,-3.902,1,T for Texas,3,1927,0.0295,78.858
+0.621,1927,0.953,['Jimmie Rodgers'],0.447,190533,0.602,0,4DtNOUTldvCO27NmFsnttG,0.000439,7,0.0923,-2.715,1,In the Jailhouse Now,3,1927,0.0277,81.204
+0.473,1927,0.972,['Jimmie Rodgers'],0.664,177627,0.543,0,4Qd1Z8cEtk9OvRrEsrOnPm,0,1,0.32,-4.933,0,Train Whistle Blues,2,1927,0.0374,110.225
+0.845,1927,0.995,['Francisco Canaro'],0.437,151813,0.271,0,017tyGFxZEvwmaZ65Gjt3v,0.866,10,0.114,-15.403,1,Amapola - Instrumental (Remasterizado),0,4/9/1927,0.114,209.841
+0.61,1927,0.0166,['Paul Bridgwater'],0.425,353920,0.585,0,018RC89xBtF7MOTOmBG2Ml,0.00154,2,0.0735,-9.777,1,Sad Song,0,1927,0.0321,168.543
+0.821,1927,0.992,['Francisco Canaro'],0.653,167960,0.186,0,01ZMPq6QyqEM2k5G6Rdfwm,0.908,6,0.113,-17.088,0,Mucha Clase - Instrumental (Remasterizado),0,16/08/1927,0.0613,115.434
+0.52,1927,0.0965,['Sexteto Habanero'],0.551,176588,0.7,0,01j1U4wO3hVwJdCo9Xg2Bi,0,6,0.273,-13.202,0,La Maldita Timidez - Remastered,0,12/1/1927,0.0504,127.292
+0.693,1927,0.995,['Francisco Canaro'],0.899,175013,0.262,0,03M69YsUjWF7wGfQ4hwBd6,0.374,1,0.206,-10.061,1,El Alacrán - Instrumental (Remasterizado),0,5/9/1927,0.247,112.431
+0.241,1927,0.905,['Damia'],0.34,192053,0.213,0,03YtLgMnq3eMufe12Mby0O,1.47E-05,5,0.0574,-12.556,0,La Rue De La Joie,0,1927,0.0407,90.351
+0.969,1927,0.995,['Francisco Canaro'],0.771,138587,0.0677,0,05DFeO6x1ORBQwWGsmZrgM,0.899,5,0.11,-30.216,1,Yo Me Mato - Instrumental (Remasterizado),0,16/08/1927,0.0842,112.936
+0.803,1927,0.946,['Cab Calloway & His Orchestra'],0.635,170400,0.528,0,0An4DZJIa8IiXUHxEvtZ6W,0.00509,10,0.313,-11.258,0,Fifteen Minute Intermission - Live,0,1927,0.271,168.532
+0.708,1927,0.994,['Francisco Canaro'],0.758,161000,0.247,0,0B4HWkQHhAzxW43V7Z0fQO,0.914,6,0.146,-11.233,0,Consejo Sano - Instrumental (Remasterizado),0,16/08/1927,0.0549,120.624
+0.671,1927,0.96,['Ignacio Corsini'],0.483,165733,0.393,0,0BGbtGJh1E9Jbe96CHkcIU,1.49E-05,5,0.135,-15.239,0,Sueño Gaucho - Remasterizado,0,14/05/1927,0.108,93.552
+0.892,1927,0.988,['Francisco Canaro'],0.497,186027,0.327,0,0DAyqkfLj6WA0gQhE5cQri,0.947,4,0.106,-16.775,0,Como te Quería - Instrumental (Remasterizado),0,17/09/1927,0.0947,70.529
+0.473,1927,0.972,['Jimmie Rodgers'],0.664,177627,0.543,0,0FG1HU2XwTC6jPk2akxjb3,0,1,0.32,-4.933,0,Train Whistle Blues,0,1927,0.0374,110.225
+0.84,1927,0.991,['Francisco Canaro'],0.469,173413,0.285,0,0FnAWRtsJpD1H20X7hHM57,0.000265,7,0.136,-11.355,0,Todo Por Un Amor - Instrumental (Remasterizado),0,4/9/1927,0.194,177.733
+0.787,1927,0.995,['Ignacio Corsini'],0.492,186360,0.145,0,0HLAenSrBRcj6958yLfXeK,0.911,2,0.112,-23.743,0,Todo Mia - Remasterizado,0,14/05/1927,0.063,67.334
+0.562,1927,0.787,['Marty Murray'],0.307,186653,0.407,0,0I7jQoYxpyn8z37CdkEtqs,0.0015,4,0.243,-10.668,0,Heart of Gold,0,1927,0.034,174.542
+0.788,1927,0.994,['Francisco Canaro'],0.878,153000,0.145,0,0J4VO27ydiZy7L1snKNm7Y,0.257,3,0.105,-9.749,1,El Zorzal - Instrumental (Remasterizado),0,20/08/1927,0.119,121.583
+0.833,1927,0.994,['Francisco Canaro'],0.902,163000,0.187,0,0L3y8QdEPQhzBjmxZqagF1,0.741,0,0.155,-11.83,0,No Me Llores - Instrumental (Remasterizado),0,16/08/1927,0.086,119.881
+0.512,1927,0.945,['Jimmie Rodgers'],0.576,185267,0.466,0,0LWvS80qZcvEPkCLnF2jZL,0,1,0.181,-4.991,1,The Soldier's Sweetheart,0,1927,0.0293,125.045
+0.787,1927,0.995,['Ignacio Corsini'],0.652,135867,0.123,0,0LXCrTjewP3yyI6ig5W89j,0.0105,11,0.109,-20.222,0,Te Has Ido - Remasterizado,0,14/05/1927,0.124,129.202
+0.8,1927,0.995,"['Francisco Canaro', 'Agustín Irusta']",0.791,168320,0.0474,0,0NfIlp9ZOS0wHLqtpExbti,0.042,9,0.101,-17.978,0,¿Cuando Volverás? - Remasterizado,0,6/9/1927,0.0686,116.247
+0.0818,1927,0.988,"['Orchestre Piero Coppola', 'José De Trévi', 'Lucy Perelli', 'Piero Coppola']",0.364,238013,0.153,0,0SJAYBtwISMVnTJUqlMdlf,2.91E-06,1,0.134,-16.17,1,"Carmen : Acte III - Va-t'en, tu feras bien",0,1927,0.0911,97.602
+0.808,1927,0.994,['Francisco Canaro'],0.768,175053,0.204,0,0SuSEFqJQ3LRDSB4h6L3ag,0.933,5,0.113,-19.309,0,Resignación - Remasterizado,0,16/08/1927,0.0936,111.331
+0.859,1927,0.988,['Francisco Canaro'],0.743,174000,0.407,0,0ThV3emsygVWxuB7Etshx0,0.698,10,0.111,-13.008,0,Caído Del Cielo - Instrumental (Remasterizado),0,11/9/1927,0.0693,114.956
+0.105,1927,0.99,"['Paul Mania', 'Heinrich Schlusnus', 'Johann Heidenreich']",0.47,227182,0.0962,0,0U9ewWE1LW2t9e73F6JUda,0,0,0.305,-16.141,0,Im Rolandsbogen,0,1/1/1927,0.142,77.625
+0.883,1927,0.995,['Francisco Canaro'],0.733,161640,0.236,0,0UI4ptYRCXZ31Ttq2HG6Lu,0.885,5,0.11,-19.419,1,Lo Comprendí en tu Mirada - Instrumental (Remasterizado),0,20/08/1927,0.0681,120.351
+0.73,1927,0.0429,['Numba 9'],0.824,191112,0.363,1,0UU8y5xicqUQvaJSppEyOx,9.89E-05,7,0.37,-8.937,1,Smooth as Sade,0,1927,0.35,165.001
+0.443,1927,0.961,"['Orchestre Piero Coppola', 'Piero Coppola']",0.318,132427,0.137,0,0Uw7D9i1mjDuW3ZphqiVgz,0.888,9,0.323,-18.698,1,Carmen : Acte III - entracte,0,1927,0.0477,122.059
+0.109,1927,0.985,"['Richard Wagner', 'Mitglieder der Staatskapelle Berlin', 'Max von Schillings']",0.342,261787,0.183,0,0WYfplATC0zj9ucvRgR0HR,0.806,8,0.265,-16.968,1,"Parsifal, WWV 111: The Flower Maidens - Excerpt",0,1/1/1927,0.0428,118.22
+0.52,1927,0.834,['Georgius'],0.625,164440,0.295,0,0XqpggYu5I9RlszVDTI65b,0.818,7,0.0971,-15.43,0,Veux Tu Que J'te Fasse Un Dessin,0,1927,0.245,127.33
+0.513,1927,0.983,['Count Basie & His Orchestra; Vocal by Jimmy Rushing'],0.615,192693,0.0881,0,0Zop3YbzZNaAVookI0R2gt,0.0206,7,0.0791,-13.44,0,Lose The Blackout Blues - Live,0,1927,0.0541,87.084
+0.584,1927,0.995,['Ignacio Corsini'],0.606,181893,0.0995,0,0c3J9yHENWC4ZUInSNuANZ,0.743,8,0.0996,-20.278,0,Bendita Sea - Remasterizado,0,14/05/1927,0.172,72.043
+0.686,1927,0.991,['Francisco Canaro'],0.808,158347,0.341,0,0cIrLlndw8OQyZNi1hUYHF,0.735,5,0.111,-14.051,1,Pinta Brava - Instrumental (Remasterizado),0,20/08/1927,0.242,118.555
+0.533,1927,0.994,"['Orchestre Piero Coppola', 'Ch&#339;ur Piero Coppola', 'Piero Coppola']",0.611,109267,0.168,0,0cKaCN5hnXqNG3rLBQXhX6,0.839,2,0.177,-17.431,1,Carmen : Acte I - Avec la garde montante (Choeur des gamins),0,1927,0.0924,113.604
+0.831,1927,0.995,['Francisco Canaro Jazz Band'],0.695,149913,0.358,0,0cSwyKDOVPDpC8MWWxjuvZ,0.905,8,0.165,-14.167,1,Tea for Two - Remastered,0,12/1/1927,0.115,104.985
+0.895,1927,0.991,['Ignacio Corsini'],0.366,140907,0.385,0,0cUliqP1F59Y55GmkaRZf3,0.00234,0,0.319,-19.434,0,No Te Engañes Corazón - Remasterizado,0,14/05/1927,0.052,117.836
+0.0949,1927,0.0235,['Numba 9'],0.63,278622,0.723,1,0cpkqvPmf7kNmmvPYZjMwH,1.66E-05,0,0.186,-3.529,1,Trash Bags of That Sour,0,1927,0.049,156.888
+0.566,1927,0.198,['Numba 9'],0.609,231863,0.503,1,0dHWUBSmoHz956UurOZ9Ua,6.43E-05,6,0.178,-8.685,1,Higher Power Part Duece,0,1927,0.392,173.951
+0.886,1927,0.991,['Francisco Canaro'],0.741,179813,0.244,0,0dVVKDRVga2STlBrkmLvV5,0.786,2,0.18,-10.341,1,El Titán - Instrumental (Remasterizado),0,4/9/1927,0.364,116.237
+0.934,1927,0.996,['Francisco Canaro'],0.818,177000,0.171,0,0e4HTbCljcwNiqBP8A0PVa,0.919,9,0.112,-19.503,1,No Folling - Instrumental (Remasterizado),0,20/08/1927,0.295,111.451
+0.862,1927,0.994,"['Francisco Canaro', 'Agustín Irusta']",0.864,171013,0.121,0,0fpg6i17g2TZ4htuKKrTCV,0.615,11,0.156,-12.78,1,Cumpleaños - Remasterizado,0,4/9/1927,0.106,113.259
+0.864,1927,0.992,['Francisco Canaro'],0.771,170160,0.255,0,0hOmFux8O1GQROuEhpgsg1,0.382,2,0.182,-13.642,0,Matón - Instrumental (Remasterizado),0,16/08/1927,0.0659,114.336
+0.32,1927,0.568,['Numba 9'],0.461,264673,0.757,1,0hwDkCoXA68Hy297eSLAHT,0,4,0.146,-3.993,0,I Be on the Grind,0,1927,0.386,74.703
+0.39,1927,0.991,['Ignacio Corsini'],0.383,144040,0.211,0,0izy7qwMvC90HxTmQy03Hf,0.0774,7,0.367,-20.6,0,La Espera - Remasterizado,0,14/05/1927,0.0967,137.008
+0.83,1927,0.995,['Francisco Canaro'],0.823,162413,0.0772,0,0kU94wFJ8ONVUcBarD367D,0.924,0,0.101,-19.972,0,El Atorrante - Instrumental (Remasterizado),0,16/09/1927,0.285,119.665
+0.519,1927,0.954,['Jimmie Rodgers'],0.687,199040,0.499,0,0kn5QibDiYJKI4YdblzP23,0.000101,5,0.0813,-3.275,1,For the Sake of Days Gone By,0,1927,0.0284,117.165
+0.144,1927,0.985,"['Ludwig van Beethoven', 'Staatskapelle Berlin', 'Otto Klemperer']",0.289,524062,0.103,0,0kv2jK5ZMTLiPPKxm6aO06,0.203,5,0.143,-15.872,0,"Music To Goethe's Tragedy ""Egmont"", Op. 84: Overture",0,1/1/1927,0.0545,78.416
+0.928,1927,0.987,['Francisco Canaro'],0.916,172333,0.306,0,0lRkQU9EKgH2zqDywuSuSi,0.265,5,0.118,-10.526,0,Trago Amargo - Instrumental (Remasterizado),0,23/08/1927,0.126,116.38
+0.794,1927,0.988,"['Francisco Canaro', 'Agustín Irusta']",0.704,168667,0.326,0,0m2zzAhHz4DZHXYh6m0h0e,0.055,7,0.112,-15.719,0,Pebeta Canyengue - Remasterizado,0,11/9/1927,0.0662,114.426
+0.48,1927,0.995,['Ignacio Corsini'],0.537,124680,0.152,0,0mvD5e6BbyPuZ2bO6YFhNK,0.551,7,0.109,-23.692,1,El Batidor - Remasterizado,0,14/05/1927,0.15,118.191
+0.494,1927,0.995,['Francisco Canaro'],0.831,180413,0.0491,0,0nZi7fqHLJ6QtL5YgDAyRq,0.617,10,0.112,-20.249,1,La Señal Maldita - Instrumental (Remasterizado),0,16/09/1927,0.27,118.865
+0.895,1927,0.995,['Francisco Canaro'],0.869,160280,0.255,0,0ozu7awO2V1udkI0oSmMN1,0.94,0,0.114,-16.601,0,Amadeo - Instrumental (Remasterizado),0,20/08/1927,0.0998,115.488
+0.874,1927,0.963,['Memphis Minnie'],0.76,170320,0.496,0,0qw84Tgtbb6SlHW5sKas1Y,0.499,1,0.0723,-5.303,1,She Put Me Outdoors,0,1927,0.0398,122.746
+0.0431,1927,0.929,"['Pietro Mascagni', 'Staatskapelle Berlin']",0.204,237883,0.142,0,0siOTxYah5UhSYEgeb6HY6,0.889,5,0.305,-17.173,1,Cavalleria rusticana: Intermezzo sinfonico,2,1/1/1927,0.0481,82.853
+0.365,1927,0.991,['Tito Schipa'],0.469,194827,0.138,0,0vNDwA6xPhlWI72akZdAWW,4.92E-06,3,0.0983,-15.361,1,Napule Ca Nun More,0,1927,0.11,174.848
+0.873,1927,0.995,['Francisco Canaro'],0.778,166213,0.224,0,0wNVtuHkkEA7S15ZfLVafA,0.736,10,0.11,-16.093,1,Tiempos Que Fueron - Instrumental (Remasterizado),0,4/9/1927,0.13,118.181
+0.901,1927,0.977,['Ignacio Corsini'],0.623,129333,0.467,0,0xQHhyZvOVXM2ejG9OEv9z,0.0203,1,0.755,-16.211,0,Entre Sombras - Remasterizado,0,14/05/1927,0.31,131.779
+0.531,1927,0.99,['Francisco Canaro'],0.89,168000,0.236,0,0xjeejFHRNQpEj0tTccuYp,0.203,7,0.105,-10.36,0,El Chamuyo - Instrumental (Remasterizado),0,20/08/1927,0.11,116.841
+0.788,1927,0.989,['Ignacio Corsini'],0.726,128000,0.187,0,0y8gSunB92SrUhmZ30nPSz,0.474,3,0.114,-17.753,1,Picaflor - Remasterizado,0,14/05/1927,0.319,113.141
+0.524,1927,0.122,['Numba 9'],0.75,191765,0.34,1,0zeSDxsLftNTfxMnx3xDDj,0,6,0.248,-10.906,0,Baking Dough (Money on My Mind),0,1927,0.439,80.717
+0.115,1927,0.992,"['Orchestre Piero Coppola', 'Ch&#339;ur Piero Coppola', 'Piero Coppola']",0.358,237667,0.175,0,0zpuA5jfMQSUNZDAbvqAjR,0.197,4,0.371,-18.265,1,Carmen : Acte I - La cloche a sonné (Choeur des cigarières),0,1927,0.0879,81.101
+0.694,1927,0.971,['Henry Laverne'],0.544,203733,0.17,0,101TCSve8MqcWm6e1qlJlz,2.94E-05,5,0.714,-14.177,1,Les Épouseux Du Berry,0,1927,0.0459,112.591
+0.329,1927,0.0913,['Paul Bridgwater'],0.667,219347,0.251,0,10G4BjnvsGzRoREFaBkL03,0.00103,7,0.222,-11.528,1,Can't Stop Thinking About You,0,1927,0.0609,98.025
+0.587,1927,0.994,['Ignacio Corsini'],0.464,176573,0.138,0,10LM8gI5wk31mtGEzT4UMh,0.931,7,0.112,-25.512,0,Gurrumina - Remasterizado,0,14/05/1927,0.0641,62.439
+0.601,1927,0.994,['Ignacio Corsini'],0.671,143800,0.115,0,117kKem7bgSENTwdmyYUl7,0.664,5,0.121,-24.153,1,Fumando Espero - Remasterizado,0,14/05/1927,0.168,72.234
+0.853,1927,0.995,['Francisco Canaro'],0.862,164880,0.319,0,119fjkAmxJuPdjPQ0va8QP,0.928,11,0.111,-19.897,0,Chonguita - Instrumental (Remasterizado),0,20/08/1927,0.0711,119.452
+0.906,1927,0.991,['Francisco Canaro'],0.858,153120,0.18,0,12iEVAJuz1vKKp9k6FD7TW,8.77E-06,9,0.143,-12.736,1,Vuelve Arrepentida - Instrumental (Remasterizado),0,6/9/1927,0.192,113.354
+0.657,1927,0.993,['Francisco Canaro'],0.738,180013,0.173,0,13ZrfHNfVnzIZlXyetXke3,0.926,7,0.219,-17.355,0,Mientras Rezonga un Fuelle - Instrumental (Remasterizado),0,16/09/1927,0.185,116.851
+0.942,1927,0.995,['Francisco Canaro'],0.827,147787,0.314,0,15ZszGS5wDRO8hK0oxZoEE,0.917,3,0.113,-16.983,1,Bobadilla - Instrumental (Remasterizado),0,16/08/1927,0.0933,113.871
+0.831,1927,0.994,['Francisco Canaro'],0.821,181680,0.318,0,16nrGhfLLuytWbEJYQOdIn,0.889,9,0.11,-14.095,0,Canta Claro - Instrumental (Remasterizado),0,11/9/1927,0.0692,114.04
+0.523,1927,0.994,['Francisco Canaro'],0.753,186160,0.226,0,18Cx3HGG28RQ41GE0M3HPe,0.939,1,0.114,-17.934,0,La Sombra de Milonguita - Instrumental (Remasterizado),0,16/08/1927,0.0738,110.073
+0.373,1927,0.99,"['Orchestre Piero Coppola', 'Piero Coppola', 'José De Trévi', 'Lucy Perelli']",0.47,300133,0.139,0,18w2InbZcFPT0I9whJlBvh,2.31E-06,2,0.321,-18.041,0,"Carmen : Acte II - Dragon d'Alcala, Halte-là, qui va là? (Chanson) - Je vais danser en votre honneurv (Duo)",0,1927,0.116,118.656
+0.579,1927,0.82,['Jimmie Rodgers'],0.502,189987,0.618,0,1AXwopq9LROy4G2VFKHGFz,0.000142,7,0.0842,-3.272,1,The Brakeman's Blues,0,1927,0.0287,80.346
+0.944,1927,0.995,['Francisco Canaro'],0.823,185813,0.223,0,1AbX7Jrf43Mtwqqaoe5dqL,0.568,4,0.322,-12.275,1,Mocosita - Instrumental (Remasterizado),0,4/9/1927,0.082,115.535
+0.586,1927,0.995,['Francisco Canaro'],0.77,190467,0.109,0,1AvJLTJFpojn0WJMPJAZqW,0.875,1,0.109,-26.786,1,La Tablada - Instrumental (Remasterizado),0,16/08/1927,0.204,113.972
+0.894,1927,0.995,['Francisco Canaro'],0.919,157493,0.207,0,1BLPoS2joljvu07Bz26oWW,0.843,10,0.109,-16.224,0,La Bataclana - Instrumental (Remasterizado),0,16/08/1927,0.272,119.512
+0.822,1927,0.994,"['Bix Beiderbecke', 'The Wolverines']",0.764,158178,0.356,0,1BQvk4AP6PaveAzBvfMEiM,0.947,4,0.214,-8.984,0,Susie,1,26/06/1927,0.0382,101.386
+0.686,1927,0.795,['Georges Milton'],0.685,165000,0.34,0,1CUGqnCuRcCwv41RM6dp4J,0,9,0.0612,-10.789,0,Les Artichauts,0,1927,0.336,151.711
+0.0817,1927,0.991,"['Orchestre Piero Coppola', 'José De Trévi', 'Piero Coppola']",0.276,237467,0.259,0,1DZW15NutmXB4lvfiVu9Xa,0.0468,1,0.392,-15.604,1,Carmen : Acte II - La fleur que tu m'avais jetée (Air),0,1927,0.0424,97.213
+0.666,1927,0.0486,['Numba 9'],0.436,182622,0.709,1,1EP3FZb36DEY1RsrZiZ4lD,0,8,0.168,-3.178,0,Ole Bitch,0,1927,0.281,88.408
+0.499,1927,0.959,"['Giuseppe Verdi', 'Staatskapelle Berlin', 'Pietro Mascagni']",0.43,283360,0.273,0,1EXldghDaAbIkCaxd0gsqV,0.915,5,0.55,-19.847,0,Aida: Ballet Music,0,1/1/1927,0.0486,138.036
+0.346,1927,0.994,['Tito Schipa'],0.529,149667,0.152,0,1Exdul3YDcU339VRDaj4hH,3.74E-05,5,0.12,-13.19,1,Sincerita',0,1927,0.0461,127.888
+0.714,1927,0.993,['Francisco Canaro'],0.837,162000,0.201,0,1Hu1q3H3RfSMLQVWBLk44K,0.755,0,0.118,-12.475,0,Mama! Cuco! - Instrumental (Remasterizado),0,16/08/1927,0.243,121.326
+0.247,1927,0.99,['Tito Schipa'],0.152,150840,0.184,0,1HxS8CqsNBghKqAUuJFY8b,0.00257,9,0.101,-18.765,1,O Marenariello,1,1927,0.0404,68.333
+0.66,1927,0.0863,"['Why Not', 'Paul Bridgwater']",0.634,198347,0.811,0,1K1SIQwZOcnT37y3kwcOFp,3.17E-05,11,0.133,-4.406,0,Bottle of Wine,0,1927,0.0287,112.538
+0.716,1927,0.994,"['Bix Beiderbecke', 'The Wolverines']",0.668,150984,0.403,0,1Kd6wA2wS75k7vGTpSAWaO,0.764,10,0.108,-8.055,1,Copenhagen,2,26/06/1927,0.0347,110.587
+0.776,1927,0.989,['Francisco Canaro'],0.894,161933,0.213,0,1KmlV45OPOjoZqDaeQSsIX,0.0867,1,0.099,-8.422,0,Muñeca de Carne - Remasterizado,0,16/08/1927,0.103,120.825
+0.769,1927,0.828,['Georgius'],0.683,185333,0.396,0,1LpRZcI6x5jEFpyZGYNK4o,0.00343,7,0.103,-14.554,0,Qu'est Ce Qu'il Faut Faire Pour Gagner Son Beefsteak,0,1927,0.392,64.177
+0.962,1927,0.993,['Francisco Canaro'],0.82,160507,0.22,0,1MpAeWRaZ4MOpzMhcEngsP,0.711,4,0.11,-13.389,1,"Hi Diddle, Diddle - Instrumental (Remasterizado)",0,20/08/1927,0.0544,114.859
+0.894,1927,0.995,['Francisco Canaro'],0.808,179413,0.171,0,1MruyHv1npuhC2klDfISW9,0.885,10,0.112,-17.619,1,El Viejo Tango - Instrumental (Remasterizado),0,16/09/1927,0.291,119.755
+0.818,1927,0.994,['Francisco Canaro'],0.71,178480,0.37,0,1N34Q1974R3U60nXue2EFS,0.296,5,0.319,-10.905,1,Perfume de Mujer - Remasterizado,0,11/9/1927,0.108,111.279
+0.947,1927,0.978,['Ignacio Corsini'],0.631,94933,0.504,0,1NEVkx4XEFStROWwVFuGep,0.0526,1,0.744,-16.106,1,Fruto Bendito - Remasterizado,0,14/05/1927,0.362,126.01
+0.331,1927,0.732,['Paul Bridgwater'],0.615,194133,0.197,0,1NJ2hseLzdFsWXzIMo5z9W,2.29E-05,7,0.0646,-14.666,1,Then We Say Goodbye,0,1927,0.0449,78.256
+0.691,1927,0.993,"['Francisco Canaro', 'Agustín Irusta']",0.84,180520,0.0843,0,1NblApq4h79IUOtJcDiF77,2.67E-05,1,0.116,-15.339,1,Amurado - Remasterizado,0,6/9/1927,0.165,109.465
+0.198,1927,0.988,"['Orchestre Piero Coppola', 'Piero Coppola', 'Lucy Perelli', 'Louis Musy']",0.358,254840,0.0846,0,1OqHkSuZVwvWiWc2Ziplzw,7.53E-05,3,0.31,-18.499,0,"Carmen : Acte III - Holà, holà, José... (Duo)",0,1927,0.0596,97.688
+0.67,1927,0.995,['Francisco Canaro'],0.502,192680,0.274,0,1Q0uAXvrarrG8UHrs4LRGD,0.914,8,0.111,-15.308,1,Saturnia - Instrumental (Remasterizado),0,11/9/1927,0.114,72.634
+0.745,1927,0.918,['Claude Hopkins and His Orchestra'],0.704,167267,0.395,0,1QxCkn83XrQnUnY6WYR0SA,0.617,7,0.224,-11.47,1,Shake Your Ashes - Live,1,1927,0.107,141.554
+0.933,1927,0.903,['Biscot'],0.805,155173,0.243,0,1RI5siZ05hdrYchSoIxCPH,0,2,0.0421,-12.972,1,Elle Sait Conduire Une Automobile Cécile,0,1927,0.0857,136.66
+0.513,1927,0.574,['Marty Murray'],0.659,159667,0.444,0,1RoG96lWF9sQbUSQusM5Wh,0.000751,7,0.11,-9.874,1,Tequila Sunrise,0,1927,0.0299,119.929
